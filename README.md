@@ -53,7 +53,12 @@ placed in the MRI (the slice), then the piece is matched to MRI features in that
 | off-the-shelf DINOv2, in its own slice | 12 % | 0 % |
 | **JEPA, in its own slice** | **85 %** | 48 % |
 | piece alone, whole brain | 55 % | 29 % |
-| **parent section first, whole brain** | **81 %** | 51 % |
+| parent section first, then JEPA in that slice | 80 % | 52 % |
+| **parent section first, then the piece found in its own section** | **98 %** | **99 %** |
+
+With its parent section available, the piece is found inside that section (same contrast, nearly exact) and carried
+into the MRI through the section's in-plane alignment: typical error **0.8 mm** (clean) and 1.1 mm (damaged), 82 %
+and 78 % within 2 mm, 320 real pieces. Without a section, the piece-alone route applies.
 
 ### Which MRI slice does a raw section belong to?
 

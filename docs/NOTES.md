@@ -75,6 +75,7 @@ All images are handled tissue-bright on a zero background (histology is inverted
 23. `23_patch_pipeline_figure.py` — one real histology piece: section → slice → spot in the MRI
 24. `24_oblique_rotation_test.py` — oblique (0–45°) AND rotated (360°) sections: tilt, rotation and alignment scored
 25. `25_3d_figures.py patch|oblique` — 3D views of the found plane / spot inside the brain
+26. `26_patch_improve.py` — sharper piece localisation: piece found in its own section + section in-plane alignment
 
 `pytest tests` checks the sampler against the voxel grid, rotations, scale and gradients.
 
@@ -211,6 +212,17 @@ patch draw (the run was resumed after a laptop suspend).
 Histology resliced at 0/15/30/45° from coronal (random direction, roll ±10°), searched with no prior: 100 % within
 5° and 2 mm at every tilt, in the MRI (median angle error 0.29–0.46°, plane 0.06–0.13 mm) and in the histology
 volume (0.02–0.03°, ≤ 0.06 mm). ~4–5 s each. 90° (sagittal/axial) cuts would need the grid around those axes.
+
+### Sharper piece localisation (`scripts/26_patch_improve.py`, same 320 pieces, truth + 1.0 mm SbR offset)
+
+| section placed first, then … | within 10 mm (clean / damaged) | within 2 mm | median |
+|---|---|---|---|
+| JEPA in that MRI slice | 80 % / 52 % | 8 % / 2 % | 5.7 / 9.6 mm |
+| JEPA on a 5.6 mm grid (4 half-cell shifted planes) | 78 % / 54 % | 9 % / 1 % | 5.5 / 9.2 mm |
+| piece found in its own section (NCC), carried by the 3D pose | 98 % / 99 % | 60 % / 57 % | 1.7 / 1.8 mm |
+| **+ section aligned in-plane inside its MRI plane** | **98 % / 99 %** | **82 % / 78 %** | **0.8 / 1.1 mm** |
+
+Needs the piece's own section (same-contrast matching is nearly exact); isolated blocks rely on the piece-alone route.
 
 ### Full pose of oblique, rotated sections (`scripts/24_oblique_rotation_test.py`, 10 per tilt)
 
