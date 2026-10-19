@@ -1,0 +1,42 @@
+step 0  held-out: median error 79.1 mm, within 10 mm 0.01
+step 100  loss_loc 3.641  loss_jepa 0.315  train_err_mm 24.166  minutes 0.217  VRAM 1.79 GB
+step 200  loss_loc 3.190  loss_jepa 0.257  train_err_mm 12.419  minutes 0.426  VRAM 1.79 GB
+step 300  loss_loc 2.963  loss_jepa 0.252  train_err_mm 10.807  minutes 0.635  VRAM 1.79 GB
+step 400  loss_loc 3.056  loss_jepa 0.246  train_err_mm 13.606  minutes 0.845  VRAM 1.79 GB
+step 500  loss_loc 2.926  loss_jepa 0.230  train_err_mm 8.782  minutes 1.055  val_median_mm 9.839  val_within_10mm 0.508  VRAM 1.79 GB
+step 600  loss_loc 2.870  loss_jepa 0.252  train_err_mm 11.143  minutes 1.269  VRAM 1.79 GB
+step 700  loss_loc 2.830  loss_jepa 0.265  train_err_mm 7.694  minutes 1.479  VRAM 1.79 GB
+step 800  loss_loc 2.923  loss_jepa 0.319  train_err_mm 8.809  minutes 1.690  VRAM 1.79 GB
+step 900  loss_loc 2.973  loss_jepa 0.304  train_err_mm 9.617  minutes 1.900  VRAM 1.79 GB
+step 1000  loss_loc 2.720  loss_jepa 0.280  train_err_mm 9.235  minutes 2.110  val_median_mm 8.989  val_within_10mm 0.547  VRAM 1.79 GB
+step 1100  loss_loc 2.715  loss_jepa 0.306  train_err_mm 9.364  minutes 2.323  VRAM 1.79 GB
+step 1200  loss_loc 2.698  loss_jepa 0.255  train_err_mm 8.635  minutes 2.534  VRAM 1.79 GB
+step 1300  loss_loc 2.603  loss_jepa 0.226  train_err_mm 7.767  minutes 2.743  VRAM 1.79 GB
+step 1400  loss_loc 2.616  loss_jepa 0.268  train_err_mm 8.246  minutes 2.953  VRAM 1.79 GB
+step 1500  loss_loc 2.473  loss_jepa 0.259  train_err_mm 6.997  minutes 3.162  val_median_mm 7.879  val_within_10mm 0.625  VRAM 1.79 GB
+step 1600  loss_loc 2.366  loss_jepa 0.255  train_err_mm 6.093  minutes 3.375  VRAM 1.79 GB
+step 1700  loss_loc 2.457  loss_jepa 0.269  train_err_mm 6.261  minutes 3.585  VRAM 1.79 GB
+step 1800  loss_loc 2.542  loss_jepa 0.263  train_err_mm 7.473  minutes 3.796  VRAM 1.79 GB
+step 1900  loss_loc 2.634  loss_jepa 0.313  train_err_mm 8.653  minutes 4.007  VRAM 1.79 GB
+step 2000  loss_loc 2.494  loss_jepa 0.287  train_err_mm 5.727  minutes 4.223  val_median_mm 5.769  val_within_10mm 0.672  VRAM 1.79 GB
+step 2100  loss_loc 2.459  loss_jepa 0.295  train_err_mm 7.589  minutes 4.447  VRAM 1.79 GB
+step 2200  loss_loc 2.505  loss_jepa 0.300  train_err_mm 6.812  minutes 4.667  VRAM 1.79 GB
+step 2300  loss_loc 2.349  loss_jepa 0.271  train_err_mm 6.512  minutes 4.887  VRAM 1.79 GB
+step 2400  loss_loc 2.459  loss_jepa 0.346  train_err_mm 6.657  minutes 5.109  VRAM 1.79 GB
+step 2500  loss_loc 2.447  loss_jepa 0.291  train_err_mm 4.948  minutes 5.330  val_median_mm 7.122  val_within_10mm 0.695  VRAM 1.79 GB
+step 2600  loss_loc 2.507  loss_jepa 0.300  train_err_mm 7.547  minutes 5.554  VRAM 1.79 GB
+step 2700  loss_loc 2.444  loss_jepa 0.314  train_err_mm 6.053  minutes 5.774  VRAM 1.79 GB
+step 2800  loss_loc 2.375  loss_jepa 0.287  train_err_mm 5.381  minutes 5.996  VRAM 1.79 GB
+step 2900  loss_loc 2.336  loss_jepa 0.326  train_err_mm 6.800  minutes 6.218  VRAM 1.79 GB
+step 3000  loss_loc 2.426  loss_jepa 0.299  train_err_mm 7.299  minutes 6.441  val_median_mm 6.119  val_within_10mm 0.773  VRAM 1.79 GB
+step 3100  loss_loc 2.333  loss_jepa 0.289  train_err_mm 5.824  minutes 6.666  VRAM 1.79 GB
+step 3200  loss_loc 2.348  loss_jepa 0.278  train_err_mm 5.215  minutes 6.887  VRAM 1.79 GB
+step 3300  loss_loc 2.375  loss_jepa 0.287  train_err_mm 8.323  minutes 7.107  VRAM 1.79 GB
+step 3400  loss_loc 2.270  loss_jepa 0.309  train_err_mm 5.946  minutes 7.325  VRAM 1.79 GB
+step 3500  loss_loc 2.362  loss_jepa 0.309  train_err_mm 6.800  minutes 7.544  val_median_mm 6.325  val_within_10mm 0.734  VRAM 1.79 GB
+step 3600  loss_loc 2.308  loss_jepa 0.325  train_err_mm 6.847  minutes 7.766  VRAM 1.79 GB
+step 3700  loss_loc 2.359  loss_jepa 0.281  train_err_mm 6.512  minutes 7.984  VRAM 1.79 GB
+step 3800  loss_loc 2.352  loss_jepa 0.280  train_err_mm 6.261  minutes 8.203  VRAM 1.79 GB
+step 3900  loss_loc 2.339  loss_jepa 0.318  train_err_mm 7.155  minutes 8.420  VRAM 1.79 GB
+step 4000  loss_loc 2.421  loss_jepa 0.337  train_err_mm 6.013  minutes 8.637  val_median_mm 5.906  val_within_10mm 0.766  VRAM 1.79 GB
+saved /home/hbp/wheres_my_slice/models/patch_jepa.pt

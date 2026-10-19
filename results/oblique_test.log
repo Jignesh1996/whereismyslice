@@ -1,0 +1,90 @@
+bigbrain_mri tilt    0 #00  true tilt   0.0 found   0.6 deg | angle err  0.57 deg  plane offset  0.21 mm   5.0s
+bigbrain_mri tilt    0 #01  true tilt   0.0 found   0.2 deg | angle err  0.18 deg  plane offset  0.07 mm   3.9s
+bigbrain_mri tilt    0 #02  true tilt   0.0 found   0.5 deg | angle err  0.45 deg  plane offset  0.18 mm   3.9s
+bigbrain_mri tilt    0 #03  true tilt   0.0 found   0.7 deg | angle err  0.70 deg  plane offset  0.01 mm   3.9s
+bigbrain_mri tilt    0 #04  true tilt   0.0 found   0.5 deg | angle err  0.46 deg  plane offset  0.22 mm   3.9s
+bigbrain_mri tilt    0 #05  true tilt   0.0 found   0.2 deg | angle err  0.21 deg  plane offset  0.08 mm   4.2s
+bigbrain_mri tilt    0 #06  true tilt   0.0 found   0.3 deg | angle err  0.26 deg  plane offset  0.02 mm   4.1s
+bigbrain_mri tilt    0 #07  true tilt   0.0 found   0.4 deg | angle err  0.40 deg  plane offset  0.02 mm   4.0s
+bigbrain_mri tilt    0 #08  true tilt   0.0 found   0.8 deg | angle err  0.77 deg  plane offset  0.50 mm   3.9s
+bigbrain_mri tilt    0 #09  true tilt   0.0 found   1.1 deg | angle err  1.12 deg  plane offset  0.56 mm   3.9s
+bigbrain_mri tilt   15 #10  true tilt  15.0 found  14.6 deg | angle err  0.40 deg  plane offset  0.03 mm   3.9s
+bigbrain_mri tilt   15 #11  true tilt  15.0 found  15.4 deg | angle err  0.81 deg  plane offset  0.41 mm   3.9s
+bigbrain_mri tilt   15 #12  true tilt  15.0 found  14.6 deg | angle err  0.45 deg  plane offset  0.40 mm   3.9s
+bigbrain_mri tilt   15 #13  true tilt  15.0 found  15.2 deg | angle err  0.36 deg  plane offset  0.02 mm   3.9s
+bigbrain_mri tilt   15 #14  true tilt  15.0 found  15.1 deg | angle err  0.26 deg  plane offset  0.07 mm   4.0s
+bigbrain_mri tilt   15 #15  true tilt  15.0 found  15.0 deg | angle err  0.06 deg  plane offset  0.06 mm   3.9s
+bigbrain_mri tilt   15 #16  true tilt  15.0 found  14.4 deg | angle err  0.86 deg  plane offset  0.08 mm   3.9s
+bigbrain_mri tilt   15 #17  true tilt  15.0 found  13.8 deg | angle err  1.16 deg  plane offset  0.76 mm   3.9s
+bigbrain_mri tilt   15 #18  true tilt  15.0 found  15.3 deg | angle err  0.42 deg  plane offset  0.02 mm   3.9s
+bigbrain_mri tilt   15 #19  true tilt  15.0 found  14.3 deg | angle err  0.72 deg  plane offset  0.08 mm   3.9s
+bigbrain_mri tilt   30 #20  true tilt  30.0 found  29.6 deg | angle err  0.43 deg  plane offset  0.06 mm   8.8s
+bigbrain_mri tilt   30 #21  true tilt  29.8 found  29.9 deg | angle err  0.55 deg  plane offset  0.02 mm   4.9s
+bigbrain_mri tilt   30 #22  true tilt  30.0 found  29.8 deg | angle err  0.18 deg  plane offset  0.05 mm   4.9s
+bigbrain_mri tilt   30 #23  true tilt  29.7 found  30.0 deg | angle err  0.29 deg  plane offset  0.12 mm   5.0s
+bigbrain_mri tilt   30 #24  true tilt  29.9 found  29.5 deg | angle err  0.44 deg  plane offset  0.25 mm   5.1s
+bigbrain_mri tilt   30 #25  true tilt  29.9 found  30.2 deg | angle err  0.34 deg  plane offset  0.03 mm   5.2s
+bigbrain_mri tilt   30 #26  true tilt  29.7 found  29.4 deg | angle err  0.38 deg  plane offset  0.04 mm   5.2s
+bigbrain_mri tilt   30 #27  true tilt  29.8 found  29.7 deg | angle err  0.34 deg  plane offset  0.00 mm   5.2s
+bigbrain_mri tilt   30 #28  true tilt  29.9 found  29.9 deg | angle err  0.19 deg  plane offset  0.27 mm   5.0s
+bigbrain_mri tilt   30 #29  true tilt  29.7 found  29.6 deg | angle err  0.70 deg  plane offset  0.29 mm   4.9s
+bigbrain_mri tilt   45 #30  true tilt  44.5 found  45.0 deg | angle err  0.44 deg  plane offset  0.24 mm   4.9s
+bigbrain_mri tilt   45 #31  true tilt  43.8 found  43.9 deg | angle err  0.26 deg  plane offset  0.49 mm   5.0s
+bigbrain_mri tilt   45 #32  true tilt  44.6 found  44.5 deg | angle err  0.16 deg  plane offset  0.06 mm   5.1s
+bigbrain_mri tilt   45 #33  true tilt  43.8 found  44.0 deg | angle err  0.33 deg  plane offset  0.04 mm   5.1s
+bigbrain_mri tilt   45 #34  true tilt  44.4 found  44.4 deg | angle err  0.16 deg  plane offset  0.09 mm   5.1s
+bigbrain_mri tilt   45 #35  true tilt  45.0 found  45.2 deg | angle err  0.75 deg  plane offset  0.16 mm   5.1s
+bigbrain_mri tilt   45 #36  true tilt  44.2 found  43.7 deg | angle err  0.84 deg  plane offset  0.26 mm   5.0s
+bigbrain_mri tilt   45 #37  true tilt  44.9 found  45.0 deg | angle err  0.10 deg  plane offset  0.09 mm   4.8s
+bigbrain_mri tilt   45 #38  true tilt  44.3 found  44.4 deg | angle err  0.88 deg  plane offset  0.23 mm   5.0s
+bigbrain_mri tilt   45 #39  true tilt  45.0 found  45.0 deg | angle err  0.15 deg  plane offset  0.08 mm   5.1s
+bigbrain_400 tilt    0 #00  true tilt   0.0 found   0.0 deg | angle err  0.04 deg  plane offset  0.06 mm   4.2s
+bigbrain_400 tilt    0 #01  true tilt   0.0 found   0.0 deg | angle err  0.03 deg  plane offset  0.06 mm   4.1s
+bigbrain_400 tilt    0 #02  true tilt   0.0 found   0.0 deg | angle err  0.02 deg  plane offset  0.00 mm   4.2s
+bigbrain_400 tilt    0 #03  true tilt   0.0 found   0.1 deg | angle err  0.05 deg  plane offset  0.00 mm   4.2s
+bigbrain_400 tilt    0 #04  true tilt   0.0 found   0.0 deg | angle err  0.03 deg  plane offset  0.10 mm   4.2s
+bigbrain_400 tilt    0 #05  true tilt   0.0 found   0.0 deg | angle err  0.02 deg  plane offset  0.07 mm   4.2s
+bigbrain_400 tilt    0 #06  true tilt   0.0 found   0.0 deg | angle err  0.04 deg  plane offset  0.06 mm   4.2s
+bigbrain_400 tilt    0 #07  true tilt   0.0 found   0.2 deg | angle err  0.25 deg  plane offset  0.12 mm   4.2s
+bigbrain_400 tilt    0 #08  true tilt   0.0 found   0.0 deg | angle err  0.00 deg  plane offset  0.07 mm   4.1s
+bigbrain_400 tilt    0 #09  true tilt   0.0 found   0.2 deg | angle err  0.17 deg  plane offset  0.05 mm   4.1s
+bigbrain_400 tilt   15 #10  true tilt  15.0 found  15.0 deg | angle err  0.02 deg  plane offset  0.00 mm   4.2s
+bigbrain_400 tilt   15 #11  true tilt  15.0 found  15.1 deg | angle err  0.16 deg  plane offset  0.02 mm   4.2s
+bigbrain_400 tilt   15 #12  true tilt  15.0 found  15.0 deg | angle err  0.01 deg  plane offset  0.01 mm   4.1s
+bigbrain_400 tilt   15 #13  true tilt  15.0 found  15.0 deg | angle err  0.01 deg  plane offset  0.01 mm   4.2s
+bigbrain_400 tilt   15 #14  true tilt  15.0 found  15.0 deg | angle err  0.01 deg  plane offset  0.00 mm   4.2s
+bigbrain_400 tilt   15 #15  true tilt  15.0 found  15.0 deg | angle err  0.01 deg  plane offset  0.00 mm   4.2s
+bigbrain_400 tilt   15 #16  true tilt  15.0 found  14.9 deg | angle err  0.10 deg  plane offset  0.00 mm   4.2s
+bigbrain_400 tilt   15 #17  true tilt  15.0 found  15.0 deg | angle err  0.02 deg  plane offset  0.01 mm   4.1s
+bigbrain_400 tilt   15 #18  true tilt  15.0 found  15.0 deg | angle err  0.02 deg  plane offset  0.00 mm   4.1s
+bigbrain_400 tilt   15 #19  true tilt  15.0 found  15.1 deg | angle err  0.05 deg  plane offset  0.02 mm   4.1s
+bigbrain_400 tilt   30 #20  true tilt  30.0 found  29.9 deg | angle err  0.09 deg  plane offset  0.06 mm   4.1s
+bigbrain_400 tilt   30 #21  true tilt  29.8 found  29.8 deg | angle err  0.03 deg  plane offset  0.00 mm   3.9s
+bigbrain_400 tilt   30 #22  true tilt  30.0 found  30.0 deg | angle err  0.01 deg  plane offset  0.00 mm   3.9s
+bigbrain_400 tilt   30 #23  true tilt  29.7 found  29.8 deg | angle err  0.01 deg  plane offset  0.01 mm   4.0s
+bigbrain_400 tilt   30 #24  true tilt  29.9 found  29.9 deg | angle err  0.01 deg  plane offset  0.01 mm   4.1s
+bigbrain_400 tilt   30 #25  true tilt  29.9 found  29.9 deg | angle err  0.02 deg  plane offset  0.01 mm   4.2s
+bigbrain_400 tilt   30 #26  true tilt  29.7 found  29.9 deg | angle err  0.30 deg  plane offset  0.17 mm   4.1s
+bigbrain_400 tilt   30 #27  true tilt  29.8 found  29.8 deg | angle err  0.16 deg  plane offset  0.08 mm   4.2s
+bigbrain_400 tilt   30 #28  true tilt  29.9 found  29.9 deg | angle err  0.03 deg  plane offset  0.00 mm   4.2s
+bigbrain_400 tilt   30 #29  true tilt  29.7 found  29.7 deg | angle err  0.02 deg  plane offset  0.01 mm   4.1s
+bigbrain_400 tilt   45 #30  true tilt  44.5 found  44.5 deg | angle err  0.02 deg  plane offset  0.02 mm   4.1s
+bigbrain_400 tilt   45 #31  true tilt  43.8 found  43.9 deg | angle err  0.14 deg  plane offset  0.06 mm   4.2s
+bigbrain_400 tilt   45 #32  true tilt  44.6 found  44.6 deg | angle err  0.02 deg  plane offset  0.03 mm   4.2s
+bigbrain_400 tilt   45 #33  true tilt  43.8 found  43.8 deg | angle err  0.01 deg  plane offset  0.02 mm   4.2s
+bigbrain_400 tilt   45 #34  true tilt  44.4 found  44.4 deg | angle err  0.01 deg  plane offset  0.00 mm   4.2s
+bigbrain_400 tilt   45 #35  true tilt  45.0 found  45.0 deg | angle err  0.02 deg  plane offset  0.02 mm   4.2s
+bigbrain_400 tilt   45 #36  true tilt  44.2 found  44.2 deg | angle err  0.04 deg  plane offset  0.03 mm   4.1s
+bigbrain_400 tilt   45 #37  true tilt  44.9 found  44.9 deg | angle err  0.02 deg  plane offset  0.01 mm   4.1s
+bigbrain_400 tilt   45 #38  true tilt  44.3 found  44.3 deg | angle err  0.03 deg  plane offset  0.03 mm   4.2s
+bigbrain_400 tilt   45 #39  true tilt  45.0 found  45.0 deg | angle err  0.03 deg  plane offset  0.03 mm   4.1s
+                        n  angle_err_deg  offset_mm  within_2mm_5deg  seconds
+target       tilt_set                                                        
+bigbrain_400 0         10           0.03       0.06              1.0     4.17
+             15        10           0.02       0.01              1.0     4.16
+             30        10           0.02       0.01              1.0     4.13
+             45        10           0.02       0.02              1.0     4.16
+bigbrain_mri 0         10           0.46       0.13              1.0     3.91
+             15        10           0.44       0.08              1.0     3.88
+             30        10           0.36       0.06              1.0     5.07
+             45        10           0.29       0.13              1.0     5.05

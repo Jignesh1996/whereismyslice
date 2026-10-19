@@ -1,0 +1,104 @@
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+3D bank: 1395 planes, 174 MB
+slice 026 clean   34.9 mm | 2D classical  27.7 frozen   1.4 JEPA   1.4 sub   5.5 JEPA+refine   6.2 | 3D JEPA   2.2 +refine   0.5 mm
+slice 026 clean   42.3 mm | 2D classical  28.6 frozen  12.1 JEPA  15.6 sub  10.8 JEPA+refine  14.2 | 3D JEPA  14.9 +refine  20.2 mm
+slice 026 damaged 36.7 mm | 2D classical   2.6 frozen  50.4 JEPA  15.4 sub  11.8 JEPA+refine   2.6 | 3D JEPA   6.8 +refine  17.9 mm
+slice 026 damaged 34.6 mm | 2D classical  30.7 frozen  56.7 JEPA   1.9 sub   2.4 JEPA+refine  30.7 | 3D JEPA  69.1 +refine  58.5 mm
+slice 027 clean   37.0 mm | 2D classical  16.2 frozen  28.7 JEPA   3.3 sub   1.3 JEPA+refine  16.2 | 3D JEPA   3.1 +refine  17.6 mm
+slice 027 clean   41.3 mm | 2D classical  29.5 frozen  20.9 JEPA   5.9 sub   9.9 JEPA+refine  13.2 | 3D JEPA   6.7 +refine  11.3 mm
+slice 027 damaged 32.3 mm | 2D classical  12.6 frozen  23.8 JEPA   2.8 sub   6.2 JEPA+refine  12.6 | 3D JEPA   3.2 +refine  27.8 mm
+slice 027 damaged 24.9 mm | 2D classical   5.0 frozen  44.5 JEPA   3.9 sub   8.4 JEPA+refine   5.0 | 3D JEPA   4.1 +refine   4.9 mm
+slice 045 clean   23.4 mm | 2D classical  46.4 frozen  47.1 JEPA  10.1 sub   6.3 JEPA+refine  28.4 | 3D JEPA  12.2 +refine  17.9 mm
+slice 045 clean   25.1 mm | 2D classical  20.7 frozen  18.3 JEPA   6.3 sub   0.6 JEPA+refine  13.0 | 3D JEPA   9.7 +refine  14.5 mm
+slice 045 damaged 24.3 mm | 2D classical  38.0 frozen  53.1 JEPA   3.9 sub   3.1 JEPA+refine  38.0 | 3D JEPA  24.1 +refine  58.0 mm
+slice 045 damaged 39.9 mm | 2D classical  10.0 frozen  16.4 JEPA   1.7 sub   0.8 JEPA+refine  10.0 | 3D JEPA   4.8 +refine  37.8 mm
+slice 064 clean   24.0 mm | 2D classical  43.6 frozen  61.0 JEPA  38.7 sub  34.1 JEPA+refine  43.6 | 3D JEPA   7.9 +refine   4.0 mm
+slice 064 clean   36.3 mm | 2D classical  57.9 frozen  52.7 JEPA   4.8 sub   2.9 JEPA+refine  57.9 | 3D JEPA   7.2 +refine  63.5 mm
+slice 064 damaged 36.4 mm | 2D classical  11.4 frozen  25.2 JEPA  21.6 sub  23.7 JEPA+refine  11.4 | 3D JEPA  26.2 +refine  34.2 mm
+slice 064 damaged 29.5 mm | 2D classical  52.6 frozen  36.3 JEPA  29.1 sub  34.5 JEPA+refine  52.6 | 3D JEPA  24.3 +refine  17.7 mm
+slice 094 clean   24.2 mm | 2D classical   1.3 frozen  29.7 JEPA   7.4 sub   4.2 JEPA+refine   1.8 | 3D JEPA   7.2 +refine   1.7 mm
+slice 094 clean   25.5 mm | 2D classical  10.5 frozen  52.0 JEPA   7.4 sub   6.1 JEPA+refine  25.8 | 3D JEPA  34.4 +refine  31.1 mm
+slice 094 damaged 23.0 mm | 2D classical  39.8 frozen  68.2 JEPA   4.6 sub   8.0 JEPA+refine  39.8 | 3D JEPA  24.8 +refine  30.0 mm
+slice 094 damaged 31.7 mm | 2D classical  34.2 frozen  53.8 JEPA  13.4 sub  10.1 JEPA+refine  34.2 | 3D JEPA  14.9 +refine  33.4 mm
+slice 097 clean   21.3 mm | 2D classical  65.7 frozen  53.5 JEPA  86.6 sub  92.2 JEPA+refine  96.2 | 3D JEPA  90.0 +refine  99.4 mm
+slice 097 clean   21.0 mm | 2D classical  45.5 frozen  48.2 JEPA   5.3 sub   3.2 JEPA+refine  18.5 | 3D JEPA   5.3 +refine  15.3 mm
+slice 097 damaged 30.4 mm | 2D classical  18.9 frozen  38.8 JEPA  10.9 sub   5.4 JEPA+refine  18.9 | 3D JEPA  11.0 +refine  43.5 mm
+slice 097 damaged 18.9 mm | 2D classical  75.4 frozen 102.1 JEPA  26.9 sub  29.9 JEPA+refine  75.4 | 3D JEPA  18.3 +refine  43.4 mm
+slice 106 clean   24.9 mm | 2D classical  29.1 frozen  15.3 JEPA   6.5 sub   4.8 JEPA+refine  11.2 | 3D JEPA  22.7 +refine  18.3 mm
+slice 106 clean   34.8 mm | 2D classical   7.9 frozen  57.1 JEPA   2.6 sub   2.5 JEPA+refine   6.5 | 3D JEPA  16.1 +refine  16.5 mm
+slice 106 damaged 23.4 mm | 2D classical  15.6 frozen  70.4 JEPA   7.7 sub   5.0 JEPA+refine  15.6 | 3D JEPA  14.1 +refine  19.6 mm
+slice 106 damaged 24.3 mm | 2D classical  22.5 frozen  92.0 JEPA   0.4 sub   4.9 JEPA+refine  22.5 | 3D JEPA  10.4 +refine  32.2 mm
+slice 116 clean   34.4 mm | 2D classical  22.2 frozen  62.8 JEPA   9.2 sub   7.3 JEPA+refine  13.2 | 3D JEPA  11.1 +refine  11.8 mm
+slice 116 clean   29.2 mm | 2D classical  22.7 frozen  43.6 JEPA   5.5 sub   0.8 JEPA+refine   3.1 | 3D JEPA  74.9 +refine  75.9 mm
+slice 116 damaged 35.1 mm | 2D classical  64.3 frozen  90.6 JEPA   5.7 sub  11.3 JEPA+refine  64.3 | 3D JEPA  73.7 +refine  68.2 mm
+slice 116 damaged 33.3 mm | 2D classical  71.6 frozen  48.2 JEPA  45.9 sub  42.7 JEPA+refine  71.6 | 3D JEPA  87.6 +refine 103.9 mm
+slice 151 clean   39.8 mm | 2D classical   0.2 frozen  37.2 JEPA  12.4 sub   7.4 JEPA+refine   0.8 | 3D JEPA  12.0 +refine  20.7 mm
+slice 151 clean   25.3 mm | 2D classical  82.1 frozen  66.2 JEPA   6.6 sub  10.7 JEPA+refine   1.4 | 3D JEPA  16.2 +refine   9.1 mm
+3D bank: 1395 planes, 174 MB
+resuming: 8 slices already in patch_localisation.csv
+slice 151 clean   30.5 mm | 2D classical  73.6 frozen   1.6 JEPA   1.6 sub   4.3 JEPA+refine  61.8 | 3D JEPA  87.9 +refine  93.4 mm
+slice 151 clean   34.0 mm | 2D classical   5.7 frozen 102.3 JEPA   7.3 sub   8.6 JEPA+refine   5.7 | 3D JEPA   7.0 +refine   9.7 mm
+slice 151 damaged 24.8 mm | 2D classical  59.2 frozen  34.0 JEPA  40.9 sub  44.5 JEPA+refine  59.2 | 3D JEPA  62.5 +refine  57.3 mm
+slice 151 damaged 25.1 mm | 2D classical  62.7 frozen  45.3 JEPA   6.2 sub   5.4 JEPA+refine  62.7 | 3D JEPA   6.2 +refine  41.9 mm
+slice 152 clean   25.0 mm | 2D classical  32.9 frozen  23.8 JEPA   4.5 sub   2.4 JEPA+refine   8.1 | 3D JEPA  36.9 +refine  35.0 mm
+slice 152 clean   22.3 mm | 2D classical   2.7 frozen   4.0 JEPA   4.0 sub   6.7 JEPA+refine   2.7 | 3D JEPA   4.8 +refine   6.1 mm
+slice 152 damaged 24.4 mm | 2D classical   0.6 frozen  57.9 JEPA   4.9 sub   3.3 JEPA+refine   0.6 | 3D JEPA   5.7 +refine   2.1 mm
+slice 152 damaged 31.3 mm | 2D classical  53.2 frozen  47.8 JEPA   8.7 sub  13.8 JEPA+refine  53.2 | 3D JEPA  12.1 +refine  74.8 mm
+slice 160 clean   25.4 mm | 2D classical  35.7 frozen  15.2 JEPA   7.1 sub   1.4 JEPA+refine   9.9 | 3D JEPA   7.0 +refine  14.1 mm
+slice 160 clean   30.2 mm | 2D classical  57.0 frozen  20.0 JEPA   5.6 sub   8.4 JEPA+refine   3.9 | 3D JEPA  23.1 +refine  22.3 mm
+slice 160 damaged 26.5 mm | 2D classical  32.4 frozen  51.1 JEPA  11.9 sub   6.8 JEPA+refine  32.4 | 3D JEPA  11.9 +refine  36.5 mm
+slice 160 damaged 38.5 mm | 2D classical  53.7 frozen  12.7 JEPA  15.7 sub  13.0 JEPA+refine  53.7 | 3D JEPA  16.2 +refine  31.2 mm
+slice 171 clean   32.2 mm | 2D classical  43.5 frozen  51.7 JEPA   7.1 sub   1.7 JEPA+refine  18.5 | 3D JEPA  26.1 +refine  27.4 mm
+slice 171 clean   22.4 mm | 2D classical   0.3 frozen  90.8 JEPA 103.0 sub 103.8 JEPA+refine  93.9 | 3D JEPA 102.4 +refine  92.4 mm
+slice 171 damaged 26.0 mm | 2D classical  82.5 frozen  41.4 JEPA  30.3 sub  25.9 JEPA+refine  82.5 | 3D JEPA  31.9 +refine  28.4 mm
+slice 171 damaged 33.4 mm | 2D classical  56.7 frozen  99.9 JEPA  45.2 sub  42.5 JEPA+refine  56.7 | 3D JEPA  44.2 +refine  52.7 mm
+slice 193 clean   33.5 mm | 2D classical  83.5 frozen  36.1 JEPA   1.7 sub   3.5 JEPA+refine  28.2 | 3D JEPA   3.1 +refine   3.0 mm
+slice 193 clean   24.9 mm | 2D classical  68.1 frozen  35.5 JEPA  54.9 sub  54.0 JEPA+refine  56.9 | 3D JEPA  73.5 +refine  70.7 mm
+slice 193 damaged 21.9 mm | 2D classical  24.9 frozen  52.6 JEPA   6.5 sub   4.8 JEPA+refine  24.9 | 3D JEPA  30.9 +refine  29.6 mm
+slice 193 damaged 24.9 mm | 2D classical  61.5 frozen  70.5 JEPA  14.9 sub   9.2 JEPA+refine  61.5 | 3D JEPA  21.9 +refine  47.3 mm
+slice 219 clean   35.1 mm | 2D classical  47.1 frozen  10.8 JEPA   4.3 sub   1.5 JEPA+refine   4.3 | 3D JEPA   7.9 +refine   5.2 mm
+slice 219 clean   27.7 mm | 2D classical  48.1 frozen  42.1 JEPA   6.8 sub   2.9 JEPA+refine  35.4 | 3D JEPA  34.6 +refine  14.6 mm
+slice 219 damaged 32.4 mm | 2D classical  26.1 frozen  44.4 JEPA   5.1 sub   5.3 JEPA+refine  26.1 | 3D JEPA   9.3 +refine  31.2 mm
+slice 219 damaged 23.6 mm | 2D classical   1.0 frozen  58.6 JEPA  47.5 sub  47.1 JEPA+refine   1.0 | 3D JEPA  20.0 +refine  54.4 mm
+slice 243 clean   23.9 mm | 2D classical  24.1 frozen  61.6 JEPA   4.0 sub   3.8 JEPA+refine  24.1 | 3D JEPA   5.0 +refine   6.6 mm
+slice 243 clean   37.3 mm | 2D classical   0.7 frozen   7.7 JEPA   4.8 sub   1.4 JEPA+refine   0.7 | 3D JEPA   7.1 +refine   1.8 mm
+slice 243 damaged 20.2 mm | 2D classical  17.0 frozen  59.6 JEPA  24.6 sub  24.3 JEPA+refine  17.0 | 3D JEPA  27.2 +refine  46.2 mm
+slice 243 damaged 23.2 mm | 2D classical  66.4 frozen  14.7 JEPA  57.6 sub  57.1 JEPA+refine  66.4 | 3D JEPA  68.3 +refine  77.7 mm
+slice 268 clean   23.2 mm | 2D classical  24.6 frozen  34.6 JEPA  38.3 sub  42.5 JEPA+refine  50.4 | 3D JEPA  81.5 +refine  55.3 mm
+slice 268 clean   23.2 mm | 2D classical   0.9 frozen  36.3 JEPA  11.3 sub   6.8 JEPA+refine   2.5 | 3D JEPA   4.4 +refine   5.6 mm
+slice 268 damaged 31.0 mm | 2D classical  40.9 frozen  55.8 JEPA  46.8 sub  46.9 JEPA+refine  40.9 | 3D JEPA  51.9 +refine  24.8 mm
+slice 268 damaged 28.3 mm | 2D classical  24.5 frozen  35.7 JEPA  27.8 sub  32.9 JEPA+refine  24.5 | 3D JEPA  29.0 +refine  40.7 mm
+slice 275 clean   32.5 mm | 2D classical  74.5 frozen   5.3 JEPA   8.1 sub   7.1 JEPA+refine   8.3 | 3D JEPA   4.9 +refine  10.7 mm
+slice 275 clean   25.0 mm | 2D classical   0.6 frozen  49.5 JEPA   9.5 sub   8.1 JEPA+refine   3.5 | 3D JEPA   9.3 +refine  44.5 mm
+slice 275 damaged 35.0 mm | 2D classical   0.8 frozen  31.6 JEPA  11.3 sub   8.9 JEPA+refine   0.8 | 3D JEPA   2.6 +refine  62.6 mm
+slice 275 damaged 31.9 mm | 2D classical   1.5 frozen  44.2 JEPA  41.5 sub  39.5 JEPA+refine   1.5 | 3D JEPA  63.5 +refine  58.5 mm
+slice 283 clean   23.7 mm | 2D classical   0.7 frozen  23.6 JEPA   4.1 sub   4.0 JEPA+refine   0.7 | 3D JEPA  24.1 +refine  15.2 mm
+slice 283 clean   29.6 mm | 2D classical   0.2 frozen  52.9 JEPA   5.0 sub   0.7 JEPA+refine   0.2 | 3D JEPA   5.3 +refine   2.2 mm
+slice 283 damaged 36.8 mm | 2D classical  49.4 frozen  20.6 JEPA  11.2 sub   8.8 JEPA+refine  49.4 | 3D JEPA   8.6 +refine  45.5 mm
+slice 283 damaged 28.5 mm | 2D classical  41.6 frozen  50.3 JEPA  28.4 sub  26.2 JEPA+refine  41.6 | 3D JEPA  29.1 +refine  27.3 mm
+slice 297 clean   31.6 mm | 2D classical  47.5 frozen  45.5 JEPA   3.9 sub   3.9 JEPA+refine  47.5 | 3D JEPA  44.6 +refine  47.5 mm
+slice 297 clean   23.5 mm | 2D classical  79.3 frozen  43.8 JEPA   8.6 sub   7.8 JEPA+refine  79.3 | 3D JEPA 104.7 +refine  14.2 mm
+slice 297 damaged 22.7 mm | 2D classical  23.7 frozen  41.7 JEPA   8.9 sub   9.4 JEPA+refine  23.7 | 3D JEPA  21.0 +refine  33.5 mm
+slice 297 damaged 26.8 mm | 2D classical   7.3 frozen  78.2 JEPA  54.6 sub  52.0 JEPA+refine   7.3 | 3D JEPA  32.0 +refine  68.4 mm
+slice 300 clean   28.2 mm | 2D classical   0.1 frozen  10.1 JEPA   6.0 sub   4.7 JEPA+refine   0.1 | 3D JEPA   7.0 +refine  10.7 mm
+slice 300 clean   30.5 mm | 2D classical   8.6 frozen  27.6 JEPA   3.6 sub   4.7 JEPA+refine   8.6 | 3D JEPA  78.3 +refine  83.0 mm
+slice 300 damaged 34.8 mm | 2D classical  21.4 frozen  14.4 JEPA  44.1 sub  45.0 JEPA+refine  21.4 | 3D JEPA  43.3 +refine  60.5 mm
+slice 300 damaged 22.8 mm | 2D classical  28.6 frozen  63.4 JEPA   9.1 sub   8.8 JEPA+refine  28.6 | 3D JEPA  10.3 +refine  15.9 mm
+
+fraction within 5 mm
+           classical_2d_mm  frozen_2d_mm  jepa_2d_mm  jepa_subcell_2d_mm  jepa_refined_2d_mm  jepa_3d_mm  jepa_subcell_3d_mm  jepa_refined_3d_mm
+condition                                                                                                                                       
+clean                 0.22          0.08        0.35                0.55                0.28        0.15                0.18                0.15
+damaged               0.15          0.00        0.20                0.18                0.15        0.10                0.10                0.05
+
+fraction within 10 mm
+           classical_2d_mm  frozen_2d_mm  jepa_2d_mm  jepa_subcell_2d_mm  jepa_refined_2d_mm  jepa_3d_mm  jepa_subcell_3d_mm  jepa_refined_3d_mm
+condition                                                                                                                                       
+clean                  0.3          0.12         0.8                0.85                0.45        0.50                0.52                0.28
+damaged                0.2          0.00         0.4                0.48                0.20        0.22                0.28                0.05
+
+median error mm
+           classical_2d_mm  frozen_2d_mm  jepa_2d_mm  jepa_subcell_2d_mm  jepa_refined_2d_mm  jepa_3d_mm  jepa_subcell_3d_mm  jepa_refined_3d_mm
+condition                                                                                                                                       
+clean                 28.1          35.8         6.1                 4.7                13.1        10.4                 9.1                15.2
+damaged               29.6          49.3        12.6                10.7                29.6        21.4                20.7                39.3

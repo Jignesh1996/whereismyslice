@@ -1,0 +1,445 @@
+bank: 7725 planes (309 y x 25 orientations), 966 MB; coarse subset 1395
+slice 023: section placed in 3D, mean err 2.67 mm, y -62.4 vs -62.0, flip=False, score 1.125, 2s
+  clean   32.6 mm | flat   3.2 dense   3.2 hier   2.4 hier+tta   1.8 | section   3.3 +tta   2.7 | oracle 2D   2.9 +tta   3.7
+  clean   32.5 mm | flat   4.4 dense   5.5 hier   8.2 hier+tta   6.9 | section   8.0 +tta   8.6 | oracle 2D   8.2 +tta   8.7
+  damaged 27.5 mm | flat   4.5 dense   4.5 hier   5.0 hier+tta   5.9 | section   1.9 +tta   3.1 | oracle 2D   2.3 +tta   4.3
+  damaged 29.5 mm | flat  10.2 dense  10.2 hier  10.2 hier+tta   7.4 | section   8.0 +tta   5.7 | oracle 2D  13.3 +tta  12.9
+slice 024: section placed in 3D, mean err 2.42 mm, y -60.5 vs -61.6, flip=False, score 1.131, 2s
+  clean   26.4 mm | flat   6.8 dense   8.0 hier   9.2 hier+tta   6.7 | section   3.4 +tta   2.5 | oracle 2D   4.6 +tta   3.4
+  clean   27.1 mm | flat   8.2 dense   8.4 hier   8.3 hier+tta   8.5 | section   3.1 +tta   2.9 | oracle 2D   6.3 +tta   6.5
+  damaged 37.7 mm | flat   5.5 dense   5.7 hier   6.4 hier+tta   3.5 | section  11.9 +tta  11.3 | oracle 2D   9.9 +tta   9.3
+  damaged 21.7 mm | flat   2.5 dense   2.5 hier   2.1 hier+tta   2.5 | section   2.3 +tta   3.2 | oracle 2D   0.5 +tta   1.5
+slice 025: section placed in 3D, mean err 2.29 mm, y -60.3 vs -61.2, flip=False, score 1.131, 2s
+  clean   28.4 mm | flat   4.9 dense   5.1 hier   4.0 hier+tta   4.7 | section   2.6 +tta   1.3 | oracle 2D   2.5 +tta   1.1
+  clean   21.5 mm | flat   6.1 dense   5.5 hier   5.0 hier+tta   4.3 | section   6.6 +tta   6.1 | oracle 2D   6.3 +tta   5.4
+  damaged 24.6 mm | flat   4.4 dense   6.0 hier   4.7 hier+tta   3.9 | section   9.3 +tta   6.7 | oracle 2D   8.7 +tta   6.9
+  damaged 20.2 mm | flat   8.6 dense   4.6 hier   7.9 hier+tta   7.4 | section   5.7 +tta   6.5 | oracle 2D   6.0 +tta   6.3
+slice 031: section placed in 3D, mean err 2.63 mm, y -57.7 vs -58.8, flip=False, score 1.126, 2s
+  clean   29.7 mm | flat   8.3 dense   9.7 hier   9.8 hier+tta   9.1 | section   6.4 +tta   6.0 | oracle 2D   8.4 +tta   7.6
+  clean   35.3 mm | flat   3.6 dense   3.6 hier   5.4 hier+tta   3.7 | section   3.2 +tta   3.1 | oracle 2D   3.4 +tta   3.5
+  damaged 30.5 mm | flat   2.0 dense   4.4 hier   4.4 hier+tta   6.0 | section   3.1 +tta   2.9 | oracle 2D   3.0 +tta   2.4
+  damaged 31.2 mm | flat   7.6 dense   4.4 hier   2.9 hier+tta   5.2 | section   9.8 +tta  12.2 | oracle 2D   6.5 +tta   8.6
+slice 036: section placed in 3D, mean err 5.25 mm, y -58.8 vs -56.8, flip=False, score 1.126, 2s
+  clean   30.1 mm | flat   9.0 dense   7.2 hier   7.4 hier+tta   5.3 | section   8.3 +tta   5.9 | oracle 2D   7.8 +tta   5.4
+  clean   34.5 mm | flat   9.4 dense  11.5 hier  11.3 hier+tta  10.4 | section  11.7 +tta  10.9 | oracle 2D   6.5 +tta   5.4
+  damaged 30.4 mm | flat 127.5 dense 126.6 hier 125.6 hier+tta 125.8 | section   3.2 +tta   3.9 | oracle 2D   3.9 +tta   5.9
+  damaged 37.2 mm | flat   3.5 dense   3.5 hier   2.6 hier+tta   2.8 | section   4.0 +tta   5.0 | oracle 2D   1.7 +tta   2.2
+slice 038: section placed in 3D, mean err 6.00 mm, y -58.4 vs -56.0, flip=False, score 1.118, 2s
+  clean   27.6 mm | flat   8.0 dense   8.0 hier   8.5 hier+tta   7.6 | section  10.3 +tta   9.8 | oracle 2D   8.6 +tta   7.9
+  clean   40.6 mm | flat  11.3 dense  11.3 hier  11.7 hier+tta  12.1 | section  10.5 +tta  10.1 | oracle 2D   9.5 +tta   9.9
+  damaged 36.9 mm | flat  11.2 dense  12.2 hier  11.3 hier+tta   7.1 | section  11.8 +tta  11.6 | oracle 2D  28.0 +tta  22.7
+  damaged 39.7 mm | flat   5.0 dense   7.1 hier   3.7 hier+tta   7.4 | section   5.6 +tta   8.2 | oracle 2D   1.9 +tta   6.1
+slice 039: section placed in 3D, mean err 6.70 mm, y -58.6 vs -55.6, flip=False, score 1.120, 2s
+  clean   32.6 mm | flat   3.9 dense   3.5 hier   3.5 hier+tta   3.7 | section  12.8 +tta  13.0 | oracle 2D   3.2 +tta   3.6
+  clean   29.2 mm | flat   9.8 dense   9.8 hier   9.6 hier+tta   4.9 | section   9.7 +tta   7.6 | oracle 2D   8.9 +tta   5.2
+  damaged 40.4 mm | flat 128.3 dense 129.3 hier 128.3 hier+tta 128.4 | section  41.8 +tta  40.9 | oracle 2D  39.7 +tta  41.4
+  damaged 38.0 mm | flat 128.5 dense 129.2 hier 129.1 hier+tta   6.0 | section  47.3 +tta  18.2 | oracle 2D   5.6 +tta   5.5
+slice 044: section placed in 3D, mean err 1.48 mm, y -53.6 vs -53.6, flip=False, score 1.114, 2s
+  clean   36.6 mm | flat   3.9 dense   6.4 hier   5.9 hier+tta   5.5 | section   4.6 +tta   3.9 | oracle 2D   3.7 +tta   2.9
+  clean   31.8 mm | flat   6.2 dense   4.2 hier   4.0 hier+tta   4.1 | section   4.1 +tta   5.1 | oracle 2D   4.0 +tta   4.4
+  damaged 31.4 mm | flat 113.8 dense 114.6 hier 114.8 hier+tta 114.8 | section   5.0 +tta   3.4 | oracle 2D   5.9 +tta   5.0
+  damaged 29.0 mm | flat  48.9 dense  50.7 hier  49.5 hier+tta  48.9 | section  40.3 +tta  38.3 | oracle 2D  40.6 +tta  11.6
+slice 049: section placed in 3D, mean err 1.84 mm, y -52.3 vs -51.6, flip=False, score 1.099, 2s
+  clean   27.9 mm | flat   3.9 dense   4.4 hier   4.3 hier+tta   5.6 | section   5.8 +tta   6.2 | oracle 2D   7.1 +tta   8.1
+  clean   24.3 mm | flat  21.3 dense  20.5 hier  21.4 hier+tta  12.5 | section  14.6 +tta   9.8 | oracle 2D  11.5 +tta   4.5
+  damaged 27.6 mm | flat   8.8 dense   8.4 hier   8.5 hier+tta   6.4 | section   8.1 +tta  10.6 | oracle 2D   6.1 +tta   7.0
+  damaged 20.2 mm | flat 126.6 dense 127.3 hier 126.4 hier+tta 124.2 | section  38.4 +tta  35.7 | oracle 2D  34.7 +tta  32.2
+slice 055: section placed in 3D, mean err 2.46 mm, y -49.9 vs -49.2, flip=False, score 1.104, 2s
+  clean   29.0 mm | flat   9.9 dense   9.0 hier   8.5 hier+tta   8.8 | section  11.6 +tta  12.3 | oracle 2D   7.2 +tta   7.9
+  clean   22.3 mm | flat  98.3 dense  95.8 hier  94.5 hier+tta  10.2 | section   3.6 +tta   3.1 | oracle 2D   6.8 +tta   6.4
+  damaged 23.2 mm | flat  46.0 dense  46.0 hier  45.8 hier+tta  44.8 | section  13.6 +tta  13.9 | oracle 2D  11.8 +tta  10.5
+  damaged 36.7 mm | flat   5.7 dense   6.2 hier   5.6 hier+tta   6.3 | section   7.4 +tta   8.7 | oracle 2D   7.8 +tta  10.1
+slice 057: section placed in 3D, mean err 2.20 mm, y -49.3 vs -48.4, flip=False, score 1.099, 2s
+  clean   20.4 mm | flat   5.3 dense   3.9 hier   3.2 hier+tta   2.5 | section   5.2 +tta   3.0 | oracle 2D   2.9 +tta   1.7
+  clean   28.0 mm | flat   7.6 dense   5.8 hier   4.1 hier+tta   3.2 | section   4.0 +tta   2.1 | oracle 2D   4.7 +tta   2.3
+  damaged 30.0 mm | flat   5.0 dense   5.0 hier   4.7 hier+tta   6.4 | section   5.2 +tta   5.4 | oracle 2D   5.2 +tta   5.4
+  damaged 25.1 mm | flat   7.5 dense   7.5 hier   7.2 hier+tta  11.8 | section   6.0 +tta   9.3 | oracle 2D   5.3 +tta   7.3
+slice 058: section placed in 3D, mean err 2.37 mm, y -48.6 vs -48.0, flip=False, score 1.102, 2s
+  clean   36.4 mm | flat   4.5 dense   5.5 hier   4.7 hier+tta   5.0 | section   1.5 +tta   1.1 | oracle 2D   0.6 +tta   0.3
+  clean   25.9 mm | flat  18.3 dense  18.8 hier  19.0 hier+tta  11.4 | section  11.5 +tta   9.7 | oracle 2D  15.6 +tta  13.3
+  damaged 29.9 mm | flat  13.4 dense  17.5 hier  17.6 hier+tta  16.7 | section   8.3 +tta   8.5 | oracle 2D  11.1 +tta   9.0
+  damaged 28.4 mm | flat   6.5 dense   7.8 hier   7.5 hier+tta   8.7 | section  10.3 +tta  10.5 | oracle 2D   5.3 +tta   5.7
+slice 068: section placed in 3D, mean err 2.53 mm, y -43.4 vs -44.0, flip=False, score 1.089, 2s
+  clean   24.4 mm | flat   7.3 dense   7.3 hier   5.3 hier+tta   9.8 | section   4.3 +tta   4.4 | oracle 2D   5.9 +tta   6.0
+  clean   31.6 mm | flat   3.3 dense   4.5 hier   2.9 hier+tta   3.8 | section   7.0 +tta   7.7 | oracle 2D   5.0 +tta   6.1
+  damaged 30.3 mm | flat 120.2 dense 119.5 hier 119.9 hier+tta 120.2 | section  39.6 +tta  40.4 | oracle 2D  20.7 +tta  24.6
+  damaged 27.6 mm | flat   5.9 dense   3.9 hier   6.6 hier+tta   3.7 | section   1.8 +tta   0.9 | oracle 2D   2.3 +tta   3.3
+slice 075: section placed in 3D, mean err 3.00 mm, y -40.0 vs -41.2, flip=False, score 1.085, 2s
+  clean   19.1 mm | flat   9.0 dense   9.2 hier   9.3 hier+tta   5.0 | section   7.3 +tta   2.4 | oracle 2D  13.3 +tta   1.0
+  clean   32.1 mm | flat  11.0 dense   5.4 hier   6.5 hier+tta   9.1 | section   5.8 +tta   8.3 | oracle 2D   5.7 +tta   7.9
+  damaged 34.9 mm | flat  28.1 dense  30.4 hier  29.9 hier+tta  28.2 | section   6.9 +tta   5.6 | oracle 2D  21.2 +tta  14.6
+  damaged 29.8 mm | flat  15.6 dense  16.0 hier  16.0 hier+tta  16.9 | section  40.7 +tta  41.0 | oracle 2D  15.9 +tta  16.8
+slice 079: section placed in 3D, mean err 2.04 mm, y -38.6 vs -39.6, flip=False, score 1.077, 2s
+  clean   30.2 mm | flat  14.6 dense  14.0 hier  14.3 hier+tta   1.6 | section   2.7 +tta   2.3 | oracle 2D   1.2 +tta   1.9
+  clean   28.5 mm | flat  53.2 dense  56.4 hier  56.9 hier+tta  54.8 | section  57.4 +tta   4.8 | oracle 2D  58.6 +tta  60.8
+  damaged 39.8 mm | flat  11.9 dense  13.5 hier  13.5 hier+tta  13.6 | section   3.1 +tta   4.8 | oracle 2D   4.9 +tta   6.4
+  damaged 26.6 mm | flat  28.3 dense  28.2 hier  28.4 hier+tta  24.4 | section  15.7 +tta  18.4 | oracle 2D  12.8 +tta  15.6
+slice 082: section placed in 3D, mean err 2.14 mm, y -37.4 vs -38.4, flip=False, score 1.095, 2s
+  clean   21.6 mm | flat   8.8 dense   9.7 hier   8.9 hier+tta   8.6 | section   3.1 +tta   2.7 | oracle 2D   3.2 +tta   2.5
+  clean   38.6 mm | flat   3.3 dense   4.0 hier   3.1 hier+tta   3.8 | section   1.8 +tta   4.3 | oracle 2D   2.6 +tta   3.8
+  damaged 22.3 mm | flat  33.6 dense  34.2 hier  33.8 hier+tta  33.2 | section   9.4 +tta   8.2 | oracle 2D  10.5 +tta   8.8
+  damaged 27.8 mm | flat  38.5 dense  37.7 hier  37.4 hier+tta 109.6 | section  50.1 +tta  52.2 | oracle 2D  47.3 +tta  55.5
+slice 084: section placed in 3D, mean err 2.15 mm, y -36.7 vs -37.6, flip=False, score 1.092, 2s
+  clean   30.4 mm | flat   4.9 dense   4.2 hier   4.2 hier+tta   2.5 | section   2.0 +tta   2.3 | oracle 2D   1.5 +tta   2.0
+  clean   31.1 mm | flat   4.7 dense   6.0 hier   5.8 hier+tta   5.5 | section   3.5 +tta   3.8 | oracle 2D   0.6 +tta   1.3
+  damaged 28.3 mm | flat  13.6 dense   7.1 hier   7.4 hier+tta  16.6 | section   5.7 +tta   6.0 | oracle 2D   6.2 +tta   6.2
+  damaged 23.9 mm | flat   2.4 dense   2.4 hier   2.4 hier+tta   1.7 | section   2.7 +tta   4.4 | oracle 2D   7.1 +tta   6.5
+slice 089: section placed in 3D, mean err 2.47 mm, y -34.4 vs -35.6, flip=False, score 1.093, 2s
+  clean   34.7 mm | flat   3.9 dense   4.8 hier   5.6 hier+tta   5.3 | section   1.8 +tta   1.5 | oracle 2D   3.9 +tta   4.2
+  clean   31.1 mm | flat  13.3 dense  12.1 hier  13.1 hier+tta  10.7 | section   3.1 +tta   2.9 | oracle 2D   0.7 +tta   0.3
+  damaged 30.5 mm | flat  13.5 dense  12.8 hier  12.0 hier+tta  11.2 | section   6.7 +tta   6.2 | oracle 2D   4.6 +tta   3.5
+  damaged 25.3 mm | flat 112.2 dense 112.2 hier 112.2 hier+tta 112.4 | section   6.1 +tta  33.4 | oracle 2D   5.9 +tta   5.1
+slice 091: section placed in 3D, mean err 3.07 mm, y -33.9 vs -34.8, flip=False, score 1.085, 2s
+  clean   36.8 mm | flat   9.1 dense  12.6 hier  11.4 hier+tta  10.5 | section  12.7 +tta  14.1 | oracle 2D  10.8 +tta  12.1
+  clean   35.8 mm | flat   3.8 dense   3.8 hier   3.8 hier+tta   2.9 | section   1.6 +tta   3.6 | oracle 2D   2.9 +tta   2.2
+  damaged 25.8 mm | flat  79.2 dense  78.2 hier  80.7 hier+tta  80.7 | section  42.3 +tta  31.3 | oracle 2D  38.4 +tta  26.9
+  damaged 21.9 mm | flat  53.3 dense  52.9 hier  52.7 hier+tta  29.6 | section  14.1 +tta   7.7 | oracle 2D  19.1 +tta   4.1
+slice 094: section placed in 3D, mean err 5.20 mm, y -30.0 vs -33.6, flip=False, score 1.088, 2s
+  clean   26.5 mm | flat  34.0 dense  34.0 hier  31.9 hier+tta  33.9 | section  25.1 +tta  24.9 | oracle 2D  29.6 +tta  29.7
+  clean   29.9 mm | flat   7.1 dense   7.4 hier   6.9 hier+tta   5.7 | section   8.0 +tta   9.7 | oracle 2D   5.1 +tta   7.1
+  damaged 35.7 mm | flat  11.0 dense  16.5 hier  11.1 hier+tta   4.4 | section   6.8 +tta   7.5 | oracle 2D   3.6 +tta   4.1
+  damaged 20.2 mm | flat  17.1 dense  17.1 hier  17.2 hier+tta  16.7 | section  17.7 +tta   9.8 | oracle 2D  23.5 +tta  23.7
+slice 095: section placed in 3D, mean err 4.91 mm, y -29.8 vs -33.2, flip=False, score 1.088, 2s
+  clean   26.2 mm | flat  61.6 dense  62.6 hier  61.7 hier+tta  61.2 | section  64.8 +tta  64.8 | oracle 2D   5.2 +tta   5.2
+  clean   31.5 mm | flat  11.2 dense  11.2 hier  11.2 hier+tta  11.8 | section   6.5 +tta   7.0 | oracle 2D   9.6 +tta  10.3
+  damaged 28.8 mm | flat  71.8 dense  71.4 hier  71.6 hier+tta  71.2 | section  74.3 +tta  74.6 | oracle 2D   4.5 +tta   4.2
+  damaged 36.7 mm | flat  61.2 dense  60.6 hier  61.0 hier+tta  59.8 | section   8.6 +tta   8.2 | oracle 2D   3.0 +tta   2.9
+slice 097: section placed in 3D, mean err 4.03 mm, y -30.1 vs -32.4, flip=False, score 1.089, 2s
+  clean   27.9 mm | flat   3.7 dense   6.7 hier   3.0 hier+tta   7.9 | section   4.2 +tta   4.0 | oracle 2D   4.8 +tta   5.1
+  clean   26.9 mm | flat  16.4 dense  16.6 hier  16.6 hier+tta  16.5 | section   2.5 +tta   3.0 | oracle 2D   4.2 +tta   4.2
+  damaged 26.1 mm | flat  56.8 dense  56.4 hier  55.5 hier+tta  57.3 | section  39.3 +tta  39.9 | oracle 2D  37.7 +tta  38.4
+  damaged 37.6 mm | flat  20.7 dense  16.3 hier  25.0 hier+tta  12.4 | section   7.0 +tta   6.5 | oracle 2D   2.0 +tta   1.3
+slice 102: section placed in 3D, mean err 2.48 mm, y -28.9 vs -30.4, flip=False, score 1.097, 2s
+  clean   18.7 mm | flat   6.7 dense   6.0 hier   6.9 hier+tta   6.3 | section   3.5 +tta   2.5 | oracle 2D   4.4 +tta   3.4
+  clean   32.6 mm | flat   6.4 dense   4.6 hier   6.6 hier+tta   3.3 | section   3.4 +tta   3.0 | oracle 2D   2.6 +tta   1.3
+  damaged 28.7 mm | flat  80.0 dense  75.5 hier  76.2 hier+tta 103.8 | section  85.5 +tta  84.3 | oracle 2D  85.9 +tta  14.0
+  damaged 21.5 mm | flat  31.7 dense  31.3 hier  30.2 hier+tta  24.9 | section   8.5 +tta   9.5 | oracle 2D   8.8 +tta   8.9
+slice 105: section placed in 3D, mean err 2.60 mm, y -27.5 vs -29.2, flip=False, score 1.091, 2s
+  clean   29.0 mm | flat   6.4 dense   6.4 hier   5.3 hier+tta   3.8 | section   8.2 +tta   5.3 | oracle 2D   2.5 +tta   0.9
+  clean   21.4 mm | flat   8.9 dense  11.0 hier  10.8 hier+tta   9.9 | section   9.1 +tta   6.7 | oracle 2D   8.3 +tta   6.4
+  damaged 25.5 mm | flat  21.9 dense  20.9 hier  21.4 hier+tta  21.4 | section   2.9 +tta   3.5 | oracle 2D   8.6 +tta  12.8
+  damaged 22.0 mm | flat  46.6 dense  47.9 hier  47.6 hier+tta  40.2 | section  49.1 +tta  39.4 | oracle 2D  42.7 +tta  38.8
+slice 108: section placed in 3D, mean err 3.12 mm, y -26.2 vs -28.0, flip=False, score 1.090, 2s
+  clean   41.9 mm | flat   5.2 dense   2.6 hier   4.9 hier+tta   2.0 | section   2.7 +tta   2.9 | oracle 2D   4.5 +tta   3.9
+  clean   39.6 mm | flat  47.9 dense  30.5 hier  29.8 hier+tta  31.9 | section   7.5 +tta   6.9 | oracle 2D   9.3 +tta   9.0
+  damaged 26.8 mm | flat  10.1 dense  10.1 hier   9.6 hier+tta  10.8 | section   6.6 +tta   6.5 | oracle 2D   7.3 +tta   7.5
+  damaged 26.8 mm | flat  74.6 dense  74.6 hier  71.9 hier+tta  71.8 | section   4.1 +tta   4.7 | oracle 2D   3.3 +tta   3.7
+slice 115: section placed in 3D, mean err 2.91 mm, y -24.0 vs -25.2, flip=False, score 1.089, 2s
+  clean   31.0 mm | flat   7.3 dense   5.2 hier   5.4 hier+tta   6.5 | section   3.0 +tta   1.2 | oracle 2D   2.8 +tta   0.7
+  clean   22.1 mm | flat  10.4 dense  10.1 hier   9.7 hier+tta   5.4 | section   4.7 +tta   2.0 | oracle 2D   2.7 +tta   2.4
+  damaged 21.0 mm | flat 103.2 dense 101.9 hier 102.5 hier+tta 100.6 | section  72.1 +tta  72.3 | oracle 2D  75.8 +tta  71.9
+  damaged 30.7 mm | flat  28.6 dense  29.1 hier  28.9 hier+tta  30.0 | section   9.0 +tta   8.7 | oracle 2D   6.2 +tta   5.9
+slice 118: section placed in 3D, mean err 3.28 mm, y -22.8 vs -24.0, flip=False, score 1.079, 2s
+  clean   29.3 mm | flat  77.2 dense  77.2 hier  53.8 hier+tta  77.3 | section   3.2 +tta   3.6 | oracle 2D   5.8 +tta   1.1
+  clean   30.4 mm | flat  49.6 dense  49.6 hier  39.0 hier+tta   8.1 | section   8.7 +tta   9.1 | oracle 2D   8.0 +tta   8.4
+  damaged 22.9 mm | flat  44.7 dense  41.5 hier  41.9 hier+tta  45.0 | section   3.3 +tta   3.4 | oracle 2D   2.7 +tta   3.4
+  damaged 25.5 mm | flat  62.1 dense  46.7 hier  60.1 hier+tta  44.7 | section   8.3 +tta   9.0 | oracle 2D   9.8 +tta  10.1
+slice 119: section placed in 3D, mean err 2.91 mm, y -22.7 vs -23.6, flip=False, score 1.086, 2s
+  clean   35.7 mm | flat  84.2 dense  83.3 hier  87.4 hier+tta  87.2 | section  12.0 +tta  11.6 | oracle 2D  11.1 +tta  10.0
+  clean   22.9 mm | flat   8.5 dense   8.4 hier   8.3 hier+tta   8.4 | section   8.2 +tta   8.5 | oracle 2D  10.3 +tta  10.8
+  damaged 20.9 mm | flat  30.8 dense  31.9 hier  31.9 hier+tta  16.6 | section  11.2 +tta  10.0 | oracle 2D  16.9 +tta  15.5
+  damaged 31.9 mm | flat  14.6 dense  10.4 hier  14.8 hier+tta   9.1 | section   8.0 +tta   6.3 | oracle 2D   9.0 +tta   6.2
+slice 120: section placed in 3D, mean err 2.54 mm, y -21.7 vs -23.2, flip=False, score 1.078, 2s
+  clean   29.3 mm | flat   7.8 dense   7.4 hier   6.1 hier+tta   5.8 | section   8.6 +tta   8.9 | oracle 2D   4.3 +tta   5.0
+  clean   20.1 mm | flat   3.4 dense   2.7 hier   3.4 hier+tta   2.5 | section   4.5 +tta   3.8 | oracle 2D   3.8 +tta   3.0
+  damaged 25.7 mm | flat  16.3 dense  14.5 hier  15.4 hier+tta  14.4 | section  14.4 +tta   9.3 | oracle 2D   1.7 +tta   0.7
+  damaged 20.1 mm | flat  76.3 dense  76.7 hier  75.9 hier+tta  71.4 | section  66.6 +tta  28.3 | oracle 2D  30.7 +tta  28.8
+slice 123: section placed in 3D, mean err 1.34 mm, y -21.0 vs -22.0, flip=False, score 1.090, 2s
+  clean   27.5 mm | flat   7.2 dense   7.2 hier   7.0 hier+tta  12.1 | section   6.7 +tta   5.5 | oracle 2D   5.9 +tta   4.9
+  clean   27.4 mm | flat   4.3 dense   6.5 hier   6.4 hier+tta   6.6 | section   3.3 +tta   3.3 | oracle 2D   2.2 +tta   2.4
+  damaged 36.8 mm | flat   5.8 dense   5.6 hier   5.2 hier+tta   6.6 | section   3.7 +tta   6.1 | oracle 2D   5.7 +tta   6.7
+  damaged 21.0 mm | flat  48.4 dense  47.4 hier  48.3 hier+tta  48.4 | section  39.1 +tta  39.6 | oracle 2D  38.6 +tta  39.1
+slice 125: section placed in 3D, mean err 2.07 mm, y -20.1 vs -21.2, flip=False, score 1.084, 2s
+  clean   26.0 mm | flat   5.4 dense  13.3 hier  11.2 hier+tta  60.2 | section   3.0 +tta   2.7 | oracle 2D   0.8 +tta   1.8
+  clean   38.8 mm | flat  18.0 dense  18.0 hier  17.9 hier+tta   9.3 | section  18.7 +tta   6.5 | oracle 2D  17.7 +tta   7.4
+  damaged 35.5 mm | flat  10.2 dense  10.0 hier  10.2 hier+tta  10.7 | section   7.7 +tta   8.7 | oracle 2D   7.6 +tta   8.2
+  damaged 37.7 mm | flat   6.5 dense   6.7 hier   7.1 hier+tta   5.9 | section   6.9 +tta   5.3 | oracle 2D   7.7 +tta   5.7
+slice 131: section placed in 3D, mean err 2.34 mm, y -17.5 vs -18.8, flip=False, score 1.084, 2s
+  clean   28.3 mm | flat   4.6 dense   4.6 hier   4.8 hier+tta   3.6 | section   2.9 +tta   1.7 | oracle 2D   3.0 +tta   2.0
+  clean   36.3 mm | flat   4.3 dense   5.0 hier   4.6 hier+tta   3.6 | section   3.2 +tta   1.8 | oracle 2D   4.6 +tta   2.3
+  damaged 29.4 mm | flat   6.6 dense   7.1 hier   6.1 hier+tta   5.7 | section   5.8 +tta   5.5 | oracle 2D   6.3 +tta   6.0
+  damaged 25.0 mm | flat  12.9 dense  10.6 hier  13.2 hier+tta  10.5 | section  15.1 +tta  15.1 | oracle 2D  12.7 +tta  13.3
+slice 134: section placed in 3D, mean err 2.24 mm, y -16.3 vs -17.6, flip=False, score 1.083, 2s
+  clean   39.3 mm | flat  44.7 dense  44.8 hier  44.3 hier+tta  43.6 | section  18.5 +tta   6.7 | oracle 2D  20.5 +tta  19.3
+  clean   33.5 mm | flat   8.9 dense   8.4 hier   8.8 hier+tta   8.0 | section   9.4 +tta   8.7 | oracle 2D   7.6 +tta   7.5
+  damaged 25.6 mm | flat  49.4 dense  50.3 hier  56.1 hier+tta  55.7 | section  39.6 +tta  41.0 | oracle 2D  39.8 +tta  41.0
+  damaged 37.9 mm | flat  11.4 dense  11.4 hier  11.7 hier+tta  12.6 | section  14.0 +tta  14.4 | oracle 2D  10.6 +tta  10.8
+slice 139: section placed in 3D, mean err 2.56 mm, y -14.5 vs -15.6, flip=False, score 1.081, 2s
+  clean   20.8 mm | flat  83.3 dense  77.3 hier  81.7 hier+tta  93.1 | section  74.8 +tta  73.4 | oracle 2D  75.1 +tta  71.7
+  clean   24.7 mm | flat  11.8 dense  34.5 hier   6.2 hier+tta   7.7 | section   8.9 +tta   6.5 | oracle 2D  10.5 +tta   9.0
+  damaged 30.5 mm | flat   4.9 dense   7.0 hier   7.0 hier+tta   7.5 | section   5.6 +tta   5.6 | oracle 2D   3.9 +tta   5.1
+  damaged 29.5 mm | flat  12.9 dense  12.9 hier  12.8 hier+tta  16.5 | section   5.2 +tta   4.1 | oracle 2D   5.6 +tta   7.9
+slice 140: section placed in 3D, mean err 2.10 mm, y -14.2 vs -15.2, flip=False, score 1.087, 2s
+  clean   32.8 mm | flat   9.6 dense  10.1 hier  10.5 hier+tta  10.2 | section   4.5 +tta   4.6 | oracle 2D   8.2 +tta   7.9
+  clean   20.7 mm | flat  22.3 dense  21.6 hier  21.6 hier+tta  25.0 | section   3.3 +tta   3.9 | oracle 2D   1.1 +tta   1.8
+  damaged 30.0 mm | flat  48.1 dense  47.2 hier  47.5 hier+tta  44.8 | section  44.9 +tta  43.8 | oracle 2D  46.2 +tta  44.1
+  damaged 24.8 mm | flat  56.8 dense  58.5 hier  57.7 hier+tta  57.8 | section   7.3 +tta   6.5 | oracle 2D   6.5 +tta   5.0
+slice 145: section placed in 3D, mean err 2.09 mm, y -12.2 vs -13.2, flip=False, score 1.085, 2s
+  clean   28.0 mm | flat   7.0 dense   7.0 hier   6.7 hier+tta   8.7 | section   7.4 +tta   5.4 | oracle 2D   6.1 +tta   4.0
+  clean   31.3 mm | flat   6.4 dense   7.3 hier   5.9 hier+tta   6.9 | section   3.1 +tta   2.5 | oracle 2D   2.2 +tta   1.4
+  damaged 23.8 mm | flat   9.8 dense  23.2 hier  26.2 hier+tta  31.7 | section  10.9 +tta  11.2 | oracle 2D  13.4 +tta  15.2
+  damaged 20.9 mm | flat  53.7 dense  53.1 hier  36.8 hier+tta  54.0 | section  11.2 +tta  10.5 | oracle 2D  11.0 +tta   8.1
+slice 149: section placed in 3D, mean err 2.51 mm, y -10.3 vs -11.6, flip=False, score 1.093, 2s
+  clean   40.1 mm | flat   8.9 dense   5.1 hier   7.3 hier+tta   5.6 | section   4.4 +tta   4.9 | oracle 2D   4.4 +tta   4.5
+  clean   36.2 mm | flat   9.7 dense   9.7 hier  10.3 hier+tta   6.9 | section   7.5 +tta   5.8 | oracle 2D   7.5 +tta   4.7
+  damaged 25.0 mm | flat  50.5 dense  50.9 hier  50.9 hier+tta   5.3 | section   8.7 +tta   5.0 | oracle 2D   8.3 +tta   4.8
+  damaged 31.6 mm | flat  44.1 dense  41.6 hier  41.8 hier+tta  40.2 | section  16.1 +tta  10.3 | oracle 2D  12.5 +tta  12.0
+slice 154: section placed in 3D, mean err 2.32 mm, y -8.8 vs -9.6, flip=False, score 1.091, 2s
+  clean   35.4 mm | flat   4.4 dense   3.4 hier   4.9 hier+tta   4.1 | section   5.2 +tta   4.6 | oracle 2D   3.6 +tta   3.1
+  clean   23.6 mm | flat  18.0 dense  18.7 hier  36.3 hier+tta  19.9 | section   8.8 +tta   7.5 | oracle 2D   5.1 +tta   3.8
+  damaged 35.1 mm | flat  41.6 dense  43.8 hier  41.6 hier+tta  40.3 | section  13.3 +tta  13.4 | oracle 2D  16.1 +tta  15.3
+  damaged 33.4 mm | flat  15.8 dense  15.1 hier  14.6 hier+tta  11.0 | section  12.5 +tta  15.8 | oracle 2D  15.9 +tta  21.5
+slice 155: section placed in 3D, mean err 2.15 mm, y -8.2 vs -9.2, flip=False, score 1.093, 2s
+  clean   26.2 mm | flat  20.5 dense  24.0 hier  23.5 hier+tta  23.0 | section   5.7 +tta   5.6 | oracle 2D   2.9 +tta   2.5
+  clean   28.9 mm | flat  16.6 dense  14.0 hier  14.7 hier+tta  16.0 | section  16.3 +tta  14.9 | oracle 2D  17.8 +tta  17.2
+  damaged 37.1 mm | flat  60.4 dense  61.7 hier  61.0 hier+tta  60.9 | section  15.4 +tta  15.2 | oracle 2D  18.9 +tta  19.4
+  damaged 43.6 mm | flat  28.9 dense  33.7 hier  32.9 hier+tta  28.1 | section  13.9 +tta  14.2 | oracle 2D  16.9 +tta  16.8
+slice 158: section placed in 3D, mean err 2.79 mm, y -6.5 vs -8.0, flip=False, score 1.084, 2s
+  clean   37.0 mm | flat  27.0 dense  27.1 hier  27.0 hier+tta  14.8 | section  15.9 +tta  13.5 | oracle 2D  15.2 +tta  12.5
+  clean   32.2 mm | flat  83.2 dense  89.4 hier  82.8 hier+tta  83.6 | section  82.6 +tta  83.4 | oracle 2D  82.4 +tta  83.1
+  damaged 25.0 mm | flat  18.4 dense  18.8 hier  18.7 hier+tta  18.8 | section   5.2 +tta   5.4 | oracle 2D   1.1 +tta   3.1
+  damaged 32.1 mm | flat  35.2 dense  34.5 hier  35.0 hier+tta  38.2 | section   4.0 +tta   5.1 | oracle 2D  24.1 +tta  27.1
+slice 165: section placed in 3D, mean err 1.53 mm, y -4.3 vs -5.2, flip=False, score 1.099, 2s
+  clean   27.7 mm | flat   5.9 dense  10.1 hier   4.7 hier+tta   3.9 | section   4.5 +tta   3.8 | oracle 2D   3.9 +tta   3.1
+  clean   27.8 mm | flat  39.1 dense  34.1 hier  39.3 hier+tta  40.2 | section  18.6 +tta  17.8 | oracle 2D  13.6 +tta  13.6
+  damaged 31.4 mm | flat  11.2 dense   7.7 hier   9.9 hier+tta   9.6 | section   8.4 +tta   9.6 | oracle 2D   8.6 +tta   9.4
+  damaged 21.6 mm | flat  52.8 dense  50.2 hier  52.5 hier+tta  66.0 | section  41.7 +tta  40.5 | oracle 2D  42.6 +tta  40.7
+slice 172: section placed in 3D, mean err 2.53 mm, y -1.1 vs -2.4, flip=False, score 1.080, 2s
+  clean   36.5 mm | flat  12.1 dense   4.8 hier   3.7 hier+tta   4.5 | section   6.0 +tta   5.3 | oracle 2D   2.9 +tta   2.5
+  clean   28.7 mm | flat 107.8 dense 107.8 hier 105.4 hier+tta 103.5 | section 106.4 +tta 101.2 | oracle 2D 103.9 +tta 104.0
+  damaged 26.7 mm | flat  22.1 dense  21.4 hier  21.7 hier+tta  12.9 | section  28.8 +tta  11.3 | oracle 2D  11.3 +tta   8.8
+  damaged 33.5 mm | flat  98.4 dense  96.9 hier  96.7 hier+tta  95.7 | section  98.8 +tta  98.6 | oracle 2D  98.4 +tta  97.7
+slice 174: section placed in 3D, mean err 2.06 mm, y -0.4 vs -1.6, flip=False, score 1.072, 2s
+  clean   30.6 mm | flat  34.9 dense  34.9 hier  34.9 hier+tta  33.3 | section   9.7 +tta   9.1 | oracle 2D  11.7 +tta   9.8
+  clean   31.9 mm | flat  67.4 dense  65.2 hier  66.5 hier+tta  66.1 | section   3.8 +tta   2.3 | oracle 2D   4.0 +tta  63.6
+  damaged 38.7 mm | flat  24.4 dense  16.7 hier  17.0 hier+tta  21.0 | section  16.3 +tta  15.2 | oracle 2D  21.7 +tta  21.3
+  damaged 34.8 mm | flat  50.2 dense  49.5 hier  49.9 hier+tta  55.3 | section  49.1 +tta  50.1 | oracle 2D  50.6 +tta  51.7
+slice 183: section placed in 3D, mean err 3.30 mm, y 0.4 vs 2.0, flip=False, score 1.066, 2s
+  clean   35.5 mm | flat  17.9 dense  16.4 hier  17.9 hier+tta  15.1 | section   6.5 +tta   5.0 | oracle 2D   1.4 +tta   2.1
+  clean   25.7 mm | flat  29.4 dense  27.2 hier  28.0 hier+tta  19.6 | section   8.6 +tta   8.9 | oracle 2D   8.3 +tta   7.8
+  damaged 36.2 mm | flat  19.5 dense  20.6 hier  19.8 hier+tta  15.2 | section  19.3 +tta  18.2 | oracle 2D  19.3 +tta  17.8
+  damaged 22.8 mm | flat  11.7 dense  11.7 hier  11.6 hier+tta   8.4 | section   9.9 +tta   9.7 | oracle 2D   7.4 +tta   6.7
+slice 185: section placed in 3D, mean err 2.44 mm, y 3.7 vs 2.8, flip=False, score 1.070, 2s
+  clean   32.7 mm | flat   8.8 dense  10.3 hier  10.9 hier+tta   9.9 | section   5.8 +tta   4.4 | oracle 2D   6.6 +tta   5.1
+  clean   39.4 mm | flat  21.2 dense  22.0 hier  22.0 hier+tta  21.3 | section   9.2 +tta   9.1 | oracle 2D   8.6 +tta   8.5
+  damaged 37.0 mm | flat   9.7 dense   5.4 hier   6.1 hier+tta   5.6 | section   4.7 +tta   4.2 | oracle 2D   2.7 +tta   2.9
+  damaged 24.5 mm | flat  19.9 dense  20.5 hier  20.1 hier+tta  19.7 | section   7.9 +tta   7.1 | oracle 2D   7.6 +tta   5.9
+slice 205: section placed in 3D, mean err 6.73 mm, y 5.4 vs 10.8, flip=False, score 1.075, 2s
+  clean   27.7 mm | flat  23.3 dense  20.8 hier  22.8 hier+tta  13.4 | section  11.9 +tta  12.4 | oracle 2D   9.6 +tta   9.3
+  clean   31.7 mm | flat  79.1 dense  80.1 hier  80.4 hier+tta  79.9 | section  79.4 +tta  81.6 | oracle 2D  79.2 +tta  80.0
+  damaged 23.3 mm | flat  42.9 dense  42.9 hier  43.2 hier+tta  45.0 | section  38.0 +tta  38.1 | oracle 2D  41.5 +tta  40.7
+  damaged 35.1 mm | flat  18.2 dense  20.9 hier  16.9 hier+tta  12.7 | section  17.8 +tta  18.5 | oracle 2D  17.3 +tta  13.1
+slice 206: section placed in 3D, mean err 5.14 mm, y 10.7 vs 11.2, flip=False, score 1.077, 2s
+  clean   21.8 mm | flat  30.4 dense  31.6 hier  30.9 hier+tta  33.5 | section  24.5 +tta  25.9 | oracle 2D  31.8 +tta  32.8
+  clean   31.4 mm | flat  13.0 dense  13.0 hier  12.6 hier+tta   3.5 | section   2.5 +tta   2.6 | oracle 2D   3.4 +tta   3.9
+  damaged 24.1 mm | flat  37.3 dense  39.0 hier  38.4 hier+tta  31.3 | section   7.6 +tta   8.6 | oracle 2D   5.4 +tta   2.1
+  damaged 27.0 mm | flat  13.3 dense  11.3 hier  13.5 hier+tta  12.3 | section  13.2 +tta  11.4 | oracle 2D  39.4 +tta  10.3
+slice 214: section placed in 3D, mean err 2.23 mm, y 15.5 vs 14.4, flip=False, score 1.104, 2s
+  clean   21.0 mm | flat  31.1 dense  60.7 hier  61.3 hier+tta  61.8 | section  31.8 +tta  32.2 | oracle 2D  31.8 +tta  32.0
+  clean   18.3 mm | flat  29.0 dense  29.8 hier  28.4 hier+tta  23.1 | section  21.9 +tta  22.9 | oracle 2D  27.2 +tta  24.3
+  damaged 35.0 mm | flat  21.4 dense  16.1 hier  15.4 hier+tta  20.8 | section   8.5 +tta   4.2 | oracle 2D  10.8 +tta   7.9
+  damaged 21.7 mm | flat   6.2 dense   6.2 hier   6.3 hier+tta  19.5 | section   5.7 +tta  14.4 | oracle 2D   5.2 +tta  12.5
+slice 217: section placed in 3D, mean err 2.17 mm, y 16.1 vs 15.6, flip=False, score 1.091, 2s
+  clean   24.3 mm | flat  18.2 dense  19.4 hier  18.9 hier+tta  19.3 | section   7.7 +tta   4.5 | oracle 2D   6.4 +tta   4.3
+  clean   27.7 mm | flat  21.8 dense  23.7 hier  20.7 hier+tta  16.6 | section   7.7 +tta   6.4 | oracle 2D   4.6 +tta   4.3
+  damaged 38.7 mm | flat  94.5 dense  94.5 hier  93.5 hier+tta   8.6 | section   4.3 +tta   6.7 | oracle 2D   5.6 +tta   8.0
+  damaged 26.1 mm | flat  56.5 dense  62.2 hier  62.2 hier+tta  66.2 | section  60.2 +tta  65.3 | oracle 2D  57.2 +tta  60.4
+slice 219: section placed in 3D, mean err 1.91 mm, y 16.9 vs 16.4, flip=False, score 1.096, 2s
+  clean   35.1 mm | flat   4.7 dense   3.4 hier   7.3 hier+tta   5.5 | section   1.7 +tta   2.4 | oracle 2D   1.5 +tta   3.8
+  clean   27.7 mm | flat  34.7 dense   7.2 hier   7.0 hier+tta  34.7 | section   4.5 +tta   4.7 | oracle 2D   2.9 +tta   3.2
+  damaged 32.4 mm | flat   9.6 dense   9.6 hier   8.9 hier+tta  14.3 | section   5.9 +tta   5.6 | oracle 2D   5.3 +tta   5.3
+  damaged 23.6 mm | flat  19.9 dense  66.1 hier  65.8 hier+tta  17.6 | section  46.1 +tta   4.9 | oracle 2D  47.1 +tta   4.8
+slice 220: section placed in 3D, mean err 2.15 mm, y 16.9 vs 16.8, flip=False, score 1.086, 2s
+  clean   31.8 mm | flat  14.3 dense  12.7 hier  14.8 hier+tta  12.5 | section   6.9 +tta   7.1 | oracle 2D   4.8 +tta   5.1
+  clean   27.8 mm | flat  10.1 dense  16.7 hier  15.3 hier+tta  13.8 | section   7.7 +tta   8.4 | oracle 2D   8.0 +tta   8.7
+  damaged 27.7 mm | flat   6.7 dense   6.2 hier   6.4 hier+tta   8.0 | section   4.1 +tta   4.7 | oracle 2D   3.5 +tta   4.1
+  damaged 27.7 mm | flat  62.9 dense  62.9 hier  62.9 hier+tta  29.4 | section   2.7 +tta   2.8 | oracle 2D   3.9 +tta  23.4
+slice 221: section placed in 3D, mean err 2.53 mm, y 17.5 vs 17.2, flip=False, score 1.085, 2s
+  clean   34.7 mm | flat   6.4 dense   6.7 hier   6.7 hier+tta   7.7 | section   3.8 +tta   5.8 | oracle 2D   3.4 +tta   3.5
+  clean   29.2 mm | flat  17.7 dense  19.3 hier  13.6 hier+tta  12.8 | section  89.6 +tta  88.9 | oracle 2D   3.2 +tta  88.8
+  damaged 20.4 mm | flat  10.1 dense  10.1 hier  11.8 hier+tta  11.8 | section   3.3 +tta   3.4 | oracle 2D   2.2 +tta   2.5
+  damaged 29.1 mm | flat  90.5 dense  90.5 hier  92.8 hier+tta  90.9 | section  45.1 +tta  46.2 | oracle 2D  44.4 +tta  46.3
+slice 222: section placed in 3D, mean err 2.24 mm, y 18.6 vs 17.6, flip=False, score 1.096, 2s
+  clean   30.5 mm | flat  15.6 dense  13.4 hier  13.5 hier+tta  13.2 | section   4.9 +tta   3.9 | oracle 2D   4.9 +tta   3.9
+  clean   36.7 mm | flat  18.5 dense  18.5 hier  19.0 hier+tta  19.9 | section   8.2 +tta   8.9 | oracle 2D   6.4 +tta   7.7
+  damaged 29.6 mm | flat  47.0 dense  47.9 hier  47.8 hier+tta  58.9 | section  22.8 +tta  37.7 | oracle 2D  19.6 +tta  35.4
+  damaged 24.5 mm | flat  27.7 dense  28.6 hier  28.0 hier+tta  42.2 | section  10.5 +tta   6.1 | oracle 2D  23.2 +tta  25.7
+slice 223: section placed in 3D, mean err 2.17 mm, y 18.6 vs 18.0, flip=False, score 1.085, 2s
+  clean   28.6 mm | flat  11.9 dense  13.0 hier   7.8 hier+tta   8.0 | section   2.6 +tta   2.1 | oracle 2D   4.0 +tta   1.1
+  clean   19.5 mm | flat   3.2 dense  11.4 hier  11.5 hier+tta  16.5 | section   2.2 +tta   3.5 | oracle 2D   2.8 +tta   5.0
+  damaged 40.4 mm | flat  10.1 dense  14.7 hier  10.9 hier+tta   8.9 | section   6.4 +tta   4.7 | oracle 2D   8.1 +tta   6.6
+  damaged 31.7 mm | flat   5.0 dense   5.0 hier   4.7 hier+tta   5.1 | section   6.9 +tta   8.2 | oracle 2D   7.1 +tta   7.5
+slice 225: section placed in 3D, mean err 2.58 mm, y 19.7 vs 18.8, flip=False, score 1.081, 2s
+  clean   19.7 mm | flat  89.1 dense  88.8 hier  89.2 hier+tta  88.4 | section  90.2 +tta  90.1 | oracle 2D  10.3 +tta  89.3
+  clean   27.8 mm | flat  17.8 dense  17.8 hier  33.6 hier+tta  28.0 | section   8.8 +tta   8.2 | oracle 2D   1.8 +tta   1.6
+  damaged 33.2 mm | flat  18.6 dense  18.6 hier  18.3 hier+tta  18.9 | section  10.0 +tta  10.8 | oracle 2D  10.5 +tta  10.8
+  damaged 24.0 mm | flat  41.4 dense  41.7 hier  41.8 hier+tta  10.7 | section  13.6 +tta  11.1 | oracle 2D  12.3 +tta   8.7
+slice 226: section placed in 3D, mean err 2.36 mm, y 20.5 vs 19.2, flip=False, score 1.093, 2s
+  clean   32.1 mm | flat   5.5 dense   6.9 hier   7.3 hier+tta   6.1 | section   7.3 +tta   6.0 | oracle 2D   6.0 +tta   5.5
+  clean   38.1 mm | flat  23.5 dense  40.8 hier  40.7 hier+tta  23.3 | section   6.2 +tta   4.7 | oracle 2D   4.4 +tta   3.2
+  damaged 24.4 mm | flat  47.1 dense  47.4 hier  47.7 hier+tta  46.5 | section  40.7 +tta  39.6 | oracle 2D  41.0 +tta  40.9
+  damaged 27.0 mm | flat   5.3 dense   5.1 hier   4.7 hier+tta   3.7 | section   5.1 +tta   4.2 | oracle 2D   5.1 +tta   3.9
+slice 233: section placed in 3D, mean err 2.41 mm, y 22.5 vs 22.0, flip=False, score 1.104, 2s
+  clean   35.6 mm | flat   5.8 dense   5.8 hier   6.0 hier+tta   5.2 | section   2.3 +tta   2.6 | oracle 2D   0.8 +tta   1.8
+  clean   22.1 mm | flat  10.6 dense  15.6 hier  15.1 hier+tta  15.3 | section   3.0 +tta   5.3 | oracle 2D   2.9 +tta   1.3
+  damaged 27.2 mm | flat  11.7 dense   9.6 hier  11.2 hier+tta  49.0 | section   4.7 +tta   4.1 | oracle 2D   4.2 +tta   3.7
+  damaged 33.4 mm | flat   2.4 dense   2.5 hier   3.0 hier+tta  11.1 | section   5.6 +tta   7.1 | oracle 2D   6.7 +tta   9.6
+slice 234: section placed in 3D, mean err 3.00 mm, y 22.9 vs 22.4, flip=False, score 1.091, 2s
+  clean   26.5 mm | flat  32.4 dense  35.3 hier  35.5 hier+tta   6.5 | section   6.8 +tta   6.2 | oracle 2D   4.6 +tta   4.2
+  clean   34.3 mm | flat   6.1 dense   7.3 hier   7.2 hier+tta   3.7 | section   3.2 +tta   4.5 | oracle 2D   0.8 +tta   0.7
+  damaged 34.6 mm | flat  42.1 dense  42.1 hier  42.1 hier+tta  37.7 | section  15.9 +tta  15.0 | oracle 2D  15.9 +tta  14.9
+  damaged 39.1 mm | flat   4.5 dense   4.9 hier   5.1 hier+tta   4.2 | section   6.3 +tta   5.8 | oracle 2D   5.4 +tta   5.1
+slice 237: section placed in 3D, mean err 2.18 mm, y 24.1 vs 23.6, flip=False, score 1.098, 2s
+  clean   37.9 mm | flat   2.9 dense   2.9 hier   2.1 hier+tta   2.8 | section   3.5 +tta   3.8 | oracle 2D   3.6 +tta   4.1
+  clean   25.1 mm | flat   2.3 dense   2.7 hier   2.9 hier+tta   4.1 | section   3.7 +tta   4.8 | oracle 2D   3.8 +tta   4.9
+  damaged 21.7 mm | flat  57.5 dense  57.5 hier  58.3 hier+tta  57.1 | section  16.2 +tta  58.8 | oracle 2D  50.7 +tta  54.5
+  damaged 38.4 mm | flat  10.1 dense  10.1 hier  10.1 hier+tta   5.7 | section   2.0 +tta   1.7 | oracle 2D   1.0 +tta   2.6
+slice 243: section placed in 3D, mean err 7.02 mm, y 31.6 vs 26.0, flip=False, score 1.101, 2s
+  clean   23.9 mm | flat   5.5 dense   5.3 hier   5.3 hier+tta   4.8 | section  12.4 +tta  12.4 | oracle 2D   3.8 +tta   3.0
+  clean   37.3 mm | flat   4.0 dense   2.9 hier   2.9 hier+tta   2.8 | section   4.0 +tta   4.4 | oracle 2D   1.4 +tta   1.8
+  damaged 20.2 mm | flat  26.0 dense  25.2 hier  25.0 hier+tta  22.7 | section  25.3 +tta  21.6 | oracle 2D  24.3 +tta  20.5
+  damaged 23.2 mm | flat  65.8 dense  68.0 hier  64.9 hier+tta  37.7 | section  63.0 +tta  62.1 | oracle 2D  57.1 +tta   7.6
+slice 256: section placed in 3D, mean err 1.96 mm, y 32.7 vs 31.2, flip=False, score 1.113, 2s
+  clean   20.2 mm | flat  51.0 dense  49.5 hier  49.9 hier+tta  50.0 | section  48.3 +tta  48.1 | oracle 2D  50.7 +tta  50.9
+  clean   27.5 mm | flat   4.4 dense   4.2 hier   3.8 hier+tta   4.2 | section   4.5 +tta   4.8 | oracle 2D   2.9 +tta   2.4
+  damaged 32.4 mm | flat  56.5 dense  57.1 hier  57.4 hier+tta  57.5 | section  39.0 +tta  39.0 | oracle 2D  41.6 +tta  41.9
+  damaged 22.8 mm | flat  59.0 dense  60.2 hier  57.1 hier+tta  28.4 | section  40.9 +tta  26.2 | oracle 2D  28.9 +tta  23.9
+slice 257: section placed in 3D, mean err 2.11 mm, y 33.1 vs 31.6, flip=False, score 1.102, 2s
+  clean   29.1 mm | flat   3.3 dense   1.3 hier   2.3 hier+tta   1.5 | section   4.3 +tta   3.7 | oracle 2D   0.9 +tta   1.5
+  clean   30.1 mm | flat   7.2 dense   7.8 hier   7.2 hier+tta   8.9 | section   4.7 +tta   4.8 | oracle 2D   6.2 +tta   6.6
+  damaged 38.6 mm | flat  60.0 dense  61.1 hier  60.1 hier+tta  59.5 | section  49.4 +tta  49.6 | oracle 2D  48.7 +tta  50.6
+  damaged 38.1 mm | flat  17.5 dense  17.5 hier  17.4 hier+tta  18.7 | section  15.5 +tta  16.0 | oracle 2D  16.5 +tta  17.6
+slice 261: section placed in 3D, mean err 2.12 mm, y 34.8 vs 33.2, flip=False, score 1.114, 2s
+  clean   40.4 mm | flat  15.9 dense  15.9 hier  15.6 hier+tta  18.1 | section  10.4 +tta  10.3 | oracle 2D   7.5 +tta   6.9
+  clean   31.5 mm | flat   4.5 dense   3.7 hier   4.5 hier+tta  10.5 | section   3.0 +tta   4.6 | oracle 2D   4.4 +tta   6.5
+  damaged 23.5 mm | flat   8.3 dense   7.9 hier   7.3 hier+tta   6.5 | section   2.4 +tta   4.4 | oracle 2D   5.1 +tta   4.8
+  damaged 27.4 mm | flat  13.6 dense  15.5 hier  15.4 hier+tta  14.3 | section   4.8 +tta   3.5 | oracle 2D   4.0 +tta   3.8
+slice 271: section placed in 3D, mean err 1.79 mm, y 38.4 vs 37.2, flip=False, score 1.101, 2s
+  clean   29.9 mm | flat   4.1 dense   5.8 hier   3.2 hier+tta   6.7 | section   2.7 +tta   2.5 | oracle 2D   2.2 +tta   3.0
+  clean   25.3 mm | flat  40.3 dense  39.8 hier  40.0 hier+tta  41.1 | section   8.1 +tta   8.4 | oracle 2D   6.3 +tta   6.6
+  damaged 29.7 mm | flat  84.6 dense  88.2 hier  84.7 hier+tta  89.0 | section  81.2 +tta  77.7 | oracle 2D  81.9 +tta  78.9
+  damaged 28.5 mm | flat  13.6 dense  13.7 hier  13.4 hier+tta  14.6 | section  10.4 +tta  11.5 | oracle 2D  11.9 +tta  12.5
+slice 273: section placed in 3D, mean err 2.12 mm, y 39.4 vs 38.0, flip=False, score 1.098, 2s
+  clean   35.2 mm | flat  53.0 dense  52.5 hier  52.4 hier+tta  54.1 | section  50.7 +tta  51.6 | oracle 2D  48.1 +tta  49.4
+  clean   20.4 mm | flat  84.7 dense  80.3 hier  80.3 hier+tta  79.0 | section  43.8 +tta  42.8 | oracle 2D  42.6 +tta  41.3
+  damaged 31.6 mm | flat  10.0 dense  10.0 hier  10.0 hier+tta   7.5 | section   2.3 +tta   1.9 | oracle 2D   1.4 +tta   3.9
+  damaged 23.9 mm | flat  40.3 dense  42.0 hier  40.8 hier+tta  38.0 | section  39.3 +tta  37.8 | oracle 2D  39.0 +tta  37.1
+slice 275: section placed in 3D, mean err 1.92 mm, y 40.1 vs 38.8, flip=False, score 1.108, 2s
+  clean   32.5 mm | flat   2.4 dense   4.4 hier   2.5 hier+tta   2.5 | section   3.1 +tta   2.1 | oracle 2D   7.1 +tta   6.9
+  clean   25.0 mm | flat   9.3 dense   7.5 hier   7.4 hier+tta   7.4 | section   6.4 +tta   6.3 | oracle 2D   8.1 +tta   8.0
+  damaged 35.0 mm | flat   5.3 dense  23.4 hier   5.2 hier+tta   6.7 | section   6.2 +tta   6.3 | oracle 2D   8.9 +tta  11.0
+  damaged 31.9 mm | flat  62.5 dense  42.6 hier  41.7 hier+tta  39.5 | section  42.5 +tta  40.3 | oracle 2D  39.5 +tta  37.7
+slice 282: section placed in 3D, mean err 1.76 mm, y 42.7 vs 41.6, flip=False, score 1.100, 2s
+  clean   30.7 mm | flat   2.0 dense   2.3 hier   2.2 hier+tta   2.8 | section   4.0 +tta   3.2 | oracle 2D   3.8 +tta   3.0
+  clean   32.8 mm | flat  52.3 dense  53.5 hier  52.6 hier+tta  53.8 | section  49.7 +tta  51.4 | oracle 2D  51.2 +tta  52.9
+  damaged 29.2 mm | flat  61.0 dense  59.9 hier  59.7 hier+tta  58.3 | section  49.3 +tta  40.5 | oracle 2D  45.9 +tta  43.4
+  damaged 30.6 mm | flat  94.8 dense   3.3 hier   3.8 hier+tta   4.7 | section   6.9 +tta   3.6 | oracle 2D   8.8 +tta   4.3
+slice 283: section placed in 3D, mean err 1.59 mm, y 42.9 vs 42.0, flip=False, score 1.102, 2s
+  clean   23.7 mm | flat  26.4 dense  73.5 hier  11.0 hier+tta  12.0 | section  13.6 +tta  15.0 | oracle 2D   4.0 +tta  11.3
+  clean   29.6 mm | flat   2.5 dense   3.4 hier   4.6 hier+tta   3.1 | section   1.4 +tta   1.9 | oracle 2D   0.7 +tta   0.8
+  damaged 36.8 mm | flat   4.8 dense   5.0 hier   4.4 hier+tta   6.1 | section   5.2 +tta   4.0 | oracle 2D   8.8 +tta   8.6
+  damaged 28.5 mm | flat  24.1 dense  26.7 hier  24.1 hier+tta  30.5 | section  20.4 +tta  15.2 | oracle 2D  26.2 +tta  23.4
+slice 286: section placed in 3D, mean err 1.92 mm, y 44.5 vs 43.2, flip=False, score 1.111, 2s
+  clean   23.1 mm | flat  25.9 dense  25.9 hier  26.0 hier+tta  25.4 | section   3.0 +tta   3.1 | oracle 2D   1.7 +tta   2.7
+  clean   31.8 mm | flat  57.2 dense  57.3 hier  57.6 hier+tta  58.2 | section   8.5 +tta   4.5 | oracle 2D  55.8 +tta  57.0
+  damaged 39.3 mm | flat   8.7 dense   8.7 hier   9.3 hier+tta   8.4 | section   5.9 +tta   5.9 | oracle 2D   5.1 +tta   5.8
+  damaged 30.1 mm | flat  52.6 dense  52.6 hier  52.9 hier+tta  54.0 | section  54.3 +tta  56.8 | oracle 2D  57.0 +tta  63.2
+slice 288: section placed in 3D, mean err 3.55 mm, y 46.2 vs 44.0, flip=False, score 1.111, 2s
+  clean   20.5 mm | flat  85.2 dense  85.5 hier  85.0 hier+tta  85.1 | section  88.0 +tta   4.5 | oracle 2D  83.3 +tta  83.9
+  clean   29.1 mm | flat   6.5 dense   7.3 hier   7.8 hier+tta   8.0 | section   7.7 +tta   8.5 | oracle 2D  10.8 +tta  21.6
+  damaged 23.0 mm | flat  28.9 dense  29.9 hier  23.3 hier+tta   9.4 | section   3.3 +tta   3.2 | oracle 2D   0.1 +tta   0.5
+  damaged 40.8 mm | flat   8.5 dense   8.5 hier   8.7 hier+tta   8.1 | section   8.0 +tta   6.6 | oracle 2D   7.7 +tta   6.4
+slice 289: section placed in 3D, mean err 2.75 mm, y 46.2 vs 44.4, flip=False, score 1.101, 2s
+  clean   27.8 mm | flat  18.1 dense  16.3 hier  17.7 hier+tta  17.8 | section   6.8 +tta   6.8 | oracle 2D   3.7 +tta   3.8
+  clean   32.4 mm | flat   7.4 dense   4.3 hier   8.2 hier+tta   7.7 | section   8.5 +tta   7.6 | oracle 2D  13.1 +tta  12.0
+  damaged 19.5 mm | flat   3.2 dense   1.5 hier   1.4 hier+tta   3.3 | section  40.2 +tta  36.8 | oracle 2D   3.3 +tta   5.7
+  damaged 32.6 mm | flat  34.5 dense  33.9 hier  33.7 hier+tta  31.5 | section  32.8 +tta  29.8 | oracle 2D  33.2 +tta  30.2
+slice 290: section placed in 3D, mean err 1.95 mm, y 46.3 vs 44.8, flip=False, score 1.120, 2s
+  clean   22.2 mm | flat  18.7 dense  15.3 hier  16.6 hier+tta  13.2 | section  11.0 +tta   9.6 | oracle 2D   9.2 +tta   8.7
+  clean   27.5 mm | flat  21.3 dense  20.2 hier  20.6 hier+tta  18.5 | section  12.0 +tta  11.7 | oracle 2D  17.6 +tta  18.4
+  damaged 24.0 mm | flat  37.9 dense  38.2 hier  37.3 hier+tta  21.8 | section  25.4 +tta  19.6 | oracle 2D  21.4 +tta  18.2
+  damaged 24.7 mm | flat  12.5 dense  17.0 hier  16.5 hier+tta  12.4 | section  12.0 +tta   9.5 | oracle 2D  12.3 +tta  10.1
+slice 291: section placed in 3D, mean err 1.53 mm, y 46.3 vs 45.2, flip=False, score 1.121, 2s
+  clean   21.3 mm | flat  31.3 dense  23.7 hier  23.7 hier+tta   6.1 | section   3.0 +tta   2.7 | oracle 2D   2.6 +tta   1.2
+  clean   35.4 mm | flat   4.5 dense   3.4 hier   4.7 hier+tta   4.4 | section   5.6 +tta   6.3 | oracle 2D   3.6 +tta   4.2
+  damaged 40.7 mm | flat  36.1 dense  38.6 hier  37.3 hier+tta  35.7 | section  13.1 +tta  35.0 | oracle 2D  12.4 +tta  38.5
+  damaged 41.8 mm | flat  15.0 dense  15.0 hier  14.2 hier+tta  15.1 | section  14.6 +tta  15.9 | oracle 2D  17.6 +tta  18.7
+slice 296: section placed in 3D, mean err 1.65 mm, y 48.2 vs 47.2, flip=False, score 1.118, 2s
+  clean   28.2 mm | flat   3.8 dense   3.4 hier   3.2 hier+tta   3.8 | section   6.1 +tta   6.8 | oracle 2D   4.9 +tta   5.5
+  clean   33.1 mm | flat   3.7 dense   4.6 hier   4.3 hier+tta   9.4 | section   1.4 +tta   1.5 | oracle 2D   1.7 +tta   1.4
+  damaged 42.8 mm | flat  18.1 dense  17.8 hier  17.8 hier+tta  17.9 | section   3.4 +tta   4.1 | oracle 2D   0.9 +tta   1.6
+  damaged 21.9 mm | flat   6.3 dense   9.0 hier   6.9 hier+tta   5.6 | section  10.1 +tta   5.4 | oracle 2D   8.5 +tta   5.0
+slice 297: section placed in 3D, mean err 1.77 mm, y 48.6 vs 47.6, flip=False, score 1.114, 2s
+  clean   31.6 mm | flat  41.2 dense  42.9 hier  41.4 hier+tta  41.2 | section  42.9 +tta   4.5 | oracle 2D   3.9 +tta   3.9
+  clean   23.5 mm | flat 106.3 dense   7.2 hier 106.6 hier+tta   7.7 | section   7.3 +tta   7.7 | oracle 2D   7.8 +tta   8.8
+  damaged 22.7 mm | flat  20.4 dense  19.8 hier  19.2 hier+tta  11.7 | section  11.7 +tta  11.9 | oracle 2D   9.4 +tta  10.0
+  damaged 26.8 mm | flat  31.6 dense  31.6 hier  30.6 hier+tta  31.2 | section  12.9 +tta  11.9 | oracle 2D  52.0 +tta  12.9
+slice 298: section placed in 3D, mean err 1.70 mm, y 49.0 vs 48.0, flip=False, score 1.118, 2s
+  clean   20.3 mm | flat   4.3 dense   8.2 hier   6.8 hier+tta   4.3 | section   6.9 +tta   5.4 | oracle 2D   3.7 +tta   2.9
+  clean   31.1 mm | flat   6.0 dense   5.6 hier   5.7 hier+tta   5.2 | section   5.7 +tta   6.3 | oracle 2D   5.2 +tta   5.7
+  damaged 31.6 mm | flat  60.1 dense  60.1 hier  61.4 hier+tta  55.9 | section  64.2 +tta  62.1 | oracle 2D  69.3 +tta  66.6
+  damaged 30.5 mm | flat  42.5 dense  45.1 hier  44.3 hier+tta  46.1 | section  26.4 +tta  26.7 | oracle 2D  27.9 +tta  27.8
+slice 310: section placed in 3D, mean err 2.13 mm, y 54.3 vs 52.8, flip=False, score 1.109, 2s
+  clean   21.2 mm | flat   8.4 dense   4.8 hier   6.6 hier+tta   6.1 | section   3.0 +tta   2.7 | oracle 2D   6.5 +tta   7.0
+  clean   19.7 mm | flat 101.2 dense  98.7 hier  99.9 hier+tta  46.2 | section   2.1 +tta  42.0 | oracle 2D  33.5 +tta  40.2
+  damaged 33.5 mm | flat  70.2 dense  70.2 hier  69.4 hier+tta  69.9 | section   3.1 +tta   2.7 | oracle 2D   5.6 +tta   7.5
+  damaged 29.3 mm | flat  27.6 dense  27.4 hier  27.9 hier+tta  27.8 | section  28.4 +tta  35.4 | oracle 2D  29.5 +tta  38.2
+slice 311: section placed in 3D, mean err 2.11 mm, y 54.6 vs 53.2, flip=False, score 1.110, 2s
+  clean   24.5 mm | flat  11.9 dense  12.0 hier   9.8 hier+tta  11.5 | section  10.1 +tta   9.1 | oracle 2D  11.4 +tta  10.8
+  clean   27.1 mm | flat   8.3 dense   8.6 hier   9.1 hier+tta  10.5 | section   5.0 +tta   6.3 | oracle 2D   2.3 +tta   2.0
+  damaged 42.3 mm | flat  10.5 dense  10.5 hier  10.9 hier+tta  10.2 | section   8.6 +tta   7.2 | oracle 2D   8.1 +tta   6.6
+  damaged 31.6 mm | flat   8.1 dense   8.3 hier   8.3 hier+tta   7.9 | section   6.7 +tta   6.3 | oracle 2D   7.0 +tta   6.6
+slice 314: section placed in 3D, mean err 2.13 mm, y 56.1 vs 54.4, flip=False, score 1.111, 2s
+  clean   18.9 mm | flat  22.2 dense  21.3 hier  21.3 hier+tta  15.1 | section  12.2 +tta   2.3 | oracle 2D  12.0 +tta   8.1
+  clean   34.5 mm | flat   4.2 dense   5.0 hier   2.3 hier+tta   8.7 | section   5.9 +tta   6.7 | oracle 2D   1.8 +tta   2.6
+  damaged 38.3 mm | flat  11.8 dense  11.9 hier  12.4 hier+tta  11.9 | section  31.2 +tta  30.5 | oracle 2D  33.8 +tta   6.4
+  damaged 38.3 mm | flat   7.4 dense   5.9 hier   5.7 hier+tta   6.1 | section   6.0 +tta   6.8 | oracle 2D   5.6 +tta   6.4
+slice 317: section placed in 3D, mean err 1.94 mm, y 56.6 vs 55.6, flip=False, score 1.118, 2s
+  clean   21.1 mm | flat  95.1 dense  96.0 hier  96.1 hier+tta  30.6 | section  20.4 +tta  16.9 | oracle 2D  16.6 +tta  16.9
+  clean   24.0 mm | flat  50.0 dense  50.1 hier  49.6 hier+tta  48.0 | section  44.9 +tta   6.9 | oracle 2D  45.2 +tta  45.3
+  damaged 18.4 mm | flat  27.6 dense  27.9 hier  27.4 hier+tta  29.2 | section  18.9 +tta  22.1 | oracle 2D  19.8 +tta  22.1
+  damaged 32.2 mm | flat  10.6 dense  10.6 hier  10.4 hier+tta  10.4 | section   8.7 +tta   9.5 | oracle 2D   8.6 +tta   9.6
+
+fraction within 5 mm
+           flat_mm  flat_dense_mm  hier_mm  flat_tta_mm  hier_tta_mm  section_mm  section_tta_mm  oracle_2d_mm  oracle_2d_tta_mm
+condition                                                                                                                       
+clean         0.23           0.20     0.22         0.22         0.24        0.41            0.44          0.49              0.49
+damaged       0.08           0.09     0.09         0.08         0.07        0.16            0.19          0.18              0.20
+
+fraction within 10 mm
+           flat_mm  flat_dense_mm  hier_mm  flat_tta_mm  hier_tta_mm  section_mm  section_tta_mm  oracle_2d_mm  oracle_2d_tta_mm
+condition                                                                                                                       
+clean         0.52           0.50     0.52         0.52         0.55        0.74            0.81          0.77              0.79
+damaged       0.24           0.26     0.26         0.29         0.29        0.50            0.51          0.51              0.53
+
+median error mm
+           flat_mm  flat_dense_mm  hier_mm  flat_tta_mm  hier_tta_mm  section_mm  section_tta_mm  oracle_2d_mm  oracle_2d_tta_mm
+condition                                                                                                                       
+clean          9.5           10.0      9.6          9.3          8.8         6.5             5.7           5.1               5.1
+damaged       21.1           20.9     20.8         18.5         17.8        10.0             9.7           9.8               9.1
+
+slice found (|y err| <= 2 mm)
+           flat_y_err  flat_dense_y_err  hier_y_err  flat_tta_y_err  flat_dense_tta_y_err  hier_tta_y_err  section_y_err_mm
+condition                                                                                                                  
+clean            0.21              0.21        0.21            0.18                  0.25            0.26              0.89
+damaged          0.19              0.19        0.16            0.15                  0.20            0.18              0.89
+
+within 10 mm: all -> most confident half
+  flat           clean   0.53 -> 0.56
+  flat           damaged 0.24 -> 0.29
+  flat_dense     clean   0.50 -> 0.59
+  flat_dense     damaged 0.26 -> 0.25
+  hier           clean   0.52 -> 0.51
+  hier           damaged 0.26 -> 0.26
+  flat_tta       clean   0.53 -> 0.60
+  flat_tta       damaged 0.29 -> 0.28
+  hier_tta       clean   0.55 -> 0.54
+  hier_tta       damaged 0.29 -> 0.30
+  section        clean   0.74 -> 0.88
+  section        damaged 0.50 -> 0.69
+  section_tta    clean   0.81 -> 0.93
+  section_tta    damaged 0.51 -> 0.72
+  oracle_2d      clean   0.77 -> 0.89
+  oracle_2d      damaged 0.51 -> 0.62
+  oracle_2d_tta  clean   0.79 -> 0.90
+  oracle_2d_tta  damaged 0.53 -> 0.72

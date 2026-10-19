@@ -1,0 +1,17 @@
+# environment and caches
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# large or re-downloadable inputs: scripts/download_data.sh and the SbR clone recreate data/
+data/
+
+# trained checkpoints (~90 MB each; retrain with scripts/06 and scripts/12)
+models/
+*.pt
+
+# large intermediates
+results/banks/
+results/stress_cache/
+results/*.npz

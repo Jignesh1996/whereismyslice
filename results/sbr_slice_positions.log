@@ -1,0 +1,21 @@
+slice 020: Pose(x=-1.1, y=-63.18, z=1.6 mm, pitch=0.1, yaw=-0.0, roll=0.0 deg, s=1.003)  flip=False  NCC 0.999
+slice 040: Pose(x=-1.1, y=-55.19, z=1.6 mm, pitch=-0.0, yaw=-0.0, roll=-0.0 deg, s=1.002)  flip=False  NCC 0.999
+slice 060: Pose(x=-1.1, y=-47.19, z=1.6 mm, pitch=0.0, yaw=0.0, roll=-0.0 deg, s=1.002)  flip=False  NCC 0.999
+slice 080: Pose(x=-1.1, y=-39.20, z=1.6 mm, pitch=0.0, yaw=-0.0, roll=-0.0 deg, s=1.002)  flip=False  NCC 0.999
+slice 100: Pose(x=-1.1, y=-31.19, z=1.6 mm, pitch=0.0, yaw=0.0, roll=-0.0 deg, s=1.002)  flip=False  NCC 0.999
+slice 120: Pose(x=-1.1, y=-23.19, z=1.6 mm, pitch=0.0, yaw=-0.0, roll=0.0 deg, s=1.002)  flip=False  NCC 0.999
+slice 140: Pose(x=-1.1, y=-15.21, z=1.6 mm, pitch=0.0, yaw=-0.0, roll=0.0 deg, s=1.001)  flip=False  NCC 0.999
+slice 160: Pose(x=-1.1, y=-7.20, z=1.6 mm, pitch=-0.0, yaw=-0.0, roll=0.0 deg, s=1.001)  flip=False  NCC 0.999
+slice 180: Pose(x=-1.1, y=0.81, z=1.6 mm, pitch=0.0, yaw=-0.0, roll=0.0 deg, s=1.002)  flip=False  NCC 0.999
+slice 200: Pose(x=-1.1, y=8.81, z=1.6 mm, pitch=0.0, yaw=-0.0, roll=0.0 deg, s=1.002)  flip=False  NCC 0.999
+slice 220: Pose(x=-1.1, y=16.80, z=1.6 mm, pitch=0.0, yaw=0.0, roll=-0.0 deg, s=1.001)  flip=False  NCC 0.999
+slice 240: Pose(x=-1.1, y=24.81, z=1.6 mm, pitch=-0.0, yaw=-0.0, roll=0.0 deg, s=1.001)  flip=False  NCC 0.999
+slice 260: Pose(x=-1.1, y=32.81, z=1.6 mm, pitch=-0.0, yaw=0.0, roll=0.0 deg, s=1.002)  flip=False  NCC 0.999
+slice 280: Pose(x=-1.1, y=40.81, z=1.6 mm, pitch=-0.0, yaw=-0.0, roll=-0.0 deg, s=1.002)  flip=False  NCC 0.999
+slice 300: Pose(x=-1.1, y=48.82, z=1.6 mm, pitch=-0.0, yaw=-0.0, roll=-0.0 deg, s=1.002)  flip=False  NCC 0.999
+slice 320: Pose(x=-1.1, y=56.82, z=1.6 mm, pitch=0.0, yaw=-0.0, roll=-0.0 deg, s=1.002)  flip=False  NCC 0.999
+slice 340: Pose(x=-1.1, y=64.81, z=1.6 mm, pitch=0.0, yaw=-0.0, roll=-0.0 deg, s=1.002)  flip=False  NCC 0.999
+slice 360: Pose(x=-1.1, y=72.80, z=1.6 mm, pitch=-0.0, yaw=-0.0, roll=-0.0 deg, s=1.003)  flip=False  NCC 0.999
+
+y = -71.19 + 0.4000 mm x slice  (|resid| median 0.01 mm, max 0.02)
+pixel size 0.4007 mm (range 0.4005-0.4014); BigBrain section of slice N ~ -59 + 20.00 N; flips 0

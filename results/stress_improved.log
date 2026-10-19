@@ -1,0 +1,322 @@
+slice 018 clean         vs clean: affine  0.00 cut-aware  0.00 deform  0.00 (gain +0.068) | vs truth:  0.92  0.92  1.29  10.1s
+slice 018 rotation 360  vs clean: affine  0.14 cut-aware  0.14 deform  0.07 (gain +0.065) | vs truth:  0.85  0.85  1.28  8.2s
+slice 018 affine 5%     vs clean: affine  0.28 cut-aware  0.28 deform  0.15 (gain +0.077) | vs truth:  1.04  1.04  1.21  8.2s
+slice 018 affine 10%    vs clean: affine  0.18 cut-aware  0.18 deform  0.08 (gain +0.071) | vs truth:  1.03  1.03  1.33  8.3s
+slice 018 elastic 5%    vs clean: affine  0.50 cut-aware  0.50 deform  0.19 (gain +0.078) | vs truth:  1.02  1.02  1.27  8.3s
+slice 018 elastic 10%   vs clean: affine  1.61 cut-aware  1.83 deform  1.52 (gain +0.066) | vs truth:  1.49  1.73  1.60  9.3s
+slice 018 cuts + tears  vs clean: affine  0.66 cut-aware  0.66 deform  0.30 (gain +0.053) | vs truth:  0.96  0.96  1.47  8.2s
+slice 018 all 5%        vs clean: affine  0.52 cut-aware  0.52 deform  0.20 (gain +0.069) | vs truth:  1.01  1.01  1.38  8.2s
+slice 018 all 10%       vs clean: affine  1.18 cut-aware  1.18 deform  0.68 (gain +0.076) | vs truth:  1.38  1.38  1.44  8.3s
+slice 021 clean         vs clean: affine  0.00 cut-aware  0.00 deform  0.00 (gain +0.067) | vs truth:  1.52  1.52  1.31  8.3s
+slice 021 rotation 360  vs clean: affine  0.19 cut-aware  0.19 deform  0.05 (gain +0.062) | vs truth:  1.36  1.36  1.31  7.8s
+slice 021 affine 5%     vs clean: affine  0.60 cut-aware  0.60 deform  0.15 (gain +0.074) | vs truth:  1.50  1.50  1.28  7.8s
+slice 021 affine 10%    vs clean: affine  0.28 cut-aware  0.28 deform  0.13 (gain +0.068) | vs truth:  1.66  1.66  1.33  7.8s
+slice 021 elastic 5%    vs clean: affine  0.66 cut-aware  0.66 deform  0.19 (gain +0.093) | vs truth:  1.72  1.72  1.31  7.8s
+slice 021 elastic 10%   vs clean: affine  0.95 cut-aware  0.95 deform  0.41 (gain +0.076) | vs truth:  1.38  1.38  1.44  7.8s
+slice 021 cuts + tears  vs clean: affine  0.39 cut-aware  0.39 deform  0.38 (gain +0.079) | vs truth:  1.63  1.63  1.49  7.8s
+slice 021 all 5%        vs clean: affine  0.72 cut-aware  0.81 deform  0.56 (gain +0.064) | vs truth:  1.48  1.33  1.26  8.8s
+slice 021 all 10%       vs clean: affine  1.58 cut-aware  1.66 deform  1.16 (gain +0.063) | vs truth:  1.59  1.60  1.38  9.3s
+slice 027 clean         vs clean: affine  0.00 cut-aware  0.00 deform  0.00 (gain +0.065) | vs truth:  0.52  0.52  1.03  8.3s
+slice 027 rotation 360  vs clean: affine  0.79 cut-aware  0.79 deform  0.09 (gain +0.062) | vs truth:  0.58  0.58  1.06  8.2s
+slice 027 affine 5%     vs clean: affine  0.86 cut-aware  0.86 deform  0.09 (gain +0.062) | vs truth:  0.61  0.61  1.04  8.3s
+slice 027 affine 10%    vs clean: affine  0.35 cut-aware  0.35 deform  0.05 (gain +0.058) | vs truth:  0.44  0.44  1.03  8.3s
+slice 027 elastic 5%    vs clean: affine  1.04 cut-aware  0.96 deform  0.37 (gain +0.082) | vs truth:  1.02  0.96  1.02  9.4s
+slice 027 elastic 10%   vs clean: affine  2.00 cut-aware  1.96 deform  0.51 (gain +0.125) | vs truth:  2.27  2.17  0.92  8.6s
+slice 027 cuts + tears  vs clean: affine  0.76 cut-aware  0.77 deform  0.38 (gain +0.037) | vs truth:  0.87  0.79  0.93  8.6s
+slice 027 all 5%        vs clean: affine  1.03 cut-aware  1.11 deform  0.43 (gain +0.075) | vs truth:  1.06  1.10  1.18  8.6s
+slice 027 all 10%       vs clean: affine  0.94 cut-aware  0.94 deform  0.33 (gain +0.047) | vs truth:  0.94  0.94  1.10  7.9s
+slice 031 clean         vs clean: affine  0.00 cut-aware  0.00 deform  0.00 (gain +0.071) | vs truth:  0.86  0.86  1.41  7.8s
+slice 031 rotation 360  vs clean: affine  0.12 cut-aware  0.12 deform  0.05 (gain +0.069) | vs truth:  0.76  0.76  1.40  7.9s
+slice 031 affine 5%     vs clean: affine  0.15 cut-aware  0.15 deform  0.07 (gain +0.071) | vs truth:  0.72  0.72  1.39  8.3s
+slice 031 affine 10%    vs clean: affine  0.59 cut-aware  0.59 deform  0.12 (gain +0.066) | vs truth:  0.54  0.54  1.35  7.9s
+slice 031 elastic 5%    vs clean: affine  0.60 cut-aware  0.60 deform  0.11 (gain +0.088) | vs truth:  1.18  1.18  1.42  7.9s
+slice 031 elastic 10%   vs clean: affine  1.09 cut-aware  1.09 deform  1.04 (gain +0.104) | vs truth:  1.29  1.29  1.66  8.2s
+slice 031 cuts + tears  vs clean: affine  2.10 cut-aware  2.00 deform  1.32 (gain +0.045) | vs truth:  2.50  2.37  2.32  9.3s
+slice 031 all 5%        vs clean: affine  0.77 cut-aware  0.87 deform  1.21 (gain +0.081) | vs truth:  1.28  1.14  1.33  9.5s
+slice 031 all 10%       vs clean: affine  1.61 cut-aware  1.69 deform  0.67 (gain +0.063) | vs truth:  1.44  1.52  1.42  9.4s
+slice 040 clean         vs clean: affine  0.00 cut-aware  0.00 deform  0.00 (gain +0.044) | vs truth:  0.65  0.51  0.94  9.3s
+slice 040 rotation 360  vs clean: affine  0.48 cut-aware  0.16 deform  0.06 (gain +0.043) | vs truth:  0.37  0.41  0.93  9.3s
+slice 040 affine 5%     vs clean: affine  0.24 cut-aware  0.08 deform  0.05 (gain +0.045) | vs truth:  0.54  0.49  0.97  9.3s
+slice 040 affine 10%    vs clean: affine  0.29 cut-aware  0.09 deform  0.04 (gain +0.046) | vs truth:  0.83  0.58  0.95  9.3s
+slice 040 elastic 5%    vs clean: affine  0.70 cut-aware  0.75 deform  0.33 (gain +0.036) | vs truth:  1.01  1.03  1.14  9.3s
+slice 040 elastic 10%   vs clean: affine  1.99 cut-aware  2.10 deform  0.62 (gain +0.062) | vs truth:  2.36  2.38  1.27  9.3s
+slice 040 cuts + tears  vs clean: affine  1.64 cut-aware  1.60 deform  0.98 (gain +0.039) | vs truth:  1.97  1.81  1.44  9.3s
+slice 040 all 5%        vs clean: affine  1.43 cut-aware  1.45 deform  1.01 (gain +0.041) | vs truth:  1.85  1.76  1.49  9.8s
+slice 040 all 10%       vs clean: affine  1.33 cut-aware  1.34 deform  0.59 (gain +0.066) | vs truth:  1.54  1.49  1.24  9.4s
+slice 072 clean         vs clean: affine  0.00 cut-aware  0.00 deform  0.00 (gain +0.022) | vs truth:  0.70  0.72  0.77  9.4s
+slice 072 rotation 360  vs clean: affine  0.02 cut-aware  0.04 deform  0.08 (gain +0.022) | vs truth:  0.71  0.71  0.75  9.4s
+slice 072 affine 5%     vs clean: affine  0.11 cut-aware  0.04 deform  0.09 (gain +0.022) | vs truth:  0.73  0.73  0.75  9.3s
+slice 072 affine 10%    vs clean: affine  0.08 cut-aware  0.03 deform  0.07 (gain +0.022) | vs truth:  0.74  0.70  0.74  9.4s
+slice 072 elastic 5%    vs clean: affine  2.45 cut-aware  2.43 deform  1.91 (gain +0.033) | vs truth:  2.58  2.63  2.21  9.3s
+slice 072 elastic 10%   vs clean: affine  1.81 cut-aware  1.88 deform  1.15 (gain +0.041) | vs truth:  2.14  2.16  1.32  8.8s
+slice 072 cuts + tears  vs clean: affine  0.37 cut-aware  0.35 deform  0.18 (gain +0.019) | vs truth:  0.63  0.63  0.70  8.7s
+slice 072 all 5%        vs clean: affine  1.79 cut-aware  1.56 deform  0.88 (gain +0.020) | vs truth:  2.00  1.79  1.22  8.8s
+slice 072 all 10%       vs clean: affine  4.75 cut-aware  4.58 deform  3.64 (gain +0.028) | vs truth:  5.23  5.07  4.09  8.8s
+slice 095 clean         vs clean: affine  0.00 cut-aware  0.00 deform  0.00 (gain +0.032) | vs truth:  0.77  0.77  0.91  8.0s
+slice 095 rotation 360  vs clean: affine  0.07 cut-aware  0.07 deform  0.04 (gain +0.032) | vs truth:  0.77  0.77  0.91  8.3s
+slice 095 affine 5%     vs clean: affine  0.03 cut-aware  0.03 deform  0.06 (gain +0.032) | vs truth:  0.78  0.78  0.92  8.3s
+slice 095 affine 10%    vs clean: affine  0.06 cut-aware  0.06 deform  0.04 (gain +0.032) | vs truth:  0.76  0.76  0.92  8.3s
+slice 095 elastic 5%    vs clean: affine  1.25 cut-aware  1.41 deform  0.59 (gain +0.047) | vs truth:  1.67  1.84  1.00  9.4s
+slice 095 elastic 10%   vs clean: affine  3.27 cut-aware  3.74 deform  3.26 (gain +0.018) | vs truth:  3.44  3.87  3.46  9.4s
+slice 095 cuts + tears  vs clean: affine  0.55 cut-aware  0.49 deform  0.18 (gain +0.035) | vs truth:  0.74  0.89  0.95  9.4s
+slice 095 all 5%        vs clean: affine  1.81 cut-aware  1.79 deform  1.20 (gain +0.036) | vs truth:  2.02  2.04  1.47  9.4s
+slice 095 all 10%       vs clean: affine  3.01 cut-aware  3.21 deform  2.49 (gain +0.039) | vs truth:  3.00  3.31  2.68  9.5s
+slice 106 clean         vs clean: affine  0.00 cut-aware  0.00 deform  0.00 (gain +0.029) | vs truth:  0.33  0.33  0.70  8.3s
+slice 106 rotation 360  vs clean: affine  0.07 cut-aware  0.07 deform  0.05 (gain +0.029) | vs truth:  0.30  0.30  0.70  8.4s
+slice 106 affine 5%     vs clean: affine  0.06 cut-aware  0.06 deform  0.05 (gain +0.029) | vs truth:  0.30  0.30  0.70  8.4s
+slice 106 affine 10%    vs clean: affine  0.05 cut-aware  0.05 deform  0.05 (gain +0.029) | vs truth:  0.29  0.29  0.71  8.4s
+slice 106 elastic 5%    vs clean: affine  0.73 cut-aware  0.76 deform  0.31 (gain +0.041) | vs truth:  0.92  0.97  0.73  9.4s
+slice 106 elastic 10%   vs clean: affine  3.50 cut-aware  3.73 deform  3.08 (gain +0.031) | vs truth:  3.59  3.80  2.95  9.4s
+slice 106 cuts + tears  vs clean: affine  0.65 cut-aware  0.69 deform  0.32 (gain +0.027) | vs truth:  0.80  0.87  0.80  9.1s
+slice 106 all 5%        vs clean: affine  1.40 cut-aware  1.10 deform  0.50 (gain +0.032) | vs truth:  1.43  1.16  0.86  9.5s
+slice 106 all 10%       vs clean: affine  3.24 cut-aware  3.30 deform  2.30 (gain +0.042) | vs truth:  3.24  3.32  2.47  9.5s
+slice 109 clean         vs clean: affine  0.00 cut-aware  0.00 deform  0.00 (gain +0.024) | vs truth:  0.31  0.37  0.70  9.4s
+slice 109 rotation 360  vs clean: affine  0.05 cut-aware  0.20 deform  0.22 (gain +0.028) | vs truth:  0.31  0.31  0.72  8.0s
+slice 109 affine 5%     vs clean: affine  0.05 cut-aware  0.04 deform  0.07 (gain +0.024) | vs truth:  0.32  0.34  0.68  8.8s
+slice 109 affine 10%    vs clean: affine  0.07 cut-aware  0.19 deform  0.22 (gain +0.027) | vs truth:  0.29  0.29  0.72  8.0s
+slice 109 elastic 5%    vs clean: affine  1.44 cut-aware  1.49 deform  0.64 (gain +0.029) | vs truth:  1.50  1.59  0.99  8.7s
+slice 109 elastic 10%   vs clean: affine  3.66 cut-aware  3.70 deform  2.56 (gain +0.041) | vs truth:  3.67  3.71  2.58  8.8s
+slice 109 cuts + tears  vs clean: affine  0.33 cut-aware  0.31 deform  0.12 (gain +0.023) | vs truth:  0.51  0.50  0.71  8.5s
+slice 109 all 5%        vs clean: affine  1.83 cut-aware  2.06 deform  1.19 (gain +0.049) | vs truth:  1.92  2.23  1.25  8.8s
+slice 109 all 10%       vs clean: affine  2.25 cut-aware  2.26 deform  1.81 (gain +0.020) | vs truth:  2.26  2.37  2.02  8.8s
+slice 144 clean         vs clean: affine  0.00 cut-aware  0.00 deform  0.00 (gain +0.021) | vs truth:  0.34  0.29  0.67  8.8s
+slice 144 rotation 360  vs clean: affine  0.07 cut-aware  0.04 deform  0.07 (gain +0.021) | vs truth:  0.32  0.29  0.67  8.8s
+slice 144 affine 5%     vs clean: affine  0.06 cut-aware  0.05 deform  0.07 (gain +0.021) | vs truth:  0.36  0.31  0.68  8.8s
+slice 144 affine 10%    vs clean: affine  0.09 cut-aware  0.10 deform  0.12 (gain +0.021) | vs truth:  0.38  0.31  0.66  8.8s
+slice 144 elastic 5%    vs clean: affine  1.31 cut-aware  1.31 deform  0.68 (gain +0.024) | vs truth:  1.42  1.40  1.12  8.8s
+slice 144 elastic 10%   vs clean: affine  3.76 cut-aware  3.82 deform  2.72 (gain +0.051) | vs truth:  3.72  3.75  2.40  8.8s
+slice 144 cuts + tears  vs clean: affine  0.99 cut-aware  0.97 deform  0.44 (gain +0.030) | vs truth:  1.05  1.09  0.93  8.8s
+slice 144 all 5%        vs clean: affine  1.34 cut-aware  1.45 deform  1.02 (gain +0.024) | vs truth:  1.43  1.55  1.16  8.8s
+slice 144 all 10%       vs clean: affine  1.58 cut-aware  1.65 deform  1.14 (gain +0.038) | vs truth:  1.58  1.62  1.01  8.8s
+slice 166 clean         vs clean: affine  0.00 cut-aware  0.00 deform  0.00 (gain +0.025) | vs truth:  0.51  0.45  0.72  8.8s
+slice 166 rotation 360  vs clean: affine  0.01 cut-aware  0.02 deform  0.03 (gain +0.025) | vs truth:  0.52  0.45  0.71  8.8s
+slice 166 affine 5%     vs clean: affine  0.03 cut-aware  0.03 deform  0.04 (gain +0.025) | vs truth:  0.52  0.47  0.71  8.8s
+slice 166 affine 10%    vs clean: affine  0.02 cut-aware  0.01 deform  0.04 (gain +0.025) | vs truth:  0.53  0.46  0.71  8.8s
+slice 166 elastic 5%    vs clean: affine  1.16 cut-aware  1.19 deform  0.53 (gain +0.034) | vs truth:  1.24  1.26  0.95  8.8s
+slice 166 elastic 10%   vs clean: affine  3.21 cut-aware  3.30 deform  2.55 (gain +0.019) | vs truth:  3.24  3.35  2.90  8.8s
+slice 166 cuts + tears  vs clean: affine  0.77 cut-aware  0.79 deform  0.38 (gain +0.036) | vs truth:  0.95  0.96  0.94  8.8s
+slice 166 all 5%        vs clean: affine  0.89 cut-aware  0.94 deform  0.49 (gain +0.039) | vs truth:  1.08  1.02  0.81  8.8s
+slice 166 all 10%       vs clean: affine  3.18 cut-aware  2.96 deform  2.05 (gain +0.047) | vs truth:  3.32  3.06  2.09  8.8s
+slice 170 clean         vs clean: affine  0.00 cut-aware  0.00 deform  0.00 (gain +0.028) | vs truth:  0.50  0.52  0.85  8.8s
+slice 170 rotation 360  vs clean: affine  0.04 cut-aware  0.03 deform  0.04 (gain +0.028) | vs truth:  0.47  0.50  0.83  8.8s
+slice 170 affine 5%     vs clean: affine  0.05 cut-aware  0.04 deform  0.05 (gain +0.028) | vs truth:  0.46  0.50  0.83  8.8s
+slice 170 affine 10%    vs clean: affine  0.03 cut-aware  0.04 deform  0.04 (gain +0.028) | vs truth:  0.48  0.51  0.84  8.8s
+slice 170 elastic 5%    vs clean: affine  1.19 cut-aware  1.19 deform  0.46 (gain +0.051) | vs truth:  1.28  1.31  0.80  8.7s
+slice 170 elastic 10%   vs clean: affine  3.09 cut-aware  3.11 deform  1.77 (gain +0.036) | vs truth:  3.12  3.14  2.26  8.8s
+slice 170 cuts + tears  vs clean: affine  0.86 cut-aware  0.93 deform  0.40 (gain +0.032) | vs truth:  1.04  1.12  0.91  8.8s
+slice 170 all 5%        vs clean: affine  1.36 cut-aware  1.41 deform  0.72 (gain +0.030) | vs truth:  1.25  1.33  0.96  8.8s
+slice 170 all 10%       vs clean: affine  3.42 cut-aware  3.48 deform  2.47 (gain +0.029) | vs truth:  3.48  3.55  2.78  8.8s
+slice 182 clean         vs clean: affine  0.00 cut-aware  0.00 deform  0.00 (gain +0.024) | vs truth:  0.64  0.63  0.93  8.8s
+slice 182 rotation 360  vs clean: affine  0.07 cut-aware  0.08 deform  0.05 (gain +0.024) | vs truth:  0.67  0.65  0.93  8.9s
+slice 182 affine 5%     vs clean: affine  0.07 cut-aware  0.07 deform  0.07 (gain +0.024) | vs truth:  0.67  0.64  0.93  8.8s
+slice 182 affine 10%    vs clean: affine  0.06 cut-aware  0.07 deform  0.05 (gain +0.024) | vs truth:  0.66  0.63  0.93  8.8s
+slice 182 elastic 5%    vs clean: affine  1.76 cut-aware  1.76 deform  0.68 (gain +0.041) | vs truth:  2.02  2.01  1.24  8.8s
+slice 182 elastic 10%   vs clean: affine  1.61 cut-aware  1.67 deform  0.63 (gain +0.039) | vs truth:  1.63  1.67  1.11  8.8s
+slice 182 cuts + tears  vs clean: affine  0.70 cut-aware  0.68 deform  0.29 (gain +0.028) | vs truth:  1.11  1.06  0.95  8.8s
+slice 182 all 5%        vs clean: affine  2.24 cut-aware  2.15 deform  0.97 (gain +0.040) | vs truth:  2.12  2.05  1.29  8.8s
+slice 182 all 10%       vs clean: affine  2.35 cut-aware  2.58 deform  1.48 (gain +0.035) | vs truth:  2.24  2.36  1.71  9.4s
+slice 187 clean         vs clean: affine  0.00 cut-aware  0.00 deform  0.00 (gain +0.028) | vs truth:  0.28  0.25  0.83  9.5s
+slice 187 rotation 360  vs clean: affine  0.02 cut-aware  0.02 deform  0.03 (gain +0.028) | vs truth:  0.28  0.23  0.83  9.4s
+slice 187 affine 5%     vs clean: affine  0.01 cut-aware  0.01 deform  0.04 (gain +0.028) | vs truth:  0.28  0.25  0.84  9.4s
+slice 187 affine 10%    vs clean: affine  0.03 cut-aware  0.05 deform  0.04 (gain +0.029) | vs truth:  0.26  0.21  0.84  9.4s
+slice 187 elastic 5%    vs clean: affine  1.67 cut-aware  1.87 deform  1.18 (gain +0.026) | vs truth:  1.60  1.76  1.31  9.5s
+slice 187 elastic 10%   vs clean: affine  2.81 cut-aware  2.81 deform  1.56 (gain +0.047) | vs truth:  2.84  2.84  1.64  8.0s
+slice 187 cuts + tears  vs clean: affine  0.46 cut-aware  0.47 deform  0.19 (gain +0.031) | vs truth:  0.54  0.57  0.84  8.8s
+slice 187 all 5%        vs clean: affine  1.72 cut-aware  1.74 deform  0.60 (gain +0.046) | vs truth:  1.66  1.68  0.80  9.2s
+slice 187 all 10%       vs clean: affine  2.02 cut-aware  1.88 deform  0.78 (gain +0.039) | vs truth:  1.93  1.78  1.12  9.5s
+slice 194 clean         vs clean: affine  0.00 cut-aware  0.00 deform  0.00 (gain +0.034) | vs truth:  0.10  0.10  0.97  8.4s
+slice 194 rotation 360  vs clean: affine  0.02 cut-aware  0.02 deform  0.03 (gain +0.033) | vs truth:  0.09  0.09  0.98  8.4s
+slice 194 affine 5%     vs clean: affine  0.03 cut-aware  0.03 deform  0.04 (gain +0.034) | vs truth:  0.09  0.09  0.97  8.4s
+slice 194 affine 10%    vs clean: affine  0.04 cut-aware  0.04 deform  0.04 (gain +0.033) | vs truth:  0.11  0.11  0.97  8.4s
+slice 194 elastic 5%    vs clean: affine  1.97 cut-aware  1.98 deform  1.21 (gain +0.032) | vs truth:  1.98  1.98  1.80  9.5s
+slice 194 elastic 10%   vs clean: affine  2.81 cut-aware  2.85 deform  1.93 (gain +0.026) | vs truth:  2.82  2.85  2.34  9.4s
+slice 194 cuts + tears  vs clean: affine  0.90 cut-aware  0.82 deform  0.33 (gain +0.042) | vs truth:  0.91  0.84  1.06  9.4s
+slice 194 all 5%        vs clean: affine  1.06 cut-aware  1.06 deform  0.65 (gain +0.038) | vs truth:  1.08  1.08  1.00  8.4s
+slice 194 all 10%       vs clean: affine  2.23 cut-aware  2.38 deform  1.25 (gain +0.042) | vs truth:  2.22  2.35  1.46  9.5s
+slice 201 clean         vs clean: affine  0.00 cut-aware  0.00 deform  0.00 (gain +0.028) | vs truth:  0.40  0.40  0.91  8.5s
+slice 201 rotation 360  vs clean: affine  0.06 cut-aware  0.06 deform  0.04 (gain +0.027) | vs truth:  0.40  0.40  0.91  8.4s
+slice 201 affine 5%     vs clean: affine  0.07 cut-aware  0.07 deform  0.05 (gain +0.027) | vs truth:  0.39  0.39  0.91  8.4s
+slice 201 affine 10%    vs clean: affine  0.08 cut-aware  0.08 deform  0.05 (gain +0.027) | vs truth:  0.41  0.41  0.90  8.4s
+slice 201 elastic 5%    vs clean: affine  0.86 cut-aware  0.86 deform  0.33 (gain +0.043) | vs truth:  0.93  0.93  0.90  8.3s
+slice 201 elastic 10%   vs clean: affine  4.16 cut-aware  4.23 deform  3.45 (gain +0.038) | vs truth:  4.21  4.25  3.67  9.4s
+slice 201 cuts + tears  vs clean: affine  0.84 cut-aware  0.84 deform  0.29 (gain +0.030) | vs truth:  1.02  1.02  1.04  8.4s
+slice 201 all 5%        vs clean: affine  1.42 cut-aware  1.56 deform  0.82 (gain +0.033) | vs truth:  1.48  1.70  1.29  9.5s
+slice 201 all 10%       vs clean: affine  1.95 cut-aware  1.95 deform  0.69 (gain +0.056) | vs truth:  2.15  2.15  1.28  8.4s
+slice 209 clean         vs clean: affine  0.00 cut-aware  0.00 deform  0.00 (gain +0.042) | vs truth:  0.40  0.40  1.08  9.5s
+slice 209 rotation 360  vs clean: affine  0.06 cut-aware  0.06 deform  0.06 (gain +0.042) | vs truth:  0.45  0.45  1.07  9.5s
+slice 209 affine 5%     vs clean: affine  0.10 cut-aware  0.08 deform  0.07 (gain +0.042) | vs truth:  0.47  0.47  1.09  9.5s
+slice 209 affine 10%    vs clean: affine  0.09 cut-aware  0.08 deform  0.06 (gain +0.042) | vs truth:  0.45  0.47  1.08  8.8s
+slice 209 elastic 5%    vs clean: affine  1.51 cut-aware  1.64 deform  0.59 (gain +0.056) | vs truth:  1.50  1.72  1.11  8.8s
+slice 209 elastic 10%   vs clean: affine  2.31 cut-aware  2.45 deform  2.14 (gain +0.039) | vs truth:  2.29  2.44  1.92  8.8s
+slice 209 cuts + tears  vs clean: affine  1.36 cut-aware  1.47 deform  0.51 (gain +0.051) | vs truth:  1.43  1.40  1.23  8.8s
+slice 209 all 5%        vs clean: affine  1.43 cut-aware  1.45 deform  0.95 (gain +0.044) | vs truth:  1.49  1.53  1.32  8.8s
+slice 209 all 10%       vs clean: affine  3.58 cut-aware  3.83 deform  3.06 (gain +0.026) | vs truth:  3.59  3.77  3.20  8.8s
+slice 224 clean         vs clean: affine  0.00 cut-aware  0.00 deform  0.00 (gain +0.030) | vs truth:  0.93  0.92  1.24  8.8s
+slice 224 rotation 360  vs clean: affine  0.03 cut-aware  0.03 deform  0.04 (gain +0.030) | vs truth:  0.92  0.92  1.25  8.8s
+slice 224 affine 5%     vs clean: affine  0.06 cut-aware  0.10 deform  0.13 (gain +0.029) | vs truth:  0.91  0.97  1.28  8.8s
+slice 224 affine 10%    vs clean: affine  0.08 cut-aware  0.06 deform  0.05 (gain +0.030) | vs truth:  0.86  0.87  1.25  8.8s
+slice 224 elastic 5%    vs clean: affine  2.03 cut-aware  2.23 deform  1.38 (gain +0.039) | vs truth:  1.87  1.95  1.31  8.8s
+slice 224 elastic 10%   vs clean: affine  2.59 cut-aware  2.81 deform  1.73 (gain +0.052) | vs truth:  2.92  3.16  2.44  8.8s
+slice 224 cuts + tears  vs clean: affine  0.53 cut-aware  0.55 deform  0.31 (gain +0.036) | vs truth:  0.98  1.14  1.47  8.8s
+slice 224 all 5%        vs clean: affine  1.79 cut-aware  1.79 deform  0.60 (gain +0.051) | vs truth:  1.98  1.98  1.32  8.8s
+slice 224 all 10%       vs clean: affine  2.78 cut-aware  2.90 deform  2.00 (gain +0.039) | vs truth:  2.50  2.61  1.90  8.8s
+slice 239 clean         vs clean: affine  0.00 cut-aware  0.00 deform  0.00 (gain +0.029) | vs truth:  0.28  0.28  0.79  8.0s
+slice 239 rotation 360  vs clean: affine  0.03 cut-aware  0.03 deform  0.04 (gain +0.030) | vs truth:  0.29  0.29  0.80  8.0s
+slice 239 affine 5%     vs clean: affine  0.03 cut-aware  0.03 deform  0.05 (gain +0.030) | vs truth:  0.28  0.28  0.81  8.0s
+slice 239 affine 10%    vs clean: affine  0.05 cut-aware  0.05 deform  0.05 (gain +0.029) | vs truth:  0.29  0.29  0.80  8.0s
+slice 239 elastic 5%    vs clean: affine  1.30 cut-aware  1.30 deform  0.35 (gain +0.043) | vs truth:  1.32  1.32  1.01  8.0s
+slice 239 elastic 10%   vs clean: affine  2.96 cut-aware  2.96 deform  2.24 (gain +0.039) | vs truth:  2.95  2.95  2.11  8.0s
+slice 239 cuts + tears  vs clean: affine  0.76 cut-aware  0.76 deform  0.30 (gain +0.033) | vs truth:  0.83  0.83  0.95  8.0s
+slice 239 all 5%        vs clean: affine  1.45 cut-aware  1.53 deform  0.69 (gain +0.056) | vs truth:  1.45  1.51  1.02  8.8s
+slice 239 all 10%       vs clean: affine  2.34 cut-aware  2.43 deform  1.71 (gain +0.048) | vs truth:  2.45  2.57  1.83  8.8s
+slice 250 clean         vs clean: affine  0.00 cut-aware  0.00 deform  0.00 (gain +0.022) | vs truth:  0.32  0.37  0.63  8.8s
+slice 250 rotation 360  vs clean: affine  0.08 cut-aware  0.05 deform  0.06 (gain +0.023) | vs truth:  0.30  0.38  0.64  8.8s
+slice 250 affine 5%     vs clean: affine  0.08 cut-aware  0.06 deform  0.06 (gain +0.022) | vs truth:  0.32  0.37  0.63  8.8s
+slice 250 affine 10%    vs clean: affine  0.14 cut-aware  0.04 deform  0.07 (gain +0.023) | vs truth:  0.26  0.37  0.63  8.8s
+slice 250 elastic 5%    vs clean: affine  0.56 cut-aware  0.58 deform  0.24 (gain +0.027) | vs truth:  0.68  0.74  0.69  8.8s
+slice 250 elastic 10%   vs clean: affine  1.69 cut-aware  1.71 deform  0.63 (gain +0.058) | vs truth:  1.64  1.70  0.84  8.8s
+slice 250 cuts + tears  vs clean: affine  0.59 cut-aware  0.59 deform  0.33 (gain +0.023) | vs truth:  0.67  0.71  0.67  8.8s
+slice 250 all 5%        vs clean: affine  1.08 cut-aware  1.07 deform  0.45 (gain +0.037) | vs truth:  1.11  1.18  0.81  9.5s
+slice 250 all 10%       vs clean: affine  2.46 cut-aware  2.52 deform  1.64 (gain +0.053) | vs truth:  2.42  2.52  1.65  9.5s
+slice 260 clean         vs clean: affine  0.00 cut-aware  0.00 deform  0.00 (gain +0.026) | vs truth:  0.49  0.57  0.77  9.4s
+slice 260 rotation 360  vs clean: affine  0.06 cut-aware  0.03 deform  0.04 (gain +0.027) | vs truth:  0.47  0.55  0.78  9.4s
+slice 260 affine 5%     vs clean: affine  0.07 cut-aware  0.05 deform  0.04 (gain +0.027) | vs truth:  0.47  0.53  0.77  9.4s
+slice 260 affine 10%    vs clean: affine  0.05 cut-aware  0.04 deform  0.04 (gain +0.027) | vs truth:  0.48  0.54  0.77  9.2s
+slice 260 elastic 5%    vs clean: affine  1.00 cut-aware  1.07 deform  0.41 (gain +0.052) | vs truth:  1.06  1.10  0.80  9.0s
+slice 260 elastic 10%   vs clean: affine  1.17 cut-aware  1.26 deform  0.80 (gain +0.041) | vs truth:  1.33  1.48  1.25  9.4s
+slice 260 cuts + tears  vs clean: affine  0.57 cut-aware  0.56 deform  0.27 (gain +0.023) | vs truth:  0.81  0.86  0.89  9.4s
+slice 260 all 5%        vs clean: affine  1.12 cut-aware  1.21 deform  0.55 (gain +0.033) | vs truth:  1.31  1.41  1.13  9.4s
+slice 260 all 10%       vs clean: affine  1.42 cut-aware  1.58 deform  0.97 (gain +0.037) | vs truth:  1.60  1.85  1.42  9.4s
+slice 262 clean         vs clean: affine  0.00 cut-aware  0.00 deform  0.00 (gain +0.027) | vs truth:  0.27  0.29  0.75  9.4s
+slice 262 rotation 360  vs clean: affine  0.05 cut-aware  0.05 deform  0.04 (gain +0.027) | vs truth:  0.23  0.26  0.75  9.4s
+slice 262 affine 5%     vs clean: affine  0.04 cut-aware  0.05 deform  0.04 (gain +0.027) | vs truth:  0.23  0.25  0.75  9.0s
+slice 262 affine 10%    vs clean: affine  0.04 cut-aware  0.04 deform  0.04 (gain +0.027) | vs truth:  0.24  0.27  0.76  8.8s
+slice 262 elastic 5%    vs clean: affine  1.33 cut-aware  1.32 deform  0.73 (gain +0.041) | vs truth:  1.34  1.34  1.07  8.8s
+slice 262 elastic 10%   vs clean: affine  2.11 cut-aware  2.09 deform  1.59 (gain +0.035) | vs truth:  2.17  2.15  1.72  8.8s
+slice 262 cuts + tears  vs clean: affine  0.39 cut-aware  0.40 deform  0.14 (gain +0.031) | vs truth:  0.54  0.49  0.76  8.8s
+slice 262 all 5%        vs clean: affine  1.05 cut-aware  1.08 deform  0.46 (gain +0.027) | vs truth:  1.02  1.03  0.82  9.4s
+slice 262 all 10%       vs clean: affine  1.87 cut-aware  1.83 deform  1.29 (gain +0.051) | vs truth:  1.92  1.89  1.43  8.8s
+slice 264 clean         vs clean: affine  0.00 cut-aware  0.00 deform  0.00 (gain +0.019) | vs truth:  0.22  0.17  0.63  8.8s
+slice 264 rotation 360  vs clean: affine  0.04 cut-aware  0.03 deform  0.05 (gain +0.020) | vs truth:  0.23  0.18  0.63  8.8s
+slice 264 affine 5%     vs clean: affine  0.04 cut-aware  0.07 deform  0.06 (gain +0.020) | vs truth:  0.23  0.20  0.63  8.8s
+slice 264 affine 10%    vs clean: affine  0.05 cut-aware  0.04 deform  0.05 (gain +0.019) | vs truth:  0.23  0.19  0.62  8.8s
+slice 264 elastic 5%    vs clean: affine  0.86 cut-aware  0.91 deform  0.33 (gain +0.034) | vs truth:  0.77  0.84  0.74  8.8s
+slice 264 elastic 10%   vs clean: affine  2.15 cut-aware  2.16 deform  1.53 (gain +0.033) | vs truth:  2.18  2.19  1.85  8.8s
+slice 264 cuts + tears  vs clean: affine  0.40 cut-aware  0.40 deform  0.16 (gain +0.023) | vs truth:  0.51  0.48  0.70  8.8s
+slice 264 all 5%        vs clean: affine  0.72 cut-aware  0.72 deform  0.30 (gain +0.032) | vs truth:  0.79  0.76  0.77  8.8s
+slice 264 all 10%       vs clean: affine  2.85 cut-aware  3.00 deform  1.59 (gain +0.038) | vs truth:  2.81  2.98  1.90  8.8s
+slice 271 clean         vs clean: affine  0.00 cut-aware  0.00 deform  0.00 (gain +0.014) | vs truth:  0.32  0.37  0.46  8.8s
+slice 271 rotation 360  vs clean: affine  0.03 cut-aware  0.04 deform  0.06 (gain +0.013) | vs truth:  0.34  0.39  0.46  8.8s
+slice 271 affine 5%     vs clean: affine  0.04 cut-aware  0.03 deform  0.06 (gain +0.014) | vs truth:  0.35  0.38  0.46  9.4s
+slice 271 affine 10%    vs clean: affine  0.04 cut-aware  0.04 deform  0.06 (gain +0.013) | vs truth:  0.36  0.40  0.46  9.5s
+Timeout (0:05:00)!
+Thread 0x00006ff928d946c0 (most recent call first):
+  <no Python frame>
+
+Thread 0x00006ffd45f1c780 (most recent call first):
+  File "/home/hbp/wheres_my_slice/src/wms/inplane.py", line 137 in refine
+  File "/home/hbp/wheres_my_slice/src/wms/inplane.py", line 151 in localise
+  File "/home/hbp/wheres_my_slice/scripts/15_stress_improved.py", line 76 in main
+  File "/home/hbp/wheres_my_slice/scripts/15_stress_improved.py", line 116 in <module>
+systemd-run failed with exit status 1.
+slice 271 clean         vs clean: affine  0.00 cut-aware  0.00 deform  0.00 (gain +0.014) | vs truth:  0.32  0.37  0.46  8.2s
+slice 271 rotation 360  vs clean: affine  0.03 cut-aware  0.04 deform  0.06 (gain +0.013) | vs truth:  0.34  0.39  0.46  7.2s
+slice 271 affine 5%     vs clean: affine  0.04 cut-aware  0.03 deform  0.05 (gain +0.014) | vs truth:  0.35  0.38  0.46  7.1s
+slice 271 affine 10%    vs clean: affine  0.04 cut-aware  0.04 deform  0.06 (gain +0.013) | vs truth:  0.36  0.40  0.47  7.1s
+slice 271 elastic 5%    vs clean: affine  0.88 cut-aware  0.91 deform  0.48 (gain +0.033) | vs truth:  0.96  1.04  0.69  7.2s
+slice 271 elastic 10%   vs clean: affine  3.06 cut-aware  3.13 deform  2.23 (gain +0.029) | vs truth:  3.11  3.24  2.40  7.2s
+slice 271 cuts + tears  vs clean: affine  0.43 cut-aware  0.42 deform  0.17 (gain +0.013) | vs truth:  0.49  0.59  0.56  7.2s
+slice 271 all 5%        vs clean: affine  1.04 cut-aware  1.06 deform  0.49 (gain +0.022) | vs truth:  1.13  1.20  0.71  7.2s
+slice 271 all 10%       vs clean: affine  3.18 cut-aware  3.01 deform  1.29 (gain +0.035) | vs truth:  3.05  2.91  1.50  7.2s
+slice 285 clean         vs clean: affine  0.00 cut-aware  0.00 deform  0.00 (gain +0.017) | vs truth:  0.24  0.24  0.54  6.6s
+slice 285 rotation 360  vs clean: affine  0.03 cut-aware  0.06 deform  0.13 (gain +0.017) | vs truth:  0.21  0.26  0.51  7.1s
+slice 285 affine 5%     vs clean: affine  0.03 cut-aware  0.07 deform  0.14 (gain +0.017) | vs truth:  0.22  0.27  0.52  7.1s
+slice 285 affine 10%    vs clean: affine  0.03 cut-aware  0.06 deform  0.13 (gain +0.017) | vs truth:  0.21  0.25  0.51  7.1s
+slice 285 elastic 5%    vs clean: affine  1.82 cut-aware  1.84 deform  0.72 (gain +0.051) | vs truth:  1.81  1.86  0.86  7.1s
+slice 285 elastic 10%   vs clean: affine  1.91 cut-aware  1.93 deform  0.57 (gain +0.060) | vs truth:  1.99  2.03  0.82  7.1s
+slice 285 cuts + tears  vs clean: affine  0.67 cut-aware  0.66 deform  0.29 (gain +0.025) | vs truth:  0.69  0.77  0.67  7.1s
+slice 285 all 5%        vs clean: affine  1.57 cut-aware  1.57 deform  0.51 (gain +0.040) | vs truth:  1.58  1.58  0.73  6.7s
+slice 285 all 10%       vs clean: affine  2.94 cut-aware  3.00 deform  2.31 (gain +0.038) | vs truth:  2.91  2.98  2.30  7.2s
+slice 286 clean         vs clean: affine  0.00 cut-aware  0.00 deform  0.00 (gain +0.015) | vs truth:  0.29  0.29  0.46  6.6s
+slice 286 rotation 360  vs clean: affine  0.02 cut-aware  0.02 deform  0.03 (gain +0.015) | vs truth:  0.27  0.27  0.47  6.7s
+slice 286 affine 5%     vs clean: affine  0.02 cut-aware  0.02 deform  0.04 (gain +0.016) | vs truth:  0.28  0.28  0.47  6.7s
+slice 286 affine 10%    vs clean: affine  0.03 cut-aware  0.03 deform  0.04 (gain +0.016) | vs truth:  0.29  0.29  0.47  6.7s
+slice 286 elastic 5%    vs clean: affine  1.05 cut-aware  1.07 deform  0.38 (gain +0.032) | vs truth:  1.19  1.22  0.60  7.1s
+slice 286 elastic 10%   vs clean: affine  2.81 cut-aware  2.80 deform  1.73 (gain +0.033) | vs truth:  2.86  2.84  1.78  7.1s
+slice 286 cuts + tears  vs clean: affine  0.63 cut-aware  0.62 deform  0.22 (gain +0.022) | vs truth:  0.72  0.75  0.52  7.1s
+slice 286 all 5%        vs clean: affine  2.18 cut-aware  2.18 deform  0.84 (gain +0.042) | vs truth:  2.29  2.29  1.10  6.8s
+slice 286 all 10%       vs clean: affine  2.36 cut-aware  2.51 deform  1.63 (gain +0.031) | vs truth:  2.38  2.56  1.82  7.1s
+slice 299 clean         vs clean: affine  0.00 cut-aware  0.00 deform  0.00 (gain +0.019) | vs truth:  0.53  0.43  0.62  7.2s
+slice 299 rotation 360  vs clean: affine  0.09 cut-aware  0.03 deform  0.06 (gain +0.018) | vs truth:  0.47  0.42  0.59  7.2s
+slice 299 affine 5%     vs clean: affine  0.06 cut-aware  0.04 deform  0.07 (gain +0.018) | vs truth:  0.49  0.43  0.60  7.1s
+slice 299 affine 10%    vs clean: affine  0.06 cut-aware  0.03 deform  0.09 (gain +0.019) | vs truth:  0.49  0.41  0.57  7.1s
+slice 299 elastic 5%    vs clean: affine  1.08 cut-aware  1.06 deform  0.55 (gain +0.026) | vs truth:  1.18  1.09  0.53  7.2s
+slice 299 elastic 10%   vs clean: affine  2.82 cut-aware  2.99 deform  1.36 (gain +0.054) | vs truth:  3.06  3.14  1.61  7.2s
+slice 299 cuts + tears  vs clean: affine  0.47 cut-aware  0.50 deform  0.42 (gain +0.015) | vs truth:  0.52  0.49  0.47  7.2s
+slice 299 all 5%        vs clean: affine  1.27 cut-aware  1.23 deform  0.56 (gain +0.036) | vs truth:  1.50  1.36  0.78  7.2s
+slice 299 all 10%       vs clean: affine  1.78 cut-aware  1.61 deform  1.21 (gain +0.038) | vs truth:  1.60  1.51  1.00  7.2s
+slice 302 clean         vs clean: affine  0.00 cut-aware  0.00 deform  0.00 (gain +0.010) | vs truth:  0.30  0.30  0.37  6.7s
+slice 302 rotation 360  vs clean: affine  0.04 cut-aware  0.04 deform  0.37 (gain +0.010, gated off) | vs truth:  0.30  0.30  0.30  6.7s
+slice 302 affine 5%     vs clean: affine  0.05 cut-aware  0.05 deform  0.37 (gain +0.010, gated off) | vs truth:  0.30  0.30  0.30  6.7s
+slice 302 affine 10%    vs clean: affine  0.05 cut-aware  0.05 deform  0.07 (gain +0.010) | vs truth:  0.29  0.29  0.37  6.7s
+slice 302 elastic 5%    vs clean: affine  1.98 cut-aware  1.98 deform  1.04 (gain +0.038) | vs truth:  2.18  2.18  1.16  6.7s
+slice 302 elastic 10%   vs clean: affine  2.15 cut-aware  2.15 deform  0.97 (gain +0.047) | vs truth:  2.37  2.37  1.06  6.7s
+slice 302 cuts + tears  vs clean: affine  0.52 cut-aware  0.61 deform  0.28 (gain +0.012) | vs truth:  0.57  0.72  0.52  7.2s
+slice 302 all 5%        vs clean: affine  1.22 cut-aware  1.22 deform  0.67 (gain +0.023) | vs truth:  1.20  1.20  0.80  6.8s
+slice 302 all 10%       vs clean: affine  3.14 cut-aware  3.31 deform  2.49 (gain +0.031) | vs truth:  3.21  3.38  2.55  7.2s
+slice 308 clean         vs clean: affine  0.00 cut-aware  0.00 deform  0.00 (gain +0.018) | vs truth:  0.34  0.35  0.57  7.2s
+slice 308 rotation 360  vs clean: affine  0.05 cut-aware  0.04 deform  0.06 (gain +0.018) | vs truth:  0.37  0.36  0.57  7.2s
+slice 308 affine 5%     vs clean: affine  0.08 cut-aware  0.09 deform  0.12 (gain +0.019) | vs truth:  0.40  0.40  0.64  6.7s
+slice 308 affine 10%    vs clean: affine  0.06 cut-aware  0.06 deform  0.09 (gain +0.018) | vs truth:  0.38  0.38  0.60  7.2s
+slice 308 elastic 5%    vs clean: affine  1.12 cut-aware  1.11 deform  0.61 (gain +0.037) | vs truth:  1.29  1.29  0.92  6.7s
+slice 308 elastic 10%   vs clean: affine  2.71 cut-aware  2.69 deform  2.18 (gain +0.029) | vs truth:  2.60  2.62  2.11  7.2s
+slice 308 cuts + tears  vs clean: affine  0.65 cut-aware  0.67 deform  0.38 (gain +0.021) | vs truth:  0.80  0.85  0.61  7.2s
+slice 308 all 5%        vs clean: affine  1.32 cut-aware  1.36 deform  0.74 (gain +0.040) | vs truth:  1.38  1.43  0.89  7.2s
+slice 308 all 10%       vs clean: affine  1.89 cut-aware  2.10 deform  1.53 (gain +0.042) | vs truth:  1.82  1.98  1.57  7.2s
+slice 311 clean         vs clean: affine  0.00 cut-aware  0.00 deform  0.00 (gain +0.013) | vs truth:  0.52  0.56  0.62  7.2s
+slice 311 rotation 360  vs clean: affine  0.05 cut-aware  0.05 deform  0.06 (gain +0.013) | vs truth:  0.52  0.56  0.61  7.2s
+slice 311 affine 5%     vs clean: affine  0.06 cut-aware  0.05 deform  0.08 (gain +0.014) | vs truth:  0.51  0.55  0.60  7.2s
+slice 311 affine 10%    vs clean: affine  0.05 cut-aware  0.05 deform  0.08 (gain +0.013) | vs truth:  0.52  0.57  0.63  7.2s
+slice 311 elastic 5%    vs clean: affine  1.02 cut-aware  1.06 deform  0.39 (gain +0.030) | vs truth:  1.10  1.14  0.79  7.2s
+slice 311 elastic 10%   vs clean: affine  2.05 cut-aware  2.07 deform  1.03 (gain +0.040) | vs truth:  2.00  2.00  1.08  7.2s
+slice 311 cuts + tears  vs clean: affine  0.70 cut-aware  0.70 deform  0.29 (gain +0.017) | vs truth:  0.72  0.72  0.59  6.7s
+slice 311 all 5%        vs clean: affine  1.19 cut-aware  1.19 deform  0.39 (gain +0.037) | vs truth:  1.38  1.38  0.72  6.7s
+slice 311 all 10%       vs clean: affine  3.59 cut-aware  3.53 deform  1.28 (gain +0.051) | vs truth:  3.69  3.59  1.44  7.2s
+
+median shift vs own clean result (mm)
+              affine_vs_clean_mm  cut_aware_vs_clean_mm  deform_vs_clean_mm  bspline_vs_clean_mm
+condition                                                                                       
+clean                       0.00                   0.00                0.00                 0.00
+rotation 360                0.05                   0.05                0.05                 0.58
+affine 5%                   0.06                   0.05                0.07                 0.52
+affine 10%                  0.06                   0.05                0.05                 0.47
+elastic 5%                  1.14                   1.15                0.51                 0.96
+elastic 10%                 2.45                   2.57                1.58                 1.99
+cuts + tears                0.65                   0.66                0.30                 0.80
+all 5%                      1.33                   1.29                0.63                 0.96
+all 10%                     2.34                   2.47                1.50                 1.59
+
+median error vs truth (mm)
+              affine_mean_mm  cut_aware_mean_mm  deform_mean_mm  bspline_mean_mm
+condition                                                                       
+clean                   0.40               0.40            0.77             1.32
+rotation 360            0.39               0.41            0.76             1.38
+affine 5%               0.43               0.41            0.76             1.31
+affine 10%              0.43               0.41            0.77             1.43
+elastic 5%              1.28               1.30            1.01             1.43
+elastic 10%             2.49               2.53            1.75             2.25
+cuts + tears            0.81               0.84            0.90             1.40
+all 5%                  1.43               1.40            1.06             1.56
+all 10%                 2.32               2.44            1.61             1.93
+
+deformation kept (fraction)
+condition
+clean           1.00
+rotation 360    0.97
+affine 5%       0.97
+affine 10%      1.00
+elastic 5%      1.00
+elastic 10%     1.00
+cuts + tears    1.00
+all 5%          1.00
+all 10%         1.00

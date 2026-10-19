@@ -1,0 +1,46 @@
+[project]
+name = "wheres-my-slice"
+version = "0.1.0"
+description = "Localize human histology sections in 3D MRI / BigBrain space: embedding retrieval + classical registration"
+requires-python = ">=3.12,<3.13"
+dependencies = [
+    "numpy",
+    "scipy",
+    "nibabel",
+    "nilearn",
+    "siibra==1.0.1a25",
+    "matplotlib",
+    "pillow",
+    "scikit-image",
+    "scikit-learn",
+    "SimpleITK",
+    "antspyx",
+    "pandas",
+    "tqdm",
+    "torch>=2.7",          # cu128 build: RTX 5060 (Blackwell, sm_120) needs CUDA 12.8+
+    "torchvision",
+    "timm>=1.0",           # DINOv2 backbones
+    "faiss-cpu",           # nearest-neighbour retrieval over the slice bank
+]
+
+[dependency-groups]
+dev = ["pytest", "ipykernel"]
+
+[tool.uv]
+package = true
+
+[tool.uv.sources]
+torch = { index = "pytorch-cu128" }
+torchvision = { index = "pytorch-cu128" }
+
+[[tool.uv.index]]
+name = "pytorch-cu128"
+url = "https://download.pytorch.org/whl/cu128"
+explicit = true
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/wms"]

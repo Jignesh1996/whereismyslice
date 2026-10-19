@@ -1,0 +1,282 @@
+slice 018 clean         rot     0.0  vs truth: affine  0.92 B-spline  1.22 mm | vs own clean: affine  0.00 B-spline  0.00 mm  6.8s
+slice 018 rotation 360  rot    54.6  vs truth: affine  0.85 B-spline  1.16 mm | vs own clean: affine  0.14 B-spline  0.47 mm  5.8s
+slice 018 affine 5%     rot     0.0  vs truth: affine  1.04 B-spline  1.93 mm | vs own clean: affine  0.28 B-spline  0.97 mm  5.9s
+slice 018 affine 10%    rot     0.0  vs truth: affine  1.03 B-spline  2.04 mm | vs own clean: affine  0.18 B-spline  1.00 mm  5.8s
+slice 018 elastic 5%    rot     0.0  vs truth: affine  1.02 B-spline  1.73 mm | vs own clean: affine  0.50 B-spline  1.50 mm  5.8s
+slice 018 elastic 10%   rot     0.0  vs truth: affine  1.49 B-spline  2.20 mm | vs own clean: affine  1.61 B-spline  1.77 mm  5.9s
+slice 018 cuts + tears  rot     0.0  vs truth: affine  0.96 B-spline  2.22 mm | vs own clean: affine  0.66 B-spline  1.65 mm  5.9s
+slice 018 all 5%        rot  -144.8  vs truth: affine  1.01 B-spline  1.60 mm | vs own clean: affine  0.52 B-spline  0.89 mm  5.8s
+slice 018 all 10%       rot   106.8  vs truth: affine  1.38 B-spline  1.87 mm | vs own clean: affine  1.18 B-spline  1.14 mm  6.0s
+slice 021 clean         rot     0.0  vs truth: affine  1.52 B-spline  2.07 mm | vs own clean: affine  0.00 B-spline  0.00 mm  5.8s
+slice 021 rotation 360  rot  -117.6  vs truth: affine  1.36 B-spline  5.46 mm | vs own clean: affine  0.19 B-spline  3.87 mm  5.9s
+slice 021 affine 5%     rot     0.0  vs truth: affine  1.50 B-spline  1.74 mm | vs own clean: affine  0.60 B-spline  0.87 mm  5.8s
+slice 021 affine 10%    rot     0.0  vs truth: affine  1.66 B-spline  3.17 mm | vs own clean: affine  0.28 B-spline  1.54 mm  5.8s
+slice 021 elastic 5%    rot     0.0  vs truth: affine  1.72 B-spline  3.79 mm | vs own clean: affine  0.66 B-spline  2.45 mm  5.9s
+slice 021 elastic 10%   rot     0.0  vs truth: affine  1.38 B-spline  1.40 mm | vs own clean: affine  0.95 B-spline  1.55 mm  5.8s
+slice 021 cuts + tears  rot     0.0  vs truth: affine  1.63 B-spline  1.68 mm | vs own clean: affine  0.39 B-spline  0.69 mm  5.8s
+slice 021 all 5%        rot  -122.7  vs truth: affine  1.48 B-spline  1.72 mm | vs own clean: affine  0.72 B-spline  1.15 mm  5.9s
+slice 021 all 10%       rot    68.9  vs truth: affine  1.59 B-spline  1.82 mm | vs own clean: affine  1.58 B-spline  1.77 mm  5.9s
+slice 027 clean         rot     0.0  vs truth: affine  0.52 B-spline  1.43 mm | vs own clean: affine  0.00 B-spline  0.00 mm  5.9s
+slice 027 rotation 360  rot  -178.5  vs truth: affine  0.58 B-spline  1.98 mm | vs own clean: affine  0.79 B-spline  1.99 mm  5.9s
+slice 027 affine 5%     rot     0.0  vs truth: affine  0.61 B-spline  1.26 mm | vs own clean: affine  0.86 B-spline  1.58 mm  5.9s
+slice 027 affine 10%    rot     0.0  vs truth: affine  0.44 B-spline  3.17 mm | vs own clean: affine  0.35 B-spline  3.34 mm  5.9s
+slice 027 elastic 5%    rot     0.0  vs truth: affine  1.02 B-spline  1.34 mm | vs own clean: affine  1.04 B-spline  1.33 mm  5.9s
+slice 027 elastic 10%   rot     0.0  vs truth: affine  2.27 B-spline  2.61 mm | vs own clean: affine  2.00 B-spline  3.20 mm  5.8s
+slice 027 cuts + tears  rot     0.0  vs truth: affine  0.87 B-spline  1.25 mm | vs own clean: affine  0.76 B-spline  1.34 mm  5.9s
+slice 027 all 5%        rot   -19.3  vs truth: affine  1.06 B-spline  1.52 mm | vs own clean: affine  1.03 B-spline  1.81 mm  6.0s
+slice 027 all 10%       rot   152.7  vs truth: affine  0.94 B-spline  1.33 mm | vs own clean: affine  0.94 B-spline  1.45 mm  5.9s
+slice 031 clean         rot     0.0  vs truth: affine  0.86 B-spline  1.43 mm | vs own clean: affine  0.00 B-spline  0.00 mm  5.9s
+slice 031 rotation 360  rot   154.7  vs truth: affine  0.76 B-spline  1.34 mm | vs own clean: affine  0.12 B-spline  0.87 mm  5.9s
+slice 031 affine 5%     rot     0.0  vs truth: affine  0.72 B-spline  1.56 mm | vs own clean: affine  0.15 B-spline  0.52 mm  5.9s
+slice 031 affine 10%    rot     0.0  vs truth: affine  0.54 B-spline  1.77 mm | vs own clean: affine  0.59 B-spline  1.00 mm  6.0s
+slice 031 elastic 5%    rot     0.0  vs truth: affine  1.18 B-spline  1.44 mm | vs own clean: affine  0.60 B-spline  1.45 mm  5.9s
+slice 031 elastic 10%   rot     0.0  vs truth: affine  1.29 B-spline  2.37 mm | vs own clean: affine  1.09 B-spline  1.79 mm  5.9s
+slice 031 cuts + tears  rot     0.0  vs truth: affine  2.50 B-spline  2.58 mm | vs own clean: affine  2.10 B-spline  1.61 mm  5.9s
+slice 031 all 5%        rot   -48.5  vs truth: affine  1.28 B-spline  1.88 mm | vs own clean: affine  0.77 B-spline  1.67 mm  6.0s
+slice 031 all 10%       rot    56.9  vs truth: affine  1.44 B-spline  1.46 mm | vs own clean: affine  1.61 B-spline  0.80 mm  6.0s
+slice 040 clean         rot     0.0  vs truth: affine  0.65 B-spline  1.17 mm | vs own clean: affine  0.00 B-spline  0.00 mm  6.0s
+slice 040 rotation 360  rot  -130.4  vs truth: affine  0.37 B-spline  1.40 mm | vs own clean: affine  0.48 B-spline  1.20 mm  6.0s
+slice 040 affine 5%     rot     0.0  vs truth: affine  0.54 B-spline  1.12 mm | vs own clean: affine  0.24 B-spline  0.24 mm  6.0s
+slice 040 affine 10%    rot     0.0  vs truth: affine  0.83 B-spline  1.21 mm | vs own clean: affine  0.29 B-spline  0.30 mm  6.0s
+slice 040 elastic 5%    rot     0.0  vs truth: affine  1.01 B-spline  1.36 mm | vs own clean: affine  0.70 B-spline  0.81 mm  6.0s
+slice 040 elastic 10%   rot     0.0  vs truth: affine  2.36 B-spline  1.77 mm | vs own clean: affine  1.99 B-spline  1.52 mm  6.0s
+slice 040 cuts + tears  rot     0.0  vs truth: affine  1.97 B-spline  2.65 mm | vs own clean: affine  1.64 B-spline  2.71 mm  6.0s
+slice 040 all 5%        rot   -41.6  vs truth: affine  1.85 B-spline  1.61 mm | vs own clean: affine  1.43 B-spline  0.97 mm  6.0s
+slice 040 all 10%       rot   127.3  vs truth: affine  1.54 B-spline  1.59 mm | vs own clean: affine  1.33 B-spline  1.11 mm  6.1s
+slice 072 clean         rot     0.0  vs truth: affine  0.70 B-spline  1.40 mm | vs own clean: affine  0.00 B-spline  0.00 mm  7.0s
+slice 072 rotation 360  rot   100.7  vs truth: affine  0.71 B-spline  1.35 mm | vs own clean: affine  0.02 B-spline  0.45 mm  7.0s
+slice 072 affine 5%     rot     0.0  vs truth: affine  0.73 B-spline  1.33 mm | vs own clean: affine  0.11 B-spline  0.44 mm  7.0s
+slice 072 affine 10%    rot     0.0  vs truth: affine  0.74 B-spline  1.36 mm | vs own clean: affine  0.08 B-spline  1.04 mm  7.4s
+slice 072 elastic 5%    rot     0.0  vs truth: affine  2.58 B-spline  2.34 mm | vs own clean: affine  2.45 B-spline  1.94 mm  6.9s
+slice 072 elastic 10%   rot     0.0  vs truth: affine  2.14 B-spline  1.58 mm | vs own clean: affine  1.81 B-spline  1.64 mm  7.3s
+slice 072 cuts + tears  rot     0.0  vs truth: affine  0.63 B-spline  1.27 mm | vs own clean: affine  0.37 B-spline  0.82 mm  7.0s
+slice 072 all 5%        rot    42.8  vs truth: affine  2.00 B-spline  1.41 mm | vs own clean: affine  1.79 B-spline  1.30 mm  7.1s
+slice 072 all 10%       rot  -116.0  vs truth: affine  5.23 B-spline  5.01 mm | vs own clean: affine  4.75 B-spline  4.96 mm  7.7s
+slice 095 clean         rot     0.0  vs truth: affine  0.77 B-spline  1.21 mm | vs own clean: affine  0.00 B-spline  0.00 mm  8.4s
+slice 095 rotation 360  rot   156.9  vs truth: affine  0.77 B-spline  1.34 mm | vs own clean: affine  0.07 B-spline  0.60 mm  8.4s
+slice 095 affine 5%     rot     0.0  vs truth: affine  0.78 B-spline  1.19 mm | vs own clean: affine  0.03 B-spline  0.44 mm  7.5s
+slice 095 affine 10%    rot     0.0  vs truth: affine  0.76 B-spline  1.19 mm | vs own clean: affine  0.06 B-spline  0.46 mm  8.8s
+slice 095 elastic 5%    rot     0.0  vs truth: affine  1.67 B-spline  1.36 mm | vs own clean: affine  1.25 B-spline  0.85 mm  7.4s
+slice 095 elastic 10%   rot     0.0  vs truth: affine  3.44 B-spline  2.59 mm | vs own clean: affine  3.27 B-spline  2.13 mm  7.4s
+slice 095 cuts + tears  rot     0.0  vs truth: affine  0.74 B-spline  1.09 mm | vs own clean: affine  0.55 B-spline  0.61 mm  7.9s
+slice 095 all 5%        rot  -111.3  vs truth: affine  2.02 B-spline  1.36 mm | vs own clean: affine  1.81 B-spline  0.80 mm  7.2s
+slice 095 all 10%       rot   148.7  vs truth: affine  3.00 B-spline  1.99 mm | vs own clean: affine  3.01 B-spline  1.59 mm  7.5s
+slice 106 clean         rot     0.0  vs truth: affine  0.33 B-spline  1.17 mm | vs own clean: affine  0.00 B-spline  0.00 mm  9.1s
+slice 106 rotation 360  rot   -89.7  vs truth: affine  0.30 B-spline  1.17 mm | vs own clean: affine  0.07 B-spline  0.51 mm  9.1s
+slice 106 affine 5%     rot     0.0  vs truth: affine  0.30 B-spline  1.26 mm | vs own clean: affine  0.06 B-spline  0.51 mm  8.3s
+slice 106 affine 10%    rot     0.0  vs truth: affine  0.29 B-spline  1.20 mm | vs own clean: affine  0.05 B-spline  0.33 mm  8.7s
+slice 106 elastic 5%    rot     0.0  vs truth: affine  0.92 B-spline  1.37 mm | vs own clean: affine  0.73 B-spline  0.64 mm  9.2s
+slice 106 elastic 10%   rot     0.0  vs truth: affine  3.59 B-spline  2.36 mm | vs own clean: affine  3.50 B-spline  2.10 mm  8.3s
+slice 106 cuts + tears  rot     0.0  vs truth: affine  0.80 B-spline  1.33 mm | vs own clean: affine  0.65 B-spline  0.52 mm  8.4s
+slice 106 all 5%        rot   -91.8  vs truth: affine  1.43 B-spline  1.62 mm | vs own clean: affine  1.40 B-spline  1.03 mm  7.1s
+slice 106 all 10%       rot   -85.7  vs truth: affine  3.24 B-spline  2.76 mm | vs own clean: affine  3.24 B-spline  2.44 mm  8.2s
+slice 109 clean         rot     0.0  vs truth: affine  0.31 B-spline  1.69 mm | vs own clean: affine  0.00 B-spline  0.00 mm  8.3s
+slice 109 rotation 360  rot    89.7  vs truth: affine  0.31 B-spline  1.75 mm | vs own clean: affine  0.05 B-spline  0.50 mm  8.3s
+slice 109 affine 5%     rot     0.0  vs truth: affine  0.32 B-spline  1.62 mm | vs own clean: affine  0.05 B-spline  0.51 mm  8.5s
+slice 109 affine 10%    rot     0.0  vs truth: affine  0.29 B-spline  1.67 mm | vs own clean: affine  0.07 B-spline  0.47 mm  8.3s
+slice 109 elastic 5%    rot     0.0  vs truth: affine  1.50 B-spline  1.57 mm | vs own clean: affine  1.44 B-spline  0.68 mm  8.3s
+slice 109 elastic 10%   rot     0.0  vs truth: affine  3.67 B-spline  2.88 mm | vs own clean: affine  3.66 B-spline  2.33 mm  8.3s
+slice 109 cuts + tears  rot     0.0  vs truth: affine  0.51 B-spline  1.58 mm | vs own clean: affine  0.33 B-spline  0.74 mm  7.2s
+slice 109 all 5%        rot   -60.7  vs truth: affine  1.92 B-spline  1.72 mm | vs own clean: affine  1.83 B-spline  1.40 mm  7.3s
+slice 109 all 10%       rot   -79.1  vs truth: affine  2.26 B-spline  2.14 mm | vs own clean: affine  2.25 B-spline  1.41 mm  8.5s
+slice 144 clean         rot     0.0  vs truth: affine  0.34 B-spline  1.35 mm | vs own clean: affine  0.00 B-spline  0.00 mm  8.2s
+slice 144 rotation 360  rot    91.0  vs truth: affine  0.32 B-spline  1.68 mm | vs own clean: affine  0.07 B-spline  1.17 mm  8.6s
+slice 144 affine 5%     rot     0.0  vs truth: affine  0.36 B-spline  1.34 mm | vs own clean: affine  0.06 B-spline  0.75 mm  8.5s
+slice 144 affine 10%    rot     0.0  vs truth: affine  0.38 B-spline  1.51 mm | vs own clean: affine  0.09 B-spline  1.05 mm  8.3s
+slice 144 elastic 5%    rot     0.0  vs truth: affine  1.42 B-spline  1.44 mm | vs own clean: affine  1.31 B-spline  1.22 mm  8.9s
+slice 144 elastic 10%   rot     0.0  vs truth: affine  3.72 B-spline  2.54 mm | vs own clean: affine  3.76 B-spline  2.49 mm  7.4s
+slice 144 cuts + tears  rot     0.0  vs truth: affine  1.05 B-spline  1.79 mm | vs own clean: affine  0.99 B-spline  1.56 mm  7.4s
+slice 144 all 5%        rot   -45.1  vs truth: affine  1.43 B-spline  1.32 mm | vs own clean: affine  1.34 B-spline  0.78 mm  7.2s
+slice 144 all 10%       rot   -15.2  vs truth: affine  1.58 B-spline  1.40 mm | vs own clean: affine  1.58 B-spline  1.49 mm  7.6s
+slice 166 clean         rot     0.0  vs truth: affine  0.51 B-spline  1.86 mm | vs own clean: affine  0.00 B-spline  0.00 mm  8.3s
+slice 166 rotation 360  rot   140.0  vs truth: affine  0.52 B-spline  1.49 mm | vs own clean: affine  0.01 B-spline  0.67 mm  9.5s
+slice 166 affine 5%     rot     0.0  vs truth: affine  0.52 B-spline  1.45 mm | vs own clean: affine  0.03 B-spline  0.84 mm  8.5s
+slice 166 affine 10%    rot     0.0  vs truth: affine  0.53 B-spline  1.42 mm | vs own clean: affine  0.02 B-spline  0.75 mm  9.0s
+slice 166 elastic 5%    rot     0.0  vs truth: affine  1.24 B-spline  1.86 mm | vs own clean: affine  1.16 B-spline  0.60 mm  8.4s
+slice 166 elastic 10%   rot     0.0  vs truth: affine  3.24 B-spline  2.75 mm | vs own clean: affine  3.21 B-spline  2.13 mm  7.6s
+slice 166 cuts + tears  rot     0.0  vs truth: affine  0.95 B-spline  1.77 mm | vs own clean: affine  0.77 B-spline  1.09 mm  7.2s
+slice 166 all 5%        rot   -54.6  vs truth: affine  1.08 B-spline  1.50 mm | vs own clean: affine  0.89 B-spline  0.84 mm  7.9s
+slice 166 all 10%       rot   -85.3  vs truth: affine  3.32 B-spline  2.33 mm | vs own clean: affine  3.18 B-spline  2.31 mm  7.4s
+slice 170 clean         rot     0.0  vs truth: affine  0.50 B-spline  1.65 mm | vs own clean: affine  0.00 B-spline  0.00 mm  8.2s
+slice 170 rotation 360  rot  -169.6  vs truth: affine  0.47 B-spline  1.69 mm | vs own clean: affine  0.04 B-spline  0.25 mm  8.2s
+slice 170 affine 5%     rot     0.0  vs truth: affine  0.46 B-spline  1.62 mm | vs own clean: affine  0.05 B-spline  0.29 mm  8.3s
+slice 170 affine 10%    rot     0.0  vs truth: affine  0.48 B-spline  1.68 mm | vs own clean: affine  0.03 B-spline  0.23 mm  8.5s
+slice 170 elastic 5%    rot     0.0  vs truth: affine  1.28 B-spline  1.59 mm | vs own clean: affine  1.19 B-spline  0.82 mm  8.2s
+slice 170 elastic 10%   rot     0.0  vs truth: affine  3.12 B-spline  2.39 mm | vs own clean: affine  3.09 B-spline  1.73 mm  8.2s
+slice 170 cuts + tears  rot     0.0  vs truth: affine  1.04 B-spline  1.61 mm | vs own clean: affine  0.86 B-spline  0.83 mm  7.5s
+slice 170 all 5%        rot   151.5  vs truth: affine  1.25 B-spline  1.68 mm | vs own clean: affine  1.36 B-spline  1.01 mm  7.0s
+slice 170 all 10%       rot    43.3  vs truth: affine  3.48 B-spline  2.52 mm | vs own clean: affine  3.42 B-spline  1.89 mm  7.4s
+slice 182 clean         rot     0.0  vs truth: affine  0.64 B-spline  1.90 mm | vs own clean: affine  0.00 B-spline  0.00 mm  8.4s
+slice 182 rotation 360  rot   -53.6  vs truth: affine  0.67 B-spline  1.91 mm | vs own clean: affine  0.07 B-spline  0.76 mm  8.5s
+slice 182 affine 5%     rot     0.0  vs truth: affine  0.67 B-spline  1.83 mm | vs own clean: affine  0.07 B-spline  0.63 mm  8.2s
+slice 182 affine 10%    rot     0.0  vs truth: affine  0.66 B-spline  2.01 mm | vs own clean: affine  0.06 B-spline  0.88 mm  8.3s
+slice 182 elastic 5%    rot     0.0  vs truth: affine  2.02 B-spline  1.85 mm | vs own clean: affine  1.76 B-spline  0.90 mm  8.1s
+slice 182 elastic 10%   rot     0.0  vs truth: affine  1.63 B-spline  2.40 mm | vs own clean: affine  1.61 B-spline  1.19 mm  8.3s
+slice 182 cuts + tears  rot     0.0  vs truth: affine  1.11 B-spline  1.84 mm | vs own clean: affine  0.70 B-spline  0.98 mm  8.3s
+slice 182 all 5%        rot   -14.3  vs truth: affine  2.12 B-spline  2.38 mm | vs own clean: affine  2.24 B-spline  1.51 mm  7.2s
+slice 182 all 10%       rot  -149.6  vs truth: affine  2.24 B-spline  1.74 mm | vs own clean: affine  2.35 B-spline  1.05 mm  7.1s
+slice 187 clean         rot     0.0  vs truth: affine  0.28 B-spline  1.67 mm | vs own clean: affine  0.00 B-spline  0.00 mm  8.3s
+slice 187 rotation 360  rot   154.2  vs truth: affine  0.28 B-spline  1.55 mm | vs own clean: affine  0.02 B-spline  0.50 mm  8.3s
+slice 187 affine 5%     rot     0.0  vs truth: affine  0.28 B-spline  1.55 mm | vs own clean: affine  0.01 B-spline  0.47 mm  8.2s
+slice 187 affine 10%    rot     0.0  vs truth: affine  0.26 B-spline  1.58 mm | vs own clean: affine  0.03 B-spline  0.60 mm  8.8s
+slice 187 elastic 5%    rot     0.0  vs truth: affine  1.60 B-spline  1.99 mm | vs own clean: affine  1.67 B-spline  1.37 mm  8.1s
+slice 187 elastic 10%   rot     0.0  vs truth: affine  2.84 B-spline  2.17 mm | vs own clean: affine  2.81 B-spline  2.00 mm  8.4s
+slice 187 cuts + tears  rot     0.0  vs truth: affine  0.54 B-spline  1.54 mm | vs own clean: affine  0.46 B-spline  0.75 mm  7.1s
+slice 187 all 5%        rot    39.9  vs truth: affine  1.66 B-spline  1.85 mm | vs own clean: affine  1.72 B-spline  0.94 mm  7.3s
+slice 187 all 10%       rot  -119.9  vs truth: affine  1.93 B-spline  1.86 mm | vs own clean: affine  2.02 B-spline  1.15 mm  7.3s
+slice 194 clean         rot     0.0  vs truth: affine  0.10 B-spline  1.63 mm | vs own clean: affine  0.00 B-spline  0.00 mm  8.3s
+slice 194 rotation 360  rot  -155.2  vs truth: affine  0.09 B-spline  1.47 mm | vs own clean: affine  0.02 B-spline  0.58 mm  7.5s
+slice 194 affine 5%     rot     0.0  vs truth: affine  0.09 B-spline  1.61 mm | vs own clean: affine  0.03 B-spline  0.32 mm  8.1s
+slice 194 affine 10%    rot     0.0  vs truth: affine  0.11 B-spline  1.55 mm | vs own clean: affine  0.04 B-spline  0.40 mm  8.3s
+slice 194 elastic 5%    rot     0.0  vs truth: affine  1.98 B-spline  1.94 mm | vs own clean: affine  1.97 B-spline  1.01 mm  8.4s
+slice 194 elastic 10%   rot     0.0  vs truth: affine  2.82 B-spline  2.50 mm | vs own clean: affine  2.81 B-spline  1.99 mm  8.2s
+slice 194 cuts + tears  rot     0.0  vs truth: affine  0.91 B-spline  1.77 mm | vs own clean: affine  0.90 B-spline  0.68 mm  7.3s
+slice 194 all 5%        rot  -144.1  vs truth: affine  1.08 B-spline  1.61 mm | vs own clean: affine  1.06 B-spline  0.73 mm  7.1s
+slice 194 all 10%       rot   -97.0  vs truth: affine  2.22 B-spline  2.40 mm | vs own clean: affine  2.23 B-spline  1.98 mm  7.3s
+slice 201 clean         rot     0.0  vs truth: affine  0.40 B-spline  1.33 mm | vs own clean: affine  0.00 B-spline  0.00 mm  8.2s
+slice 201 rotation 360  rot  -115.4  vs truth: affine  0.40 B-spline  1.42 mm | vs own clean: affine  0.06 B-spline  0.65 mm  8.5s
+slice 201 affine 5%     rot     0.0  vs truth: affine  0.39 B-spline  1.30 mm | vs own clean: affine  0.07 B-spline  0.82 mm  8.3s
+slice 201 affine 10%    rot     0.0  vs truth: affine  0.41 B-spline  1.44 mm | vs own clean: affine  0.08 B-spline  0.70 mm  8.3s
+slice 201 elastic 5%    rot     0.0  vs truth: affine  0.93 B-spline  1.34 mm | vs own clean: affine  0.86 B-spline  0.71 mm  8.3s
+slice 201 elastic 10%   rot     0.0  vs truth: affine  4.21 B-spline  4.48 mm | vs own clean: affine  4.16 B-spline  4.03 mm  7.3s
+slice 201 cuts + tears  rot     0.0  vs truth: affine  1.02 B-spline  1.42 mm | vs own clean: affine  0.84 B-spline  0.93 mm  7.5s
+slice 201 all 5%        rot    79.2  vs truth: affine  1.48 B-spline  1.76 mm | vs own clean: affine  1.42 B-spline  0.86 mm  7.4s
+slice 201 all 10%       rot  -133.5  vs truth: affine  2.15 B-spline  1.96 mm | vs own clean: affine  1.95 B-spline  1.21 mm  7.2s
+slice 209 clean         rot     0.0  vs truth: affine  0.40 B-spline  1.51 mm | vs own clean: affine  0.00 B-spline  0.00 mm  7.2s
+slice 209 rotation 360  rot   -57.4  vs truth: affine  0.45 B-spline  1.54 mm | vs own clean: affine  0.06 B-spline  0.31 mm  7.1s
+slice 209 affine 5%     rot     0.0  vs truth: affine  0.47 B-spline  1.40 mm | vs own clean: affine  0.10 B-spline  0.69 mm  7.3s
+slice 209 affine 10%    rot     0.0  vs truth: affine  0.45 B-spline  1.51 mm | vs own clean: affine  0.09 B-spline  0.28 mm  7.2s
+slice 209 elastic 5%    rot     0.0  vs truth: affine  1.50 B-spline  2.03 mm | vs own clean: affine  1.51 B-spline  1.48 mm  8.3s
+slice 209 elastic 10%   rot     0.0  vs truth: affine  2.29 B-spline  2.07 mm | vs own clean: affine  2.31 B-spline  2.11 mm  7.2s
+slice 209 cuts + tears  rot     0.0  vs truth: affine  1.43 B-spline  1.90 mm | vs own clean: affine  1.36 B-spline  0.82 mm  7.1s
+slice 209 all 5%        rot  -103.0  vs truth: affine  1.49 B-spline  2.24 mm | vs own clean: affine  1.43 B-spline  1.74 mm  7.3s
+slice 209 all 10%       rot   -18.9  vs truth: affine  3.59 B-spline  2.96 mm | vs own clean: affine  3.58 B-spline  2.41 mm  7.1s
+slice 224 clean         rot     0.0  vs truth: affine  0.93 B-spline  1.95 mm | vs own clean: affine  0.00 B-spline  0.00 mm  7.0s
+slice 224 rotation 360  rot   -69.1  vs truth: affine  0.92 B-spline  1.89 mm | vs own clean: affine  0.03 B-spline  0.44 mm  7.0s
+slice 224 affine 5%     rot     0.0  vs truth: affine  0.91 B-spline  2.07 mm | vs own clean: affine  0.06 B-spline  0.35 mm  7.1s
+slice 224 affine 10%    rot     0.0  vs truth: affine  0.86 B-spline  2.08 mm | vs own clean: affine  0.08 B-spline  0.43 mm  7.0s
+slice 224 elastic 5%    rot     0.0  vs truth: affine  1.87 B-spline  2.44 mm | vs own clean: affine  2.03 B-spline  1.57 mm  7.1s
+slice 224 elastic 10%   rot     0.0  vs truth: affine  2.92 B-spline  2.69 mm | vs own clean: affine  2.59 B-spline  1.99 mm  7.0s
+slice 224 cuts + tears  rot     0.0  vs truth: affine  0.98 B-spline  2.29 mm | vs own clean: affine  0.53 B-spline  0.98 mm  7.0s
+slice 224 all 5%        rot    96.4  vs truth: affine  1.98 B-spline  2.30 mm | vs own clean: affine  1.79 B-spline  1.53 mm  7.1s
+slice 224 all 10%       rot  -159.8  vs truth: affine  2.50 B-spline  2.45 mm | vs own clean: affine  2.78 B-spline  2.43 mm  7.1s
+slice 239 clean         rot     0.0  vs truth: affine  0.28 B-spline  1.68 mm | vs own clean: affine  0.00 B-spline  0.00 mm  7.3s
+slice 239 rotation 360  rot  -167.2  vs truth: affine  0.29 B-spline  1.62 mm | vs own clean: affine  0.03 B-spline  0.61 mm  7.2s
+slice 239 affine 5%     rot     0.0  vs truth: affine  0.28 B-spline  1.49 mm | vs own clean: affine  0.03 B-spline  0.75 mm  7.1s
+slice 239 affine 10%    rot     0.0  vs truth: affine  0.29 B-spline  2.40 mm | vs own clean: affine  0.05 B-spline  1.28 mm  6.8s
+slice 239 elastic 5%    rot     0.0  vs truth: affine  1.32 B-spline  3.39 mm | vs own clean: affine  1.30 B-spline  2.33 mm  7.2s
+slice 239 elastic 10%   rot     0.0  vs truth: affine  2.95 B-spline  2.50 mm | vs own clean: affine  2.96 B-spline  2.49 mm  6.5s
+slice 239 cuts + tears  rot     0.0  vs truth: affine  0.83 B-spline  2.28 mm | vs own clean: affine  0.76 B-spline  1.32 mm  7.5s
+slice 239 all 5%        rot    43.2  vs truth: affine  1.45 B-spline  1.81 mm | vs own clean: affine  1.45 B-spline  1.62 mm  7.2s
+slice 239 all 10%       rot  -160.6  vs truth: affine  2.45 B-spline  3.56 mm | vs own clean: affine  2.34 B-spline  3.64 mm  7.3s
+slice 250 clean         rot     0.0  vs truth: affine  0.32 B-spline  1.15 mm | vs own clean: affine  0.00 B-spline  0.00 mm  6.9s
+slice 250 rotation 360  rot  -153.8  vs truth: affine  0.30 B-spline  1.10 mm | vs own clean: affine  0.08 B-spline  0.71 mm  7.5s
+slice 250 affine 5%     rot     0.0  vs truth: affine  0.32 B-spline  1.13 mm | vs own clean: affine  0.08 B-spline  0.68 mm  7.0s
+slice 250 affine 10%    rot     0.0  vs truth: affine  0.26 B-spline  1.09 mm | vs own clean: affine  0.14 B-spline  0.45 mm  6.8s
+slice 250 elastic 5%    rot     0.0  vs truth: affine  0.68 B-spline  1.10 mm | vs own clean: affine  0.56 B-spline  0.50 mm  6.8s
+slice 250 elastic 10%   rot     0.0  vs truth: affine  1.64 B-spline  1.56 mm | vs own clean: affine  1.69 B-spline  1.44 mm  7.1s
+slice 250 cuts + tears  rot     0.0  vs truth: affine  0.67 B-spline  1.20 mm | vs own clean: affine  0.59 B-spline  0.51 mm  7.0s
+slice 250 all 5%        rot  -100.2  vs truth: affine  1.11 B-spline  1.33 mm | vs own clean: affine  1.08 B-spline  1.09 mm  6.9s
+slice 250 all 10%       rot   -17.4  vs truth: affine  2.42 B-spline  1.42 mm | vs own clean: affine  2.46 B-spline  1.23 mm  6.8s
+slice 260 clean         rot     0.0  vs truth: affine  0.49 B-spline  1.31 mm | vs own clean: affine  0.00 B-spline  0.00 mm  6.8s
+slice 260 rotation 360  rot    51.5  vs truth: affine  0.47 B-spline  1.33 mm | vs own clean: affine  0.06 B-spline  0.44 mm  6.8s
+slice 260 affine 5%     rot     0.0  vs truth: affine  0.47 B-spline  1.38 mm | vs own clean: affine  0.07 B-spline  0.36 mm  6.7s
+slice 260 affine 10%    rot     0.0  vs truth: affine  0.48 B-spline  1.28 mm | vs own clean: affine  0.05 B-spline  0.34 mm  6.9s
+slice 260 elastic 5%    rot     0.0  vs truth: affine  1.06 B-spline  1.42 mm | vs own clean: affine  1.00 B-spline  0.67 mm  6.9s
+slice 260 elastic 10%   rot     0.0  vs truth: affine  1.33 B-spline  1.37 mm | vs own clean: affine  1.17 B-spline  0.95 mm  7.0s
+slice 260 cuts + tears  rot     0.0  vs truth: affine  0.81 B-spline  1.04 mm | vs own clean: affine  0.57 B-spline  0.86 mm  6.7s
+slice 260 all 5%        rot    -1.5  vs truth: affine  1.31 B-spline  1.18 mm | vs own clean: affine  1.12 B-spline  0.66 mm  6.9s
+slice 260 all 10%       rot  -135.2  vs truth: affine  1.60 B-spline  1.56 mm | vs own clean: affine  1.42 B-spline  1.54 mm  6.7s
+slice 262 clean         rot     0.0  vs truth: affine  0.27 B-spline  0.98 mm | vs own clean: affine  0.00 B-spline  0.00 mm  6.7s
+slice 262 rotation 360  rot   -65.1  vs truth: affine  0.23 B-spline  1.06 mm | vs own clean: affine  0.05 B-spline  0.41 mm  6.8s
+slice 262 affine 5%     rot     0.0  vs truth: affine  0.23 B-spline  1.18 mm | vs own clean: affine  0.04 B-spline  0.49 mm  6.7s
+slice 262 affine 10%    rot     0.0  vs truth: affine  0.24 B-spline  1.09 mm | vs own clean: affine  0.04 B-spline  0.40 mm  6.9s
+slice 262 elastic 5%    rot     0.0  vs truth: affine  1.34 B-spline  1.34 mm | vs own clean: affine  1.33 B-spline  1.14 mm  6.8s
+slice 262 elastic 10%   rot     0.0  vs truth: affine  2.17 B-spline  2.19 mm | vs own clean: affine  2.11 B-spline  2.02 mm  6.8s
+slice 262 cuts + tears  rot     0.0  vs truth: affine  0.54 B-spline  1.13 mm | vs own clean: affine  0.39 B-spline  0.47 mm  6.7s
+slice 262 all 5%        rot   106.0  vs truth: affine  1.02 B-spline  1.23 mm | vs own clean: affine  1.05 B-spline  0.70 mm  6.8s
+slice 262 all 10%       rot    25.2  vs truth: affine  1.92 B-spline  1.40 mm | vs own clean: affine  1.87 B-spline  1.07 mm  6.9s
+slice 264 clean         rot     0.0  vs truth: affine  0.22 B-spline  1.06 mm | vs own clean: affine  0.00 B-spline  0.00 mm  6.8s
+slice 264 rotation 360  rot    86.3  vs truth: affine  0.23 B-spline  1.18 mm | vs own clean: affine  0.04 B-spline  0.59 mm  7.7s
+slice 264 affine 5%     rot     0.0  vs truth: affine  0.23 B-spline  1.11 mm | vs own clean: affine  0.04 B-spline  0.33 mm  7.0s
+slice 264 affine 10%    rot     0.0  vs truth: affine  0.23 B-spline  1.01 mm | vs own clean: affine  0.05 B-spline  0.31 mm  7.0s
+slice 264 elastic 5%    rot     0.0  vs truth: affine  0.77 B-spline  1.13 mm | vs own clean: affine  0.86 B-spline  0.53 mm  6.7s
+slice 264 elastic 10%   rot     0.0  vs truth: affine  2.18 B-spline  2.20 mm | vs own clean: affine  2.15 B-spline  2.02 mm  7.5s
+slice 264 cuts + tears  rot     0.0  vs truth: affine  0.51 B-spline  1.04 mm | vs own clean: affine  0.40 B-spline  0.54 mm  6.9s
+slice 264 all 5%        rot   -18.2  vs truth: affine  0.79 B-spline  0.89 mm | vs own clean: affine  0.72 B-spline  0.46 mm  7.1s
+slice 264 all 10%       rot   -89.9  vs truth: affine  2.81 B-spline  1.91 mm | vs own clean: affine  2.85 B-spline  1.74 mm  6.9s
+slice 271 clean         rot     0.0  vs truth: affine  0.32 B-spline  0.78 mm | vs own clean: affine  0.00 B-spline  0.00 mm  6.7s
+slice 271 rotation 360  rot   -15.8  vs truth: affine  0.34 B-spline  0.71 mm | vs own clean: affine  0.03 B-spline  0.31 mm  6.7s
+slice 271 affine 5%     rot     0.0  vs truth: affine  0.35 B-spline  0.83 mm | vs own clean: affine  0.04 B-spline  0.56 mm  6.7s
+slice 271 affine 10%    rot     0.0  vs truth: affine  0.36 B-spline  0.88 mm | vs own clean: affine  0.04 B-spline  0.32 mm  6.7s
+slice 271 elastic 5%    rot     0.0  vs truth: affine  0.96 B-spline  1.21 mm | vs own clean: affine  0.88 B-spline  1.05 mm  6.8s
+slice 271 elastic 10%   rot     0.0  vs truth: affine  3.11 B-spline  2.85 mm | vs own clean: affine  3.06 B-spline  2.93 mm  6.9s
+slice 271 cuts + tears  rot     0.0  vs truth: affine  0.49 B-spline  0.76 mm | vs own clean: affine  0.43 B-spline  0.52 mm  7.1s
+slice 271 all 5%        rot    63.1  vs truth: affine  1.13 B-spline  1.08 mm | vs own clean: affine  1.04 B-spline  0.79 mm  6.8s
+slice 271 all 10%       rot   165.0  vs truth: affine  3.05 B-spline  2.86 mm | vs own clean: affine  3.18 B-spline  2.79 mm  6.8s
+slice 285 clean         rot     0.0  vs truth: affine  0.24 B-spline  0.81 mm | vs own clean: affine  0.00 B-spline  0.00 mm  6.7s
+slice 285 rotation 360  rot    -6.4  vs truth: affine  0.21 B-spline  0.80 mm | vs own clean: affine  0.03 B-spline  0.21 mm  6.9s
+slice 285 affine 5%     rot     0.0  vs truth: affine  0.22 B-spline  0.93 mm | vs own clean: affine  0.03 B-spline  0.29 mm  6.7s
+slice 285 affine 10%    rot     0.0  vs truth: affine  0.21 B-spline  0.82 mm | vs own clean: affine  0.03 B-spline  0.24 mm  6.7s
+slice 285 elastic 5%    rot     0.0  vs truth: affine  1.81 B-spline  1.19 mm | vs own clean: affine  1.82 B-spline  0.86 mm  6.6s
+slice 285 elastic 10%   rot     0.0  vs truth: affine  1.99 B-spline  1.74 mm | vs own clean: affine  1.91 B-spline  1.66 mm  7.5s
+slice 285 cuts + tears  rot     0.0  vs truth: affine  0.69 B-spline  0.97 mm | vs own clean: affine  0.67 B-spline  0.58 mm  7.3s
+slice 285 all 5%        rot   -41.1  vs truth: affine  1.58 B-spline  1.17 mm | vs own clean: affine  1.57 B-spline  0.85 mm  7.4s
+slice 285 all 10%       rot   -42.1  vs truth: affine  2.91 B-spline  2.13 mm | vs own clean: affine  2.94 B-spline  2.08 mm  7.4s
+slice 286 clean         rot     0.0  vs truth: affine  0.29 B-spline  1.03 mm | vs own clean: affine  0.00 B-spline  0.00 mm  7.5s
+slice 286 rotation 360  rot   -65.3  vs truth: affine  0.27 B-spline  1.01 mm | vs own clean: affine  0.02 B-spline  0.47 mm  7.5s
+slice 286 affine 5%     rot     0.0  vs truth: affine  0.28 B-spline  0.89 mm | vs own clean: affine  0.02 B-spline  0.45 mm  6.9s
+slice 286 affine 10%    rot     0.0  vs truth: affine  0.29 B-spline  1.08 mm | vs own clean: affine  0.03 B-spline  0.41 mm  6.9s
+slice 286 elastic 5%    rot     0.0  vs truth: affine  1.19 B-spline  1.08 mm | vs own clean: affine  1.05 B-spline  0.42 mm  6.8s
+slice 286 elastic 10%   rot     0.0  vs truth: affine  2.86 B-spline  1.36 mm | vs own clean: affine  2.81 B-spline  1.00 mm  6.8s
+slice 286 cuts + tears  rot     0.0  vs truth: affine  0.72 B-spline  1.01 mm | vs own clean: affine  0.63 B-spline  0.51 mm  6.8s
+slice 286 all 5%        rot   102.2  vs truth: affine  2.29 B-spline  1.46 mm | vs own clean: affine  2.18 B-spline  1.10 mm  6.8s
+slice 286 all 10%       rot  -176.0  vs truth: affine  2.38 B-spline  1.61 mm | vs own clean: affine  2.36 B-spline  1.33 mm  6.9s
+slice 299 clean         rot     0.0  vs truth: affine  0.53 B-spline  1.30 mm | vs own clean: affine  0.00 B-spline  0.00 mm  6.6s
+slice 299 rotation 360  rot   -53.5  vs truth: affine  0.47 B-spline  1.43 mm | vs own clean: affine  0.09 B-spline  0.67 mm  6.7s
+slice 299 affine 5%     rot     0.0  vs truth: affine  0.49 B-spline  1.25 mm | vs own clean: affine  0.06 B-spline  0.58 mm  6.5s
+slice 299 affine 10%    rot     0.0  vs truth: affine  0.49 B-spline  1.54 mm | vs own clean: affine  0.06 B-spline  1.06 mm  6.6s
+slice 299 elastic 5%    rot     0.0  vs truth: affine  1.18 B-spline  1.42 mm | vs own clean: affine  1.08 B-spline  1.09 mm  6.7s
+slice 299 elastic 10%   rot     0.0  vs truth: affine  3.06 B-spline  2.17 mm | vs own clean: affine  2.82 B-spline  2.05 mm  6.7s
+slice 299 cuts + tears  rot     0.0  vs truth: affine  0.52 B-spline  1.38 mm | vs own clean: affine  0.47 B-spline  1.19 mm  6.7s
+slice 299 all 5%        rot    13.4  vs truth: affine  1.50 B-spline  1.98 mm | vs own clean: affine  1.27 B-spline  1.99 mm  6.7s
+slice 299 all 10%       rot    45.2  vs truth: affine  1.60 B-spline  1.61 mm | vs own clean: affine  1.78 B-spline  1.48 mm  6.6s
+slice 302 clean         rot     0.0  vs truth: affine  0.30 B-spline  1.09 mm | vs own clean: affine  0.00 B-spline  0.00 mm  6.6s
+slice 302 rotation 360  rot   109.2  vs truth: affine  0.30 B-spline  1.19 mm | vs own clean: affine  0.04 B-spline  0.62 mm  6.7s
+slice 302 affine 5%     rot     0.0  vs truth: affine  0.30 B-spline  1.21 mm | vs own clean: affine  0.05 B-spline  0.56 mm  6.8s
+slice 302 affine 10%    rot     0.0  vs truth: affine  0.29 B-spline  1.09 mm | vs own clean: affine  0.05 B-spline  0.34 mm  6.6s
+slice 302 elastic 5%    rot     0.0  vs truth: affine  2.18 B-spline  2.29 mm | vs own clean: affine  1.98 B-spline  1.90 mm  6.7s
+slice 302 elastic 10%   rot     0.0  vs truth: affine  2.37 B-spline  2.31 mm | vs own clean: affine  2.15 B-spline  1.93 mm  6.7s
+slice 302 cuts + tears  rot     0.0  vs truth: affine  0.57 B-spline  1.29 mm | vs own clean: affine  0.52 B-spline  0.72 mm  6.7s
+slice 302 all 5%        rot   -54.8  vs truth: affine  1.20 B-spline  1.19 mm | vs own clean: affine  1.22 B-spline  0.78 mm  6.7s
+slice 302 all 10%       rot   103.4  vs truth: affine  3.21 B-spline  2.00 mm | vs own clean: affine  3.14 B-spline  1.61 mm  6.6s
+slice 308 clean         rot     0.0  vs truth: affine  0.34 B-spline  1.03 mm | vs own clean: affine  0.00 B-spline  0.00 mm  6.5s
+slice 308 rotation 360  rot    33.6  vs truth: affine  0.37 B-spline  1.12 mm | vs own clean: affine  0.05 B-spline  0.54 mm  6.5s
+slice 308 affine 5%     rot     0.0  vs truth: affine  0.40 B-spline  0.96 mm | vs own clean: affine  0.08 B-spline  0.44 mm  6.6s
+slice 308 affine 10%    rot     0.0  vs truth: affine  0.38 B-spline  1.10 mm | vs own clean: affine  0.06 B-spline  0.50 mm  6.5s
+slice 308 elastic 5%    rot     0.0  vs truth: affine  1.29 B-spline  1.23 mm | vs own clean: affine  1.12 B-spline  0.79 mm  6.4s
+slice 308 elastic 10%   rot     0.0  vs truth: affine  2.60 B-spline  1.32 mm | vs own clean: affine  2.71 B-spline  1.08 mm  6.6s
+slice 308 cuts + tears  rot     0.0  vs truth: affine  0.80 B-spline  1.08 mm | vs own clean: affine  0.65 B-spline  0.65 mm  6.1s
+slice 308 all 5%        rot    93.0  vs truth: affine  1.38 B-spline  1.19 mm | vs own clean: affine  1.32 B-spline  0.93 mm  6.1s
+slice 308 all 10%       rot    75.5  vs truth: affine  1.82 B-spline  1.45 mm | vs own clean: affine  1.89 B-spline  1.59 mm  6.2s
+slice 311 clean         rot     0.0  vs truth: affine  0.52 B-spline  0.63 mm | vs own clean: affine  0.00 B-spline  0.00 mm  6.4s
+slice 311 rotation 360  rot    35.8  vs truth: affine  0.52 B-spline  0.84 mm | vs own clean: affine  0.05 B-spline  0.58 mm  6.9s
+slice 311 affine 5%     rot     0.0  vs truth: affine  0.51 B-spline  0.89 mm | vs own clean: affine  0.06 B-spline  0.63 mm  6.6s
+slice 311 affine 10%    rot     0.0  vs truth: affine  0.52 B-spline  0.82 mm | vs own clean: affine  0.05 B-spline  0.52 mm  6.6s
+slice 311 elastic 5%    rot     0.0  vs truth: affine  1.10 B-spline  0.81 mm | vs own clean: affine  1.02 B-spline  0.57 mm  6.6s
+slice 311 elastic 10%   rot     0.0  vs truth: affine  2.00 B-spline  2.19 mm | vs own clean: affine  2.05 B-spline  1.95 mm  7.2s
+slice 311 cuts + tears  rot     0.0  vs truth: affine  0.72 B-spline  1.06 mm | vs own clean: affine  0.70 B-spline  0.79 mm  6.1s
+slice 311 all 5%        rot   -32.9  vs truth: affine  1.38 B-spline  1.25 mm | vs own clean: affine  1.19 B-spline  0.86 mm  6.2s
+slice 311 all 10%       rot    73.5  vs truth: affine  3.69 B-spline  2.50 mm | vs own clean: affine  3.59 B-spline  2.21 mm  6.2s
+
+               n  affine_vs_truth  bspline_vs_truth  affine_vs_clean  bspline_vs_clean  best_within_1mm  best_within_2mm  failures_over_5mm
+condition                                                                                                                                  
+clean         30             0.40              1.32             0.00              0.00             0.97             1.00                  0
+rotation 360  30             0.39              1.38             0.05              0.58             0.97             1.00                  0
+affine 5%     30             0.43              1.31             0.06              0.52             0.93             1.00                  0
+affine 10%    30             0.43              1.43             0.06              0.47             0.93             1.00                  0
+elastic 5%    30             1.28              1.43             1.14              0.96             0.20             0.93                  0
+elastic 10%   30             2.49              2.25             2.45              1.99             0.00             0.37                  0
+cuts + tears  30             0.81              1.40             0.65              0.80             0.73             0.97                  0
+all 5%        30             1.43              1.56             1.33              0.96             0.03             0.97                  0
+all 10%       30             2.32              1.93             2.34              1.59             0.03             0.57                  1

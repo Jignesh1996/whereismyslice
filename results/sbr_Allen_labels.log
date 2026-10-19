@@ -1,0 +1,131 @@
+slice 002 whole: reference affine not recoverable (NCC 0.916), skipped
+slice 003 whole      Dice reference 0.932 ours 0.941  distance to reference mean 3.83 mm (max 7.59; coarse 3.46)  9.1s
+slice 004 whole      Dice reference 0.940 ours 0.946  distance to reference mean 3.89 mm (max 7.27; coarse 2.32)  7.5s
+slice 005 whole      Dice reference 0.950 ours 0.964  distance to reference mean 3.57 mm (max 8.93; coarse 2.64)  7.5s
+slice 007 whole      Dice reference 0.967 ours 0.976  distance to reference mean 4.19 mm (max 6.67; coarse 4.47)  7.5s
+slice 008 whole      Dice reference 0.961 ours 0.970  distance to reference mean 4.68 mm (max 8.19; coarse 5.15)  7.5s
+slice 009 whole      Dice reference 0.952 ours 0.968  distance to reference mean 6.64 mm (max 8.49; coarse 7.38)  7.5s
+slice 010 whole      Dice reference 0.943 ours 0.966  distance to reference mean 8.04 mm (max 17.63; coarse 6.96)  7.5s
+slice 011 whole      Dice reference 0.952 ours 0.968  distance to reference mean 5.86 mm (max 8.71; coarse 7.10)  7.5s
+slice 012 whole      Dice reference 0.947 ours 0.963  distance to reference mean 8.01 mm (max 12.25; coarse 8.84)  7.5s
+slice 013 whole      Dice reference 0.970 ours 0.975  distance to reference mean 2.58 mm (max 5.42; coarse 4.12)  7.5s
+slice 014 whole      Dice reference 0.971 ours 0.971  distance to reference mean 3.42 mm (max 5.01; coarse 4.76)  7.5s
+slice 015 whole      Dice reference 0.958 ours 0.960  distance to reference mean 2.55 mm (max 5.65; coarse 4.54)  7.5s
+slice 016 whole      Dice reference 0.951 ours 0.952  distance to reference mean 1.84 mm (max 3.16; coarse 3.58)  7.5s
+slice 017 whole      Dice reference 0.935 ours 0.937  distance to reference mean 3.42 mm (max 7.45; coarse 3.95)  7.5s
+slice 018 whole      Dice reference 0.937 ours 0.940  distance to reference mean 3.08 mm (max 5.68; coarse 2.91)  7.5s
+slice 019 whole      Dice reference 0.955 ours 0.955  distance to reference mean 1.81 mm (max 3.12; coarse 2.85)  7.5s
+slice 020 whole      Dice reference 0.945 ours 0.946  distance to reference mean 2.62 mm (max 4.31; coarse 3.33)  7.5s
+slice 021 whole      Dice reference 0.956 ours 0.960  distance to reference mean 3.61 mm (max 6.36; coarse 4.42)  7.5s
+slice 022 whole      Dice reference 0.952 ours 0.958  distance to reference mean 3.01 mm (max 4.36; coarse 2.47)  7.5s
+slice 023 whole      Dice reference 0.945 ours 0.947  distance to reference mean 4.76 mm (max 11.56; coarse 9.24)  7.5s
+slice 025 whole      Dice reference 0.961 ours 0.963  distance to reference mean 2.25 mm (max 4.02; coarse 3.16)  7.6s
+slice 027 whole      Dice reference 0.953 ours 0.955  distance to reference mean 3.12 mm (max 5.19; coarse 4.44)  7.6s
+slice 028 whole      Dice reference 0.957 ours 0.961  distance to reference mean 3.28 mm (max 6.05; coarse 3.43)  7.6s
+slice 029 whole      Dice reference 0.954 ours 0.956  distance to reference mean 1.60 mm (max 3.78; coarse 4.32)  7.6s
+slice 030 whole      Dice reference 0.964 ours 0.963  distance to reference mean 2.79 mm (max 6.66; coarse 2.46)  7.6s
+slice 031 whole      Dice reference 0.960 ours 0.959  distance to reference mean 3.70 mm (max 8.51; coarse 2.81)  7.6s
+slice 032 whole      Dice reference 0.960 ours 0.963  distance to reference mean 5.08 mm (max 11.09; coarse 4.54)  7.6s
+slice 033 whole      Dice reference 0.961 ours 0.962  distance to reference mean 4.41 mm (max 9.56; coarse 3.77)  7.6s
+slice 035 whole      Dice reference 0.967 ours 0.968  distance to reference mean 2.34 mm (max 4.12; coarse 3.06)  7.6s
+slice 036 whole      Dice reference 0.968 ours 0.972  distance to reference mean 2.04 mm (max 4.09; coarse 3.10)  7.6s
+slice 037 whole      Dice reference 0.969 ours 0.970  distance to reference mean 1.93 mm (max 3.00; coarse 3.22)  7.5s
+slice 038 whole      Dice reference 0.958 ours 0.958  distance to reference mean 3.28 mm (max 6.62; coarse 3.37)  7.6s
+slice 039 whole      Dice reference 0.975 ours 0.974  distance to reference mean 1.96 mm (max 4.62; coarse 2.94)  7.6s
+slice 040 whole      Dice reference 0.968 ours 0.969  distance to reference mean 2.12 mm (max 4.12; coarse 3.84)  7.6s
+slice 041 whole      Dice reference 0.968 ours 0.969  distance to reference mean 2.45 mm (max 4.97; coarse 3.60)  7.6s
+slice 042 whole      Dice reference 0.962 ours 0.965  distance to reference mean 2.85 mm (max 6.84; coarse 4.91)  7.6s
+slice 043 whole      Dice reference 0.964 ours 0.967  distance to reference mean 1.85 mm (max 3.46; coarse 3.17)  7.6s
+slice 044 whole      Dice reference 0.970 ours 0.974  distance to reference mean 1.95 mm (max 3.90; coarse 4.26)  7.6s
+slice 045 whole      Dice reference 0.971 ours 0.972  distance to reference mean 1.97 mm (max 4.62; coarse 1.43)  7.6s
+slice 046 whole      Dice reference 0.964 ours 0.970  distance to reference mean 2.53 mm (max 5.98; coarse 1.88)  7.6s
+slice 048 whole      Dice reference 0.961 ours 0.967  distance to reference mean 2.34 mm (max 4.83; coarse 5.72)  7.6s
+slice 049 whole      Dice reference 0.963 ours 0.967  distance to reference mean 3.27 mm (max 7.05; coarse 2.97)  7.6s
+slice 050 whole      Dice reference 0.938 ours 0.938  distance to reference mean 3.15 mm (max 7.03; coarse 1.63)  7.6s
+slice 051 whole      Dice reference 0.969 ours 0.973  distance to reference mean 2.55 mm (max 6.21; coarse 2.00)  7.6s
+slice 052 whole      Dice reference 0.965 ours 0.969  distance to reference mean 2.76 mm (max 5.37; coarse 2.92)  7.6s
+slice 053 whole      Dice reference 0.955 ours 0.962  distance to reference mean 3.47 mm (max 6.38; coarse 2.97)  7.6s
+slice 054 whole      Dice reference 0.967 ours 0.971  distance to reference mean 2.54 mm (max 4.88; coarse 3.89)  7.6s
+slice 055 whole      Dice reference 0.965 ours 0.967  distance to reference mean 1.89 mm (max 3.99; coarse 2.62)  7.6s
+slice 056 whole: reference affine not recoverable (NCC 0.950), skipped
+slice 057 whole      Dice reference 0.965 ours 0.968  distance to reference mean 1.99 mm (max 3.75; coarse 3.06)  7.6s
+slice 058 whole      Dice reference 0.962 ours 0.964  distance to reference mean 1.50 mm (max 3.32; coarse 2.61)  7.6s
+slice 059 whole      Dice reference 0.963 ours 0.965  distance to reference mean 2.55 mm (max 5.99; coarse 1.53)  7.6s
+slice 060 whole      Dice reference 0.960 ours 0.964  distance to reference mean 2.45 mm (max 6.06; coarse 2.44)  7.6s
+slice 061 whole      Dice reference 0.964 ours 0.966  distance to reference mean 2.09 mm (max 4.35; coarse 3.60)  7.6s
+slice 062 whole      Dice reference 0.951 ours 0.955  distance to reference mean 2.13 mm (max 3.85; coarse 3.16)  7.6s
+slice 063 whole: reference affine not recoverable (NCC 0.946), skipped
+slice 065 whole      Dice reference 0.948 ours 0.948  distance to reference mean 1.54 mm (max 4.35; coarse 4.36)  7.6s
+slice 066 whole      Dice reference 0.948 ours 0.952  distance to reference mean 2.22 mm (max 5.67; coarse 3.10)  7.6s
+slice 067 cerebrum   Dice reference 0.962 ours 0.967  distance to reference mean 2.68 mm (max 5.72; coarse 3.30)  7.6s
+slice 067 cerebellum: reference affine not recoverable (NCC 0.867), skipped
+slice 068 cerebrum: reference affine not recoverable (NCC 0.929), skipped
+slice 068 cerebellum: reference affine not recoverable (NCC 0.811), skipped
+slice 069 cerebrum: reference affine not recoverable (NCC 0.884), skipped
+slice 069 cerebellum Dice reference 0.905 ours 0.905  distance to reference mean 2.17 mm (max 4.92; coarse 2.36)  7.5s
+slice 070 cerebrum   Dice reference 0.959 ours 0.963  distance to reference mean 2.62 mm (max 5.61; coarse 4.41)  7.6s
+slice 070 cerebellum: reference affine not recoverable (NCC 0.914), skipped
+slice 072 cerebrum: reference affine not recoverable (NCC 0.941), skipped
+slice 072 cerebellum: reference affine not recoverable (NCC 0.919), skipped
+slice 073 cerebrum   Dice reference 0.974 ours 0.974  distance to reference mean 0.93 mm (max 2.03; coarse 1.96)  7.5s
+slice 073 cerebellum: reference affine not recoverable (NCC 0.898), skipped
+slice 074 cerebrum: reference affine not recoverable (NCC 0.936), skipped
+slice 074 cerebellum: reference affine not recoverable (NCC 0.858), skipped
+slice 075 cerebrum   Dice reference 0.969 ours 0.971  distance to reference mean 1.97 mm (max 4.57; coarse 1.85)  7.5s
+slice 075 cerebellum: reference affine not recoverable (NCC 0.932), skipped
+slice 076 cerebrum   Dice reference 0.965 ours 0.967  distance to reference mean 1.90 mm (max 4.23; coarse 1.33)  7.5s
+slice 076 cerebellum Dice reference 0.939 ours 0.945  distance to reference mean 2.46 mm (max 3.32; coarse 1.86)  7.4s
+slice 078 cerebrum   Dice reference 0.970 ours 0.969  distance to reference mean 1.86 mm (max 4.18; coarse 3.55)  7.5s
+slice 078 cerebellum Dice reference 0.931 ours 0.935  distance to reference mean 2.24 mm (max 4.14; coarse 3.47)  7.4s
+slice 079 cerebrum   Dice reference 0.974 ours 0.973  distance to reference mean 1.43 mm (max 2.48; coarse 4.45)  7.5s
+slice 079 cerebellum: reference affine not recoverable (NCC 0.944), skipped
+slice 080 cerebrum: reference affine not recoverable (NCC 0.883), skipped
+slice 080 cerebellum: reference affine not recoverable (NCC 0.826), skipped
+slice 081 cerebrum   Dice reference 0.977 ours 0.978  distance to reference mean 1.00 mm (max 2.26; coarse 3.03)  7.5s
+slice 081 cerebellum: reference affine not recoverable (NCC 0.782), skipped
+slice 082 cerebrum   Dice reference 0.977 ours 0.977  distance to reference mean 1.14 mm (max 2.66; coarse 3.45)  7.5s
+slice 082 cerebellum: reference affine not recoverable (NCC 0.736), skipped
+slice 084 cerebrum   Dice reference 0.967 ours 0.972  distance to reference mean 2.35 mm (max 4.20; coarse 3.27)  7.5s
+slice 084 cerebellum Dice reference 0.961 ours 0.957  distance to reference mean 1.76 mm (max 3.95; coarse 2.58)  7.4s
+slice 085 cerebrum   Dice reference 0.974 ours 0.977  distance to reference mean 1.68 mm (max 3.39; coarse 2.01)  7.5s
+slice 085 cerebellum: reference affine not recoverable (NCC 0.936), skipped
+slice 086 cerebrum   Dice reference 0.972 ours 0.974  distance to reference mean 1.40 mm (max 2.98; coarse 2.32)  7.5s
+slice 086 cerebellum Dice reference 0.957 ours 0.958  distance to reference mean 3.23 mm (max 9.08; coarse 2.70)  7.4s
+slice 087 cerebrum   Dice reference 0.974 ours 0.979  distance to reference mean 1.70 mm (max 3.28; coarse 1.63)  7.5s
+slice 087 cerebellum: reference affine not recoverable (NCC 0.856), skipped
+slice 089 cerebrum: reference affine not recoverable (NCC 0.922), skipped
+slice 089 cerebellum: reference affine not recoverable (NCC 0.463), skipped
+slice 090 cerebrum   Dice reference 0.961 ours 0.963  distance to reference mean 1.73 mm (max 3.71; coarse 2.83)  7.5s
+slice 090 cerebellum: reference affine not recoverable (NCC 0.665), skipped
+slice 091 cerebrum   Dice reference 0.962 ours 0.971  distance to reference mean 3.85 mm (max 7.28; coarse 4.33)  7.5s
+slice 091 cerebellum: reference affine not recoverable (NCC 0.774), skipped
+slice 093 cerebrum   Dice reference 0.973 ours 0.977  distance to reference mean 2.46 mm (max 10.32; coarse 2.97)  7.5s
+slice 093 cerebellum: reference affine not recoverable (NCC 0.842), skipped
+slice 094 cerebrum   Dice reference 0.972 ours 0.978  distance to reference mean 2.04 mm (max 4.93; coarse 1.92)  7.5s
+slice 094 cerebellum Dice reference 0.942 ours 0.957  distance to reference mean 5.68 mm (max 10.18; coarse 5.89)  7.4s
+slice 095 cerebrum   Dice reference 0.971 ours 0.978  distance to reference mean 1.87 mm (max 4.12; coarse 2.13)  7.5s
+slice 095 cerebellum: reference affine not recoverable (NCC 0.660), skipped
+slice 096 cerebrum   Dice reference 0.974 ours 0.978  distance to reference mean 1.20 mm (max 2.94; coarse 2.42)  7.5s
+slice 096 cerebellum Dice reference 0.953 ours 0.964  distance to reference mean 4.70 mm (max 8.48; coarse 4.94)  7.4s
+slice 097 cerebrum   Dice reference 0.967 ours 0.974  distance to reference mean 2.35 mm (max 4.91; coarse 3.66)  7.4s
+slice 097 cerebellum: reference affine not recoverable (NCC 0.707), skipped
+slice 098 cerebrum   Dice reference 0.968 ours 0.973  distance to reference mean 1.54 mm (max 3.89; coarse 2.76)  7.4s
+slice 098 cerebellum Dice reference 0.959 ours 0.959  distance to reference mean 3.71 mm (max 9.96; coarse 3.62)  7.4s
+slice 099 cerebrum   Dice reference 0.969 ours 0.978  distance to reference mean 2.62 mm (max 5.90; coarse 3.32)  7.4s
+slice 099 cerebellum: reference affine not recoverable (NCC 0.872), skipped
+slice 100 cerebrum   Dice reference 0.961 ours 0.966  distance to reference mean 2.18 mm (max 4.51; coarse 4.46)  7.4s
+slice 100 cerebellum Dice reference 0.957 ours 0.966  distance to reference mean 3.44 mm (max 7.03; coarse 3.19)  7.4s
+slice 101 cerebrum   Dice reference 0.947 ours 0.952  distance to reference mean 2.55 mm (max 6.25; coarse 4.40)  7.4s
+slice 101 cerebellum: reference affine not recoverable (NCC 0.835), skipped
+slice 102 cerebrum   Dice reference 0.948 ours 0.953  distance to reference mean 4.77 mm (max 9.86; coarse 4.08)  7.4s
+slice 102 cerebellum: reference affine not recoverable (NCC 0.893), skipped
+slice 104 cerebrum   Dice reference 0.925 ours 0.943  distance to reference mean 8.32 mm (max 10.13; coarse 9.64)  7.4s
+slice 104 cerebellum: reference affine not recoverable (NCC 0.688), skipped
+slice 105 cerebrum   Dice reference 0.906 ours 0.941  distance to reference mean 8.74 mm (max 13.49; coarse 10.12)  7.4s
+slice 105 cerebellum: reference affine not recoverable (NCC 0.483), skipped
+slice 106 cerebrum: reference affine not recoverable (NCC 0.715), skipped
+slice 106 cerebellum: reference affine not recoverable (NCC 0.885), skipped
+
+all: n=92  distance to reference: median of per-slice means 2.54 mm, <1 mm 2%, <2 mm 29%; Dice ours 0.966 vs reference 0.961; ours better Dice on 91%
+
+trusted reference (Dice >= 0.9): n=92  distance to reference: median of per-slice means 2.54 mm, <1 mm 2%, <2 mm 29%; Dice ours 0.966 vs reference 0.961; ours better Dice on 91%
